@@ -1,0 +1,190 @@
+﻿Compound_Name,CAS_Number,SMILES,Predicted_pT,Predicted_ODT_mg_L,Experimental_pT,Experimental_ODT_mg_L,Abs_Delta_pT,Evaluation,Dataset_Role
+5-Hydroxydodecanoic acid lactone,713-95-1,CCCCCCCC1CCCC(=O)O1,5.23 ,0.00589822 ,5.23 ,0.00588000 ,0.00 ,Satisfactory,External_Validation
+Fenchyl alcohol,1632-73-1,CC1(C2CCC(C2)(C1O)C)C,3.15 ,0.70891285 ,3.15 ,0.71420000 ,0.00 ,Satisfactory,External_Validation
+Ethyl 3-cyclohexene-1-carboxylate,15111-56-5,CCOC(=O)C1CC=CCC1,8.39 ,0.00000406 ,8.40 ,0.00000400 ,0.01 ,Satisfactory,External_Validation
+4-Propylphenol,645-56-7,CCCC1=CC=C(C=C1)O,3.27 ,0.53926468 ,3.27 ,0.53130000 ,0.01 ,Satisfactory,External_Validation
+2-Methylbutanal,96-17-3,CCC(C)C=O,3.45 ,0.35408813 ,3.44 ,0.36070000 ,0.01 ,Satisfactory,External_Validation
+5-Methyl-2-nitrophenol,700-38-9,CC1=CC(=C(C=C1)[N+](=O)[O-])O,2.93 ,1.16530061 ,2.95 ,1.11470000 ,0.02 ,Satisfactory,External_Validation
+"3,3-Dimethyl-1-butanol",624-95-3,CC(C)(C)CCO,2.74 ,1.80690813 ,2.72 ,1.89240000 ,0.02 ,Satisfactory,External_Validation
+4-Hydroxyheptanoic acid lactone,105-21-5,CCCC1CCC(=O)O1,4.73 ,0.01855477 ,4.75 ,0.01770000 ,0.02 ,Satisfactory,External_Validation
+"3,4-Dibromoanisole",62415-74-1,COC1=CC(=C(C=C1)Br)Br,6.85 ,0.00014165 ,6.83 ,0.00014897 ,0.02 ,Satisfactory,External_Validation
+1-Bromo-3-chloro-5-methoxybenzene,174913-12-3,COC1=CC(=CC(=C1)Br)Cl,6.85 ,0.00014203 ,6.82 ,0.00014968 ,0.02 ,Satisfactory,External_Validation
+4-Methoxybenzyl alcohol,105-13-5,COC1=CC=C(C=C1)CO,3.44 ,0.36574551 ,3.48 ,0.33390000 ,0.04 ,Satisfactory,External_Validation
+2-Undecanol,1653-30-1,CCCCCCCCCC(C)O,3.66 ,0.21835005 ,3.70 ,0.19910000 ,0.04 ,Satisfactory,External_Validation
+Ethenylbenzene,100-42-5,C=CC1=CC=CC=C1,3.09 ,0.81994820 ,3.13 ,0.74730000 ,0.04 ,Satisfactory,External_Validation
+Ethyl 2-phenylacetate,101-97-3,CCOC(=O)CC1=CC=CC=C1,5.52 ,0.00301240 ,5.47 ,0.00340000 ,0.05 ,Satisfactory,External_Validation
+Pentyl butanoate,540-18-1,CCCCCOC(=O)CCC,4.02 ,0.09493399 ,4.08 ,0.08360000 ,0.06 ,Satisfactory,External_Validation
+Heptyl acetate,112-06-1,CCCCCCCOC(=O)C,4.21 ,0.06217023 ,4.26 ,0.05440000 ,0.06 ,Satisfactory,External_Validation
+2-Octyl acetate,103-09-3,CCCCC(CC)COC(=O)C,4.59 ,0.02584797 ,4.65 ,0.02250000 ,0.06 ,Satisfactory,External_Validation
+5-Isopropenyl-2-methyl-1-cyclohexanone,7764-50-3,CC1CCC(CC1=O)C(=C)C,3.65 ,0.22234325 ,3.59 ,0.25560000 ,0.06 ,Satisfactory,External_Validation
+2-Methoxy-2-methylpropane,1634-04-4,CC(C)(C)OC,3.05 ,0.89890820 ,3.11 ,0.77190000 ,0.07 ,Satisfactory,External_Validation
+2-Formyl-1-methylpyrrole,1192-58-1,CN1C=CC=C1C=O,2.74 ,1.81560063 ,2.81 ,1.55030000 ,0.07 ,Satisfactory,External_Validation
+2-Ethoxy-2-methylpropane,637-92-3,CCOC(C)(C)C,3.75 ,0.17730427 ,3.82 ,0.15130000 ,0.07 ,Satisfactory,External_Validation
+6-Pentyl-2-pyrone,27593-23-3,CCCCCC1=CC=CC(=O)O1,4.82 ,0.01504100 ,4.75 ,0.01770000 ,0.07 ,Satisfactory,External_Validation
+"2,2-Dimethylpropanal",630-19-3,CC(C)(C)C=O,2.89 ,1.28695142 ,2.82 ,1.51680000 ,0.07 ,Satisfactory,External_Validation
+"2,3-Butanediol",24347-58-8,CC(C(C)O)O,1.44 ,36.47440720 ,1.51 ,30.93460000 ,0.07 ,Satisfactory,External_Validation
+1-Methylpyrrolidine,120-94-5,CN1CCCC1,2.25 ,5.60144186 ,2.18 ,6.61810000 ,0.07 ,Satisfactory,External_Validation
+Hexyl propanoate,2445-76-3,CCCCCCOC(=O)CC,4.02 ,0.09501314 ,3.95 ,0.11230000 ,0.07 ,Satisfactory,External_Validation
+Cyclododecanone,830-13-7,C1CCCCCC(=O)CCCCC1,4.50 ,0.03153063 ,4.58 ,0.02620000 ,0.08 ,Satisfactory,External_Validation
+5-Undecanol,37493-70-2,CCCCCCC(CCCC)O,3.70 ,0.19729516 ,3.62 ,0.23800000 ,0.08 ,Satisfactory,External_Validation
+Benzyl benzoate,120-51-4,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2,4.56 ,0.02780411 ,4.47 ,0.03370000 ,0.08 ,Satisfactory,External_Validation
+Ethyl salicylate,118-61-6,CCOC(=O)C1=CC=CC=C1O,2.76 ,1.75379169 ,2.85 ,1.42030000 ,0.09 ,Satisfactory,External_Validation
+Nerolidol,7212-44-4,CC(=CCCC(=CCCC(C)(C=C)O)C)C,3.57 ,0.27192804 ,3.67 ,0.21490000 ,0.10 ,Satisfactory,External_Validation
+Isopropylbenzene,98-82-8,CC(C)C1=CC=CC=C1,3.30 ,0.50420719 ,3.19 ,0.63860000 ,0.10 ,Satisfactory,External_Validation
+(Z)-3-Hexenyl butanoate,16491-36-4,CCCC(=O)OCCC=CCC,4.74 ,0.01837048 ,4.63 ,0.02340000 ,0.11 ,Satisfactory,External_Validation
+δ-Octalactone,698-76-0,CCCC1CCCC(=O)O1,4.20 ,0.06257261 ,4.32 ,0.04810000 ,0.11 ,Satisfactory,External_Validation
+Methyl octanoate,111-11-5,CCCCCCCC(=O)OC,4.61 ,0.02436409 ,4.74 ,0.01840000 ,0.12 ,Satisfactory,External_Validation
+3-Undecanol,6929-08-4,CCCCCCCCC(CC)O,3.71 ,0.19344284 ,3.59 ,0.25660000 ,0.12 ,Satisfactory,External_Validation
+"2,5-Dimethylbenzaldehyde",5779-94-2,CC1=CC(=C(C=C1)C)C=O,4.61 ,0.02472053 ,4.74 ,0.01810000 ,0.14 ,Satisfactory,External_Validation
+"2-Ethyl-3,5-dimethylpyrazine",13925-07-0,CCC1=NC=C(N=C1C)C,4.55 ,0.02796192 ,4.41 ,0.03890000 ,0.14 ,Satisfactory,External_Validation
+Isopropyl 2-methylpropanoate,617-50-5,CC(C)C(=O)OC(C)C,6.00 ,0.00100157 ,5.85 ,0.00140000 ,0.15 ,Satisfactory,External_Validation
+Ethyl 3-methyl-2-butenoate,638-10-8,CCOC(=O)C=C(C)C,5.10 ,0.00803353 ,5.24 ,0.00574600 ,0.15 ,Satisfactory,External_Validation
+2-(Ethylthio)ethanol,110-77-0,CCSCCO,4.08 ,0.08375529 ,4.22 ,0.05966000 ,0.15 ,Satisfactory,External_Validation
+Isobutylbenzene,538-93-2,CC(C)CC1=CC=CC=C1,3.54 ,0.28987890 ,3.39 ,0.40860000 ,0.15 ,Satisfactory,External_Validation
+1-(4-Methoxyphenyl)-2-propanone,122-84-9,CC(=O)CC1=CC=C(C=C1)OC,4.72 ,0.01916572 ,4.57 ,0.02710000 ,0.15 ,Satisfactory,External_Validation
+Isopentyl benzoate,94-46-2,CC(C)CCOC(=O)C1=CC=CC=C1,5.38 ,0.00419057 ,5.23 ,0.00595000 ,0.15 ,Satisfactory,External_Validation
+trans-2-Hexenyl acetate,2497-18-9,CCCC=CCOC(=O)C,5.06 ,0.00872552 ,5.22 ,0.00600000 ,0.16 ,Satisfactory,External_Validation
+2-Methyl-5-nitrophenol,5428-54-6,CC1=C(C=C(C=C1)[N+](=O)[O-])O,2.65 ,2.24862242 ,2.48 ,3.28310000 ,0.16 ,Satisfactory,External_Validation
+"3,7-Dimethyl-(E)-1,6-octadien-1-yl formate",105-86-2,CC(=CCCC(=CCOC=O)C)C,5.21 ,0.00612494 ,5.05 ,0.00900000 ,0.17 ,Satisfactory,External_Validation
+2-Ethylfuran,3208-16-0,CCC1=CC=CO1,2.83 ,1.48413610 ,2.66 ,2.19540000 ,0.17 ,Satisfactory,External_Validation
+Pentanal,110-62-3,CCCCC=O,3.37 ,0.42725250 ,3.54 ,0.28870000 ,0.17 ,Satisfactory,External_Validation
+Isopentyl 2-methylbutanoate,27625-35-0,CCC(C)C(=O)OCCC(C)C,5.11 ,0.00769576 ,5.28 ,0.00520000 ,0.17 ,Satisfactory,External_Validation
+2-tert-Butyl-4-methylphenol,2409-55-4,CC1=CC(=C(C=C1)O)C(C)(C)C,3.20 ,0.62420732 ,3.38 ,0.41250000 ,0.18 ,Satisfactory,External_Validation
+(4-Isopropenyl-1-cyclohexenyl)methanol,536-59-4,CC(=C)C1CCC(=CC1)CO,3.75 ,0.17661493 ,3.57 ,0.26780000 ,0.18 ,Satisfactory,External_Validation
+2-Nonanol,628-99-9,CCCCCCCC(C)O,3.58 ,0.26390451 ,3.39 ,0.40410000 ,0.19 ,Satisfactory,External_Validation
+Tetramethylpyrazine,1124-11-4,CC1=C(N=C(C(=N1)C)C)C,4.10 ,0.07874691 ,3.92 ,0.12080000 ,0.19 ,Satisfactory,External_Validation
+"3,5-Dimethyl-1,2-cyclopentadione",13494-07-0,CC1CC(C(=O)C1=O)C,4.32 ,0.04769784 ,4.51 ,0.03080000 ,0.19 ,Satisfactory,External_Validation
+Limonene epoxide,1195-92-2,CC(=C)C1CCC2(C(C1)O2)C,5.39 ,0.00405892 ,5.20 ,0.00630000 ,0.19 ,Satisfactory,External_Validation
+2-Methyl-3-pentanone,565-69-5,CCC(=O)C(C)C,4.26 ,0.05513173 ,4.07 ,0.08600000 ,0.19 ,Satisfactory,External_Validation
+Propyl 4-hydroxybenzoate,94-13-3,CCCOC(=O)C1=CC=C(C=C1)O,3.06 ,0.86661345 ,2.86 ,1.36640000 ,0.20 ,Satisfactory,External_Validation
+Methyl butanoate,623-42-7,CCCC(=O)OC,3.04 ,0.90350431 ,3.24 ,0.57140000 ,0.20 ,Satisfactory,External_Validation
+3-Undecanone,2216-87-7,CCCCCCCCC(=O)CC,4.38 ,0.04182938 ,4.18 ,0.06641000 ,0.20 ,Satisfactory,External_Validation
+2-Ethyl 3-methyl pyrazine,15707-23-0,CCC1=NC=CN=C1C,4.27 ,0.05324891 ,4.06 ,0.08660000 ,0.21 ,Satisfactory,External_Validation
+4'-Aminoacetophenone,99-92-3,CC(=O)C1=CC=C(C=C1)N,3.00 ,1.00902462 ,2.77 ,1.68570000 ,0.22 ,Satisfactory,External_Validation
+(E)-2-Nonen-1-ol,31502-14-4,CCCCCCC=CCO,4.79 ,0.01618756 ,5.02 ,0.00950000 ,0.23 ,Satisfactory,External_Validation
+2-Methylhept-2-en-6-one,110-93-0,CC(=CCCC(=O)C)C,5.00 ,0.01010365 ,4.76 ,0.01730000 ,0.23 ,Satisfactory,External_Validation
+6-Undecanol,23708-56-7,CCCCCC(CCCCC)O,3.54 ,0.29025200 ,3.30 ,0.49866000 ,0.24 ,Satisfactory,External_Validation
+Heptyl cyanide,124-12-9,CCCCCCCC#N,3.67 ,0.21620730 ,3.43 ,0.37440000 ,0.24 ,Satisfactory,External_Validation
+2'-Aminoacetophenone,551-93-9,CC(=O)C1=CC=CC=C1N,3.28 ,0.52656502 ,3.52 ,0.30150000 ,0.24 ,Satisfactory,External_Validation
+"2,4,5-Trimethyl thiazole",13623-11-5,CC1=C(SC(=N1)C)C,5.89 ,0.00130120 ,5.64 ,0.00230000 ,0.25 ,Satisfactory,External_Validation
+3-Phenyl-2-propen-1-yl acetate,103-54-8,CC(=O)OCC=CC1=CC=CC=C1,4.29 ,0.05075671 ,4.55 ,0.02820000 ,0.26 ,Satisfactory,External_Validation
+3-Heptanol,589-82-2,CCCCC(CC)O,3.40 ,0.39552933 ,3.14 ,0.71720000 ,0.26 ,Satisfactory,External_Validation
+2-Ethylhexyl 2-methyl-2-propenoate,688-84-6,CCCCC(CC)COC(=O)C(=C)C,5.05 ,0.00882666 ,4.79 ,0.01620000 ,0.26 ,Satisfactory,External_Validation
+Benzyl salicylate,118-58-1,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O,2.27 ,5.33285713 ,2.54 ,2.86110000 ,0.27 ,Satisfactory,External_Validation
+4-Methylthiazole,693-95-8,CC1=CSC=N1,4.22 ,0.06032040 ,3.95 ,0.11330000 ,0.27 ,Satisfactory,External_Validation
+Methyl decanoate,110-42-9,CCCCCCCCCC(=O)OC,4.21 ,0.06176499 ,3.92 ,0.11950000 ,0.29 ,Satisfactory,External_Validation
+Isopentyl octanoate,2035-99-6,CCCCCCCC(=O)OCCC(C)C,4.47 ,0.03407856 ,4.18 ,0.06630000 ,0.29 ,Satisfactory,External_Validation
+Butyl butanoate,109-21-7,CCCCOC(=O)CCC,4.97 ,0.01073326 ,4.66 ,0.02170000 ,0.31 ,Satisfactory,External_Validation
+"3,7-Dimethyl-(E)-2,6-octadien-1-yl 2-methylpropanoate",2345-26-8,CC(C)C(=O)OCC=C(C)CCC=C(C)C,4.86 ,0.01373008 ,4.56 ,0.02780000 ,0.31 ,Satisfactory,External_Validation
+"4,5-Dimethylthiazole",3581-91-7,CC1=C(SC=N1)C,4.92 ,0.01201975 ,4.61 ,0.02460000 ,0.31 ,Satisfactory,External_Validation
+Butyl 2-methyl-2-propenoate,97-88-1,CCCCOC(=O)C(=C)C,5.69 ,0.00202771 ,6.01 ,0.00097000 ,0.32 ,Satisfactory,External_Validation
+Bicyclo[4.4.0]decane,91-17-8,C1CCC2CCCCC2C1,2.78 ,1.67385995 ,3.11 ,0.78410000 ,0.33 ,Satisfactory,External_Validation
+"2,6-Di-tert-butylphenol",128-39-2,CC(C)(C)C1=C(C(=CC=C1)C(C)(C)C)O,3.13 ,0.73816925 ,3.46 ,0.34430000 ,0.33 ,Satisfactory,External_Validation
+"Pentane-2,3-dione",123-54-6,CC(=O)CC(=O)C,2.45 ,3.54266024 ,2.11 ,7.73360000 ,0.34 ,Satisfactory,External_Validation
+"(E)-1,2-Dimethoxy-4-(1-propenyl)benzene",93-16-3,CC=CC1=CC(=C(C=C1)OC)OC,3.83 ,0.14722995 ,3.47 ,0.33620000 ,0.36 ,Satisfactory,External_Validation
+"3a,4,7,7a-Tetrahydro-4,7-methanoindene",77-73-6,C1C=CC2C1C3CC2C=C3,3.97 ,0.10742421 ,4.33 ,0.04690000 ,0.36 ,Satisfactory,External_Validation
+3-tert-Butylphenol,585-34-2,CC(C)(C)C1=CC(=CC=C1)O,3.02 ,0.95266974 ,3.38 ,0.41270000 ,0.36 ,Satisfactory,External_Validation
+3-Methylanisole,100-84-5,CC1=CC(=CC=C1)OC,4.27 ,0.05347131 ,4.66 ,0.02200000 ,0.39 ,Satisfactory,External_Validation
+4-Heptanone,123-19-3,CCCC(=O)CCC,4.02 ,0.09646711 ,3.63 ,0.23680000 ,0.39 ,Satisfactory,External_Validation
+2-Hydroxybenzaldehyde,90-02-8,C1=CC=C(C(=C1)C=O)O,2.66 ,2.18299103 ,2.25 ,5.57560000 ,0.41 ,Satisfactory,External_Validation
+2-Octanol,123-96-6,CCCCCCC(C)O,3.38 ,0.41603070 ,3.80 ,0.15960000 ,0.42 ,Satisfactory,External_Validation
+2-Propylphenol,644-35-9,CCCC1=CC=CC=C1O,3.55 ,0.27897635 ,3.97 ,0.10620000 ,0.42 ,Satisfactory,External_Validation
+"1,1-Diethoxyethane",105-57-7,CCOC(C)OCC,3.26 ,0.55084968 ,3.68 ,0.20700000 ,0.43 ,Satisfactory,External_Validation
+2-Propenylthio-2-propene,592-88-1,C=CCSCC=C,6.28 ,0.00052489 ,5.85 ,0.00140000 ,0.43 ,Satisfactory,External_Validation
+"(2,2-Dimethoxyethyl)benzene",101-48-4,COC(CC1=CC=CC=C1)OC,3.53 ,0.29477441 ,3.10 ,0.79440000 ,0.43 ,Satisfactory,External_Validation
+"2,4,5-Trimethyloxazole",20662-84-4,CC1=C(OC(=N1)C)C,3.03 ,0.94009441 ,3.46 ,0.34641000 ,0.43 ,Satisfactory,External_Validation
+"2,3-Pentadione",600-14-6,CCC(=O)C(=O)C,3.27 ,0.54014319 ,3.70 ,0.19820000 ,0.44 ,Satisfactory,External_Validation
+Acenaphthene,83-32-9,C1CC2=CC=CC3=C2C1=CC=C3,4.83 ,0.01489802 ,4.39 ,0.04120000 ,0.44 ,Satisfactory,External_Validation
+3-(Ethylamino)-4-methylphenol,120-37-6,CCNC1=C(C=CC(=C1)O)C,3.48 ,0.33195141 ,3.02 ,0.95580000 ,0.46 ,Satisfactory,External_Validation
+Ethyl 2-propenoate,140-88-5,CCOC(=O)C=C,3.29 ,0.51389658 ,3.75 ,0.17600000 ,0.47 ,Satisfactory,External_Validation
+5-Methyl-2-hexanone,110-12-3,CC(C)CCC(=O)C,4.23 ,0.05871006 ,3.76 ,0.17190000 ,0.47 ,Satisfactory,External_Validation
+α-Terpinene,99-86-5,CC1=CC=C(CC1)C(C)C,3.65 ,0.22395073 ,3.18 ,0.66395000 ,0.47 ,Satisfactory,External_Validation
+2-Ethyl-1-butanol,97-95-0,CCC(CC)CO,2.98 ,1.04734290 ,2.51 ,3.11480000 ,0.47 ,Satisfactory,External_Validation
+Methyl salicylate,119-36-8,COC(=O)C1=CC=CC=C1O,2.73 ,1.84211290 ,2.25 ,5.64520000 ,0.49 ,Satisfactory,External_Validation
+2-(Methylthio)ethanol,5271-38-5,CSCCO,2.34 ,4.56449366 ,2.84 ,1.43700000 ,0.50 ,Satisfactory,External_Validation
+"2,2-Diisopropyl-1,3-dioxolane",4421-10-7,CC(C)C1(OCCO1)C(C)C,3.61 ,0.24435890 ,4.12 ,0.07590000 ,0.51 ,Satisfactory,External_Validation
+3-Pentanone,96-22-0,CCC(=O)CC,2.94 ,1.15311396 ,2.43 ,3.73730000 ,0.51 ,Satisfactory,External_Validation
+Methyl 2-aminobenzoate,134-20-3,COC(=O)C1=CC=CC=C1N,3.23 ,0.58356911 ,3.75 ,0.17960000 ,0.51 ,Satisfactory,External_Validation
+"2,3-Diethyl-5-methylpyrazine",18138-04-0,CCC1=NC=C(N=C1CC)C,4.19 ,0.06498153 ,4.70 ,0.01980000 ,0.52 ,Satisfactory,External_Validation
+Raspberry ketone,5471-51-2,CC(=O)CCC1=CC=C(C=C1)O,2.59 ,2.56036758 ,3.11 ,0.77840000 ,0.52 ,Satisfactory,External_Validation
+3-Methylpentanoic acid,105-43-1,CCC(C)CC(=O)O,2.50 ,3.17593670 ,3.03 ,0.93970000 ,0.53 ,Satisfactory,External_Validation
+2-Methoxyphenol,90-05-1,COC1=CC=CC=C1O,3.92 ,0.12113113 ,4.46 ,0.03490000 ,0.54 ,Satisfactory,External_Validation
+Butyl cyanide,110-59-8,CCCCC#N,2.89 ,1.27353179 ,2.35 ,4.43060000 ,0.54 ,Satisfactory,External_Validation
+Isopropyl butanoate,638-11-9,CCCC(=O)OC(C)C,5.20 ,0.00635507 ,5.74 ,0.00180000 ,0.55 ,Satisfactory,External_Validation
+2-Heptanol,543-49-7,CCCCCC(C)O,3.28 ,0.52300847 ,3.84 ,0.14570000 ,0.56 ,Satisfactory,External_Validation
+2-Methoxy-4-(1-propenyl)phenol,97-54-1,CC=CC1=CC(=C(C=C1)O)OC,4.02 ,0.09647273 ,4.58 ,0.02640000 ,0.56 ,Satisfactory,External_Validation
+Methyl methanethiosulphonate,2949-92-0,CSS(C)(=O)=O,4.45 ,0.03566132 ,5.03 ,0.00930000 ,0.58 ,Satisfactory,External_Validation
+"N,N-Diethylmethylamine",616-39-7,CCN(C)CC,2.71 ,1.94520223 ,3.30 ,0.50540000 ,0.59 ,Satisfactory,External_Validation
+2-tert-Butylphenol,88-18-6,CC(C)(C)C1=CC=CC=C1O,3.13 ,0.74125797 ,3.72 ,0.19245000 ,0.59 ,Satisfactory,External_Validation
+Cyclooctanone,502-49-8,C1CCCC(=O)CCC1,3.69 ,0.20184687 ,3.11 ,0.78284000 ,0.59 ,Satisfactory,External_Validation
+4-Ethyloctanoic acid,16493-80-4,CCCCC(CC)CCC(=O)O,2.21 ,6.17062902 ,2.80 ,1.58240000 ,0.59 ,Satisfactory,External_Validation
+Ethyl cyclopropanecarboxylate,4606-07-9,CCOC(=O)C1CC1,6.23 ,0.00058248 ,5.64 ,0.00230900 ,0.60 ,Satisfactory,External_Validation
+Dimethyldithiophosphoric acid,756-80-9,COP(=S)(OC)S,5.79 ,0.00163815 ,5.18 ,0.00660000 ,0.61 ,Satisfactory,External_Validation
+Butanal,123-72-8,CCCC=O,2.38 ,4.14283514 ,2.99 ,1.02640000 ,0.61 ,Satisfactory,External_Validation
+"3,7-Dimethyl-1,6-octadien-3-yl acetate",115-95-7,CC(=CCCC(C)(C=C)OC(=O)C)C,4.59 ,0.02550382 ,5.20 ,0.00630000 ,0.61 ,Satisfactory,External_Validation
+2-Aminobenzaldehyde,529-23-7,C1=CC=C(C(=C1)C=O)N,3.02 ,0.95666391 ,3.69 ,0.20270000 ,0.67 ,Satisfactory,External_Validation
+2-Mercaptobenzothiazole,149-30-4,C1=CC=C2C(=C1)NC(=S)S2,4.82 ,0.01522021 ,4.13 ,0.07350000 ,0.68 ,Satisfactory,External_Validation
+"2,5-Dimethyl-4-methoxy-3(2H)-furanone",3658-77-3,CC1C(=O)C(=C(O1)C)O,3.00 ,0.99478024 ,3.69 ,0.20530000 ,0.69 ,Satisfactory,External_Validation
+2-Decanol,1120-06-5,CCCCCCCCC(C)O,3.62 ,0.24177514 ,4.32 ,0.04840000 ,0.70 ,Satisfactory,External_Validation
+"3,7-Dimethyl-6-octen-1-yl acetate",150-84-5,CC(CCC=C(C)C)CCOC(=O)C,4.74 ,0.01827127 ,4.03 ,0.09440000 ,0.71 ,Satisfactory,External_Validation
+"[1R-(1R*,4R*,6R*,10S*)]-4,12,12-Trimethyl-9-methylene-5-oxatricyclo[8.2.04,6]dodecane",1139-30-6,CC1(CC2C1CCC3(C(O3)CCC2=C)C)C,6.08 ,0.00082371 ,5.37 ,0.00430000 ,0.72 ,Satisfactory,External_Validation
+"3,7-Dimethyl-2,6-octadienal",5392-40-5,CC(=CCCC(=CC=O)C)C,5.49 ,0.00325132 ,6.22 ,0.00060900 ,0.73 ,Satisfactory,External_Validation
+Undecyl cyanide,2437-25-4,CCCCCCCCCCCC#N,3.08 ,0.83014679 ,3.81 ,0.15390000 ,0.73 ,Satisfactory,External_Validation
+1-Hydroxytricyclo[3.3.1.1(3.7)]decane,768-95-6,C1C2CC3CC1CC(C2)(C3)O,3.02 ,0.96309322 ,3.75 ,0.17760000 ,0.73 ,Satisfactory,External_Validation
+"Cyclo-1,3-ethylenedioxy-1,3-tridecanedione",105-95-3,C1CCCCCC(=O)OCCOC(=O)CCCCC1,3.29 ,0.50730550 ,2.56 ,2.77130000 ,0.74 ,Satisfactory,External_Validation
+"1-Bromo-2,5-dichloro-4-methoxybenzene",55026-90-9,COC1=CC(=C(C=C1Cl)Br)Cl,8.25 ,0.00000568 ,9.00 ,0.00000101 ,0.75 ,Satisfactory,External_Validation
+"4-Bromo-2,6-dichloroanisole",19240-91-6,COC1=C(C=C(C=C1Cl)Br)Cl,8.43 ,0.00000375 ,9.18 ,0.00000066 ,0.76 ,Satisfactory,External_Validation
+Pentyl cyanide,628-73-9,CCCCCC#N,2.96 ,1.09696341 ,2.19 ,6.52190000 ,0.77 ,Satisfactory,External_Validation
+Methyl 3-(methylthio)propanoate,13532-18-8,COC(=O)CCSC,5.08 ,0.00827977 ,4.28 ,0.05190000 ,0.80 ,Satisfactory,External_Validation
+Isobutyl 2-methylbutanoate,2445-67-2,CCC(C)C(=O)OCC(C)C,5.50 ,0.00313192 ,4.68 ,0.02080000 ,0.82 ,Satisfactory,External_Validation
+2-Ethyl-3-(methylthio)pyrazine,21948-70-9,CSC1=NC=CN=C1,5.17 ,0.00670971 ,6.00 ,0.00100000 ,0.83 ,Satisfactory,External_Validation
+Phenanthrene,85-01-8,C1=CC=C2C(=C1)C=CC3=CC=CC=C32,4.23 ,0.05824483 ,3.38 ,0.41590000 ,0.85 ,Satisfactory,External_Validation
+1-Octene,111-66-0,CCCCCCC=C,2.53 ,2.95056152 ,3.40 ,0.39940000 ,0.87 ,Satisfactory,External_Validation
+"Ethyl (E,Z)-2,4-decadienoate",3025-30-7,CCCCCC=CC=CC(=O)OCC,5.25 ,0.00558319 ,4.38 ,0.04170000 ,0.87 ,Satisfactory,External_Validation
+2-Phenylethyl formate,104-62-1,C1=CC=C(C=C1)CCOC=O,4.50 ,0.03153343 ,5.38 ,0.00415000 ,0.88 ,Satisfactory,External_Validation
+1-Nitro-2-phenylethane,6125-24-2,C1=CC=C(C=C1)CC[N+](=O)[O-],4.17 ,0.06713790 ,3.29 ,0.51320000 ,0.88 ,Satisfactory,External_Validation
+tert-Butylbenzene,98-06-6,CC(C)(C)C1=CC=CC=C1,3.95 ,0.11105977 ,3.07 ,0.85450000 ,0.89 ,Satisfactory,External_Validation
+"2,2-Dimethyl-3-hexanol",4209-90-9,CCCC(C(C)(C)C)O,3.29 ,0.51368058 ,4.18 ,0.06660000 ,0.89 ,Satisfactory,External_Validation
+"2,3-Butanedione",431-03-8,CC(=O)C(=O)C,2.05 ,8.96194649 ,2.94 ,1.15830000 ,0.89 ,Satisfactory,External_Validation
+"4-Isopropyl-1-methyl-1,5-cyclohexadiene",99-83-2,CC1=CCC(C=C1)C(C)C,3.49 ,0.32191694 ,4.38 ,0.04160000 ,0.89 ,Satisfactory,External_Validation
+2-Methylhepta-2-trans-4-dien-6-one,1604-28-0,CC(=CC=CC(=O)C)C,5.62 ,0.00239423 ,4.72 ,0.01900000 ,0.90 ,Satisfactory,External_Validation
+Butanol,75-65-0,CC(C)(C)O,1.98 ,10.38946629 ,1.07 ,84.42140000 ,0.91 ,Satisfactory,External_Validation
+Methyl 5-hexenoate,2396-80-7,COC(=O)CCCC=C,5.47 ,0.00336312 ,4.54 ,0.02870000 ,0.93 ,Satisfactory,External_Validation
+2-Propenyldithio-2-propene,2179-57-9,C=CCSSCC=C,7.65 ,0.00002260 ,6.70 ,0.00020000 ,0.95 ,Satisfactory,External_Validation
+Benzyl butanoate,103-37-7,CCCC(=O)OCC1=CC=CC=C1,4.03 ,0.09259155 ,3.08 ,0.83865000 ,0.96 ,Satisfactory,External_Validation
+4-Hydroxynonanoic acid lactone,104-61-0,CCCCCC1CCC(=O)O1,4.41 ,0.03857857 ,5.39 ,0.00410000 ,0.97 ,Satisfactory,External_Validation
+(Z)-6-Nonen-1-ol,35854-86-5,CCC=CCCCCCO,4.28 ,0.05268660 ,5.26 ,0.00550000 ,0.98 ,Satisfactory,External_Validation
+2-Methyl-1-propanol,105-30-6,CCCC(C)CO,3.33 ,0.46514231 ,2.35 ,4.45840000 ,0.98 ,Satisfactory,External_Validation
+4-Ethenylphenol,2628-17-3,C=CC1=CC=C(C=C1)O,3.80 ,0.15733989 ,2.82 ,1.51630000 ,0.98 ,Satisfactory,External_Validation
+Biphenyl,92-52-4,C1=CC=C(C=C1)C2=CC=CC=C2,4.29 ,0.05173185 ,3.30 ,0.50560000 ,0.99 ,Satisfactory,External_Validation
+3-Methylcyclopentadecanone,541-91-3,CC1CCCCCCCCCCCCC(=O)C1,5.01 ,0.00974867 ,3.97 ,0.10630000 ,1.04 ,Acceptable,External_Validation
+4-Isopropylbenzaldehyde,122-03-2,CC(C)C1=CC=C(C=C1)C=O,4.64 ,0.02272892 ,3.56 ,0.27260000 ,1.08 ,Acceptable,External_Validation
+Ethyl benzoate,93-89-0,CCOC(=O)C1=CC=CC=C1,5.41 ,0.00391823 ,4.32 ,0.04760000 ,1.08 ,Acceptable,External_Validation
+2-Thiophenecarboxaldehyde,98-03-3,C1=CSC(=C1)C=O,4.91 ,0.01232320 ,3.80 ,0.15780000 ,1.11 ,Acceptable,External_Validation
+Phenylacetonitrile,58632-95-4,CC(C)(C)OC(=O)ON=C(C#N)C1=CC=CC=C1,4.87 ,0.01360206 ,6.03 ,0.00094000 ,1.16 ,Acceptable,External_Validation
+Methyl 2-propenoate,96-33-3,COC(=O)C=C,2.45 ,3.56440997 ,3.63 ,0.23310000 ,1.18 ,Acceptable,External_Validation
+Butyl 2-methylbutanoate,15706-73-7,CCCCOC(=O)C(C)CC,5.34 ,0.00454884 ,4.14 ,0.07270000 ,1.20 ,Acceptable,External_Validation
+3-Hepten-2-one,1119-44-4,CCCC=CC(=O)C,5.44 ,0.00366487 ,4.21 ,0.06178000 ,1.23 ,Acceptable,External_Validation
+"1,2-Benzothiazole",272-16-2,C1=CC=C2C(=C1)C=NS2,5.29 ,0.00511809 ,4.04 ,0.09140000 ,1.25 ,Acceptable,External_Validation
+"3,5,5-Trimethyl-2-cyclohexen-1-one",78-59-1,CC1=CC(=O)CC(C1)(C)C,4.98 ,0.01053660 ,3.65 ,0.22350000 ,1.33 ,Acceptable,External_Validation
+2-Ethoxy thiazole,15679-19-3,CCOC1=NC=CS1,5.48 ,0.00330510 ,4.14 ,0.07220000 ,1.34 ,Acceptable,External_Validation
+"8-Isopropenyl-5,6-dimethylbicyclo[4.4.0]-1-decen-3-one",4674-50-4,CC1CC(=O)C=C2C1(CC(CC2)C(=C)C)C,5.43 ,0.00368564 ,4.05 ,0.08840000 ,1.38 ,Acceptable,External_Validation
+4-(Methylthio)phenol,1073-72-9,CSC1=CC=C(C=C1)O,4.80 ,0.01575461 ,3.38 ,0.41380000 ,1.42 ,Acceptable,External_Validation
+"(1R,2R)-(-)-Methyl 3-oxo-2-(2-(Z)-pentenyl)cyclopentane-1-acetate",28588-75-2,CC1=C(C=CO1)SSC2=C(OC=C2)C,4.07 ,0.08529489 ,5.62 ,0.00240000 ,1.55 ,Acceptable,External_Validation
+5-Ethyl-4-hydroxy-2-methyl-3(2H)-furanone,27538-09-6,CCC1=C(C(=O)C(O1)C)O,3.16 ,0.68407691 ,4.82 ,0.01510000 ,1.66 ,Acceptable,External_Validation
+"1,3,5-Trichlorobenzene",108-70-3,C1=C(C=C(C=C1Cl)Cl)Cl,5.23 ,0.00586769 ,3.30 ,0.49700000 ,1.93 ,Acceptable,External_Validation
+2-(4-Methyl-3-cyclohexenyl)isopropyl acetate,80-26-2,CC1=CCC(CC1)C(C)(C)OC(=O)C,5.13 ,0.00743369 ,2.56 ,2.77130000 ,2.57 ,Large_Deviation,External_Validation
+2-(Isopropyldithio)propane,4253-89-8,CC(C)SSC(C)C,7.17 ,0.00006734 ,4.54 ,0.02900000 ,2.63 ,Large_Deviation,External_Validation
+"1,2,3,5,6-Pentathiepane",292-46-6,C1SSCSSS1,6.45 ,0.00035677 ,3.80 ,0.15720000 ,2.64 ,Large_Deviation,External_Validation
+Propyl 3-methylbutanoate,557-00-6,CCCOC(=O)CC(C)C,6.16 ,0.00069950 ,6.54 ,0.00028900 ,0.38 ,Satisfactory,Screening_Verification
+Diethyl trisulfide,3600-24-6,CCSSSCC,7.37 ,0.00004283 ,7.91 ,0.00001240 ,0.54 ,Satisfactory,Screening_Verification
+"2,6-Dodecadienal",21662-13-5,CCCCCC=CCCC=CC=O,6.78 ,0.00016576 ,7.42 ,0.00003842 ,0.63 ,Satisfactory,Screening_Verification
+2-Methoxy-3-(1-methylpropyl)pyrazine,24168-70-5,C(C)(CC)C1=NC=CN=C1OC,7.65 ,0.00002223 ,8.32 ,0.00000484 ,0.66 ,Satisfactory,Screening_Verification
+2-Methoxy-3-isobutylpyrazine,24683-00-9,C(C)(C)CC1=NC=CN=C1OC,7.51 ,0.00003098 ,8.17 ,0.00000674 ,0.66 ,Satisfactory,Screening_Verification
+Butyl 2-methylpropanoate,97-87-0,CCCCOC(=O)C(C)C,6.14 ,0.00072090 ,5.37 ,0.00430000 ,0.78 ,Satisfactory,Screening_Verification
+Dipropyl disulfide,629-19-6,CCCSSCCC,7.36 ,0.00004356 ,8.23 ,0.00000584 ,0.87 ,Satisfactory,Screening_Verification
+3-Nonen-2-one,14309-57-0,CCCCCC=CC(=O)C,7.27 ,0.00005340 ,6.30 ,0.00050000 ,0.97 ,Satisfactory,Screening_Verification
+Dipropyl trisulfide,6028-61-1,CCCSSSCCC,7.18 ,0.00006619 ,8.16 ,0.00000700 ,0.98 ,Satisfactory,Screening_Verification
+Isopropyl 2-methylbutanoate,66576-71-4,CCC(C)C(=O)OC(C)C,6.39 ,0.00040370 ,5.39 ,0.00410000 ,1.01 ,Acceptable,Screening_Verification
+2-Methylpropyl isobutyrate,97-85-8,CC(C)COC(=O)C(C)C,6.35 ,0.00044234 ,5.24 ,0.00580000 ,1.12 ,Acceptable,Screening_Verification
+Methyl propyl disulfide,2179-60-4,CCCSSC,7.39 ,0.00004078 ,8.79 ,0.00000160 ,1.41 ,Acceptable,Screening_Verification
