@@ -1,9 +1,18 @@
 # Machine Learning Prediction of Aqueous Odor Detection Thresholds
+This repository accompanies the study:
 
-This repository provides the datasets and code used for predicting aqueous odor detection thresholds (ODTs) of organic compounds using an optimized machine learning model.
+"Machine learning reveals structural determinants of odor detection thresholds and identifies high-potency food odorants"
+
+It provides the datasets and code used for predicting aqueous odor detection thresholds (ODTs) of organic compounds using an optimized machine learning model.
 
 ---
+## Summary
 
+- Dataset: 1003 compounds (aqueous ODTs)
+- Model: XGBoost
+- Test performance: R² = 0.86
+- External validation: 177 compounds, 89.3% within 10-fold deviation
+  
 ## Repository Structure
 
 ```
