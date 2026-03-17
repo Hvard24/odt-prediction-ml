@@ -11,7 +11,7 @@ It provides the datasets and code used for predicting aqueous odor detection thr
 - Dataset: 1003 compounds (aqueous ODTs)
 - Model: XGBoost
 - Test performance: R² = 0.86
-- External validation: 177 compounds, 89.3% within 10-fold deviation
+- External validation: 177 compounds, demonstrating satisfactory predictive accuracy
   
 ## Repository Structure
 
