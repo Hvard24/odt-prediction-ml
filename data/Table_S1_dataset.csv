@@ -1,1004 +1,1004 @@
-﻿Compound_Name,CAS_Number,SMILES,ODT_mg_L,pT,Skeletal_Type,Category
-Hydrogen cyanide,74-90-8,C#N,4.83,2.32,Aliphatic,Nitrogen_containing
-Tetrachloroethene,127-18-4,C(=C(Cl)Cl)(Cl)Cl,0.27,3.57,Aliphatic,Hydrocarbon
-Trichloroethene,79-01-6,C(=C(Cl)Cl)Cl,0.53,3.28,Aliphatic,Hydrocarbon
-"1,1-Dichloroethene",156-60-5,C(=CCl)Cl,1.6,2.80,Aliphatic,Hydrocarbon
-Tribromomethane,75-25-2,C(Br)(Br)Br,0.0024,5.62,Aliphatic,Hydrocarbon
-Dibromoiodomethane,593-94-2,C(Br)(Br)I,0.00465,5.33,Aliphatic,Hydrocarbon
-Bromodiiodomethane,557-95-9,C(Br)(I)I,0.00015,6.82,Aliphatic,Hydrocarbon
-"1,2-Dichlorooxoethane",79-04-9,C(C(=O)Cl)Cl,25,1.60,Aliphatic,Acid
-Hexachloroethane,67-72-1,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,0.023,4.64,Aliphatic,Hydrocarbon
-"1,5-Pentanedial",111-30-8,C(CC=O)CC=O,100,1.00,Aliphatic,Aldehyde
-"1,2-Dichloroethane",107-06-2,C(CCl)Cl,29,1.54,Aliphatic,Hydrocarbon
-"1,5-Pentanediamine",462-94-2,C(CCN)CCN,105,0.98,Aliphatic,Nitrogen_containing
-"1,4-Butanediamine",110-60-1,C(CCN)CN,21,1.68,Aliphatic,Nitrogen_containing
-"N-(3-Aminopropyl)-1,4-butanediamine",124-20-9,C(CCNCCCN)CN,129,0.89,Aliphatic,Nitrogen_containing
-"N,N'-Bis(3-aminopropyl)-1,4-butanediamine",71-44-3,C(CCNCCCN)CNCCCN,24,1.62,Aliphatic,Nitrogen_containing
-"1,5-Pentanediol",111-29-5,C(CCO)CCO,645,0.19,Aliphatic,Alcohol
-"1,4-Butanediol",110-63-4,C(CCO)CO,1000,0.00,Aliphatic,Alcohol
-Bromochloroiodomethane,34970-00-8,C(Cl)(Br)I,0.00675,5.17,Aliphatic,Hydrocarbon
-Carbon tetrachloride,56-23-5,C(Cl)(Cl)(Cl)Cl,1.08,2.97,Aliphatic,Hydrocarbon
-Trichloromethane,67-66-3,C(Cl)(Cl)Cl,7,2.15,Aliphatic,Hydrocarbon
-Chlorodiiodomethane,638-73-3,C(Cl)(I)I,0.0002,6.70,Aliphatic,Hydrocarbon
-Dichloromethane,75-09-2,C(Cl)Cl,5.6,2.25,Aliphatic,Hydrocarbon
-2-(2-Aminoethylamino)ethanol,111-41-1,C(CNCCO)N,2.8,2.55,Aliphatic,Nitrogen_containing
-2-Aminoethanol,141-43-5,C(CO)N,32,1.49,Aliphatic,Nitrogen_containing
-Triethanolamine,102-71-6,C(CO)N(CCO)CCO,160,0.80,Aliphatic,Nitrogen_containing
-"1,2-Ethanediol",107-21-1,C(CO)O,197,0.71,Aliphatic,Alcohol
-Diethylene glycol,111-46-6,C(COCCO)O,240,0.62,Aliphatic,Alcohol
-"3,6-Dioxa-1,8-octanediol",112-27-6,C(COCCOCCO)O,700,0.15,Aliphatic,Alcohol
-2-Mercaptoethanol,60-24-2,C(CS)O,6.57,2.18,Aliphatic,Sulfur_containing
-Triiodomethane,75-47-8,C(I)(I)I,0.0000425,7.37,Aliphatic,Hydrocarbon
-4-Androsten-3-one,NA,C[C@@]12CCC[C@H]1[C@@H]3CCC4=CC(=O)CC[C@@]4([C@H]3CC2)C,0.0022,5.66,Cyclic,Polycyclic
-"(2R,4R,6R)-2,4,6-Trimethyl-4-phenyl-1,3-dioxane",NA,C[C@@H]1C[C@](O[C@@H](O1)C)(C)C2=CC=CC=C2,0.332,3.48,Cyclic,Polycyclic
-"cis-3,5-Dimethyl-1,2,4-trithiolane",38348-23-1,C[C@@H]1S[C@@H](SS1)C,0.002,5.70,Cyclic,Others
-"trans-3,5-Dimethyl-1,2,4-trithiolane",38348-24-2,C[C@H]1S[C@@H](SS1)C,0.000609,6.22,Cyclic,Others
-Propenoic acid,79-10-7,C=CC(=O)O,5.25,2.28,Aliphatic,Acid
-2-Vinylpyrazine,4177-16-6,C=CC1=NC=CN=C1,0.7,3.15,Cyclic,Pyrazine
-"4-Allyl-1,2-(methylenedioxy)benzene",94-59-7,C=CCC1=CC2=C(C=C1)OCO2,0.074,4.13,Cyclic,Polycyclic
-5-Hexenyl isothiocyanate,49776-81-0,C=CCCCCN=C=S,0.021,4.68,Aliphatic,Others
-Allyl isothiocyanate,57-06-7,C=CCN=C=S,0.29275,3.53,Aliphatic,Others
-Methanal,50-00-0,C=O,37.45,1.43,Aliphatic,Aldehyde
-Pentachlorophenol,87-86-5,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,0.641,3.19,Cyclic,BenzeneDerivatives
-2-Methoxy-3-(2-methylbutyl)pyrazine,115652-10-3,C1(OC)=NC=CN=C1CC(C)CC,0.000012,7.92,Cyclic,Pyrazine
-2-(Phenylthio)-3-propylpyrazine,113685-95-3,C1(SC2=CC=CC=C2)=NC=CN=C1CCC,0.0087,5.06,Cyclic,Polycyclic
-Hexachlorophene,70-30-4,C1=C(C(=C(C(=C1Cl)Cl)CC2=C(C(=CC(=C2Cl)Cl)Cl)O)O)Cl,10,2.00,Cyclic,Polycyclic
-Pentachlorobenzene,608-93-5,C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,0.00374,5.43,Cyclic,BenzeneDerivatives
-"2,4,5-Trichlorophenol",95-95-4,C1=C(C(=CC(=C1Cl)Cl)Cl)O,0.187,3.73,Cyclic,BenzeneDerivatives
-"2,4,5-Trichlorophenoxyacetic acid",93-76-5,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O,2.92,2.53,Cyclic,BenzeneDerivatives
-"4,5-Dichloro-1,2-dihydroxybenzene",3428-24-8,C1=C(C(=CC(=C1Cl)Cl)O)O,3.5,2.46,Cyclic,BenzeneDerivatives
-"2,4,6-Trinitrophenol",88-89-1,C1=C(C=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])[N+](=O)[O-],4,2.40,Cyclic,BenzeneDerivatives
-"2,4,6-Tribromophenol",118-79-6,C1=C(C=C(C(=C1Br)O)Br)Br,0.0295,4.53,Cyclic,BenzeneDerivatives
-"2,4,6-Trichloroaniline",634-93-5,C1=C(C=C(C(=C1Cl)N)Cl)Cl,0.06,4.22,Cyclic,BenzeneDerivatives
-"2,4,6-Trichlorophenol",88-06-2,C1=C(C=C(C(=C1Cl)O)Cl)Cl,0.447,3.35,Cyclic,BenzeneDerivatives
-5-(Hydroxymethyl)furfural,67-47-0,C1=C(OC(=C1)C=O)CO,1000,0.00,Cyclic,Furan
-"2,6-Dinitrophenol",573-56-8,C1=CC(=C(C(=C1)[N+](=O)[O-])O)[N+](=O)[O-],10,2.00,Cyclic,BenzeneDerivatives
-"2,6-Dibromophenol",608-33-3,C1=CC(=C(C(=C1)Br)O)Br,0.0013,5.89,Cyclic,BenzeneDerivatives
-"1,2,3-Trichlorobenzene",87-61-6,C1=CC(=C(C(=C1)Cl)Cl)Cl,0.015,4.82,Cyclic,BenzeneDerivatives
-"2,3-Dichlorophenol",576-24-9,C1=CC(=C(C(=C1)Cl)Cl)O,0.03,4.52,Cyclic,BenzeneDerivatives
-"2,6-Dichlorophenol",87-65-0,C1=CC(=C(C(=C1)Cl)O)Cl,0.04,4.40,Cyclic,BenzeneDerivatives
-"1,2,3-Trihydroxybenzene",87-66-1,C1=CC(=C(C(=C1)O)O)O,2,2.70,Cyclic,BenzeneDerivatives
-"1,2,3,4-Tetrachlorobenzene",634-66-2,C1=CC(=C(C(=C1Cl)Cl)Cl)Cl,0.01,5.00,Cyclic,BenzeneDerivatives
-"2,3,6-Trichlorophenol",933-75-5,C1=CC(=C(C(=C1Cl)O)Cl)Cl,0.3,3.52,Cyclic,BenzeneDerivatives
-"2,4-Dinitrophenol",51-28-5,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])O,4,2.40,Cyclic,BenzeneDerivatives
-2-Chloro-4-nitrophenol,619-08-9,C1=CC(=C(C=C1[N+](=O)[O-])Cl)O,5,2.30,Cyclic,BenzeneDerivatives
-"2,5-Dinitrophenol",329-71-5,C1=CC(=C(C=C1[N+](=O)[O-])O)[N+](=O)[O-],2.4,2.62,Cyclic,BenzeneDerivatives
-4-Chloro-2-nitrophenol,89-64-5,C1=CC(=C(C=C1Cl)[N+](=O)[O-])O,0.8,3.10,Cyclic,BenzeneDerivatives
-"2,2'-Methylenebis",97-23-4,C1=CC(=C(C=C1Cl)CC2=C(C=CC(=C2)Cl)O)O,0.5,3.30,Cyclic,Polycyclic
-"1,2,4-Trichlorobenzene",120-82-1,C1=CC(=C(C=C1Cl)Cl)Cl,0.005,5.30,Cyclic,BenzeneDerivatives
-"2,4-Dichlorophenol",120-83-2,C1=CC(=C(C=C1Cl)Cl)O,0.034865,4.46,Cyclic,BenzeneDerivatives
-"2,4-Dichlorophenoxyacetic acid",94-75-7,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,3.13,2.50,Cyclic,BenzeneDerivatives
-"2,5-Dichlorophenol",583-78-8,C1=CC(=C(C=C1Cl)O)Cl,0.015225,4.82,Cyclic,BenzeneDerivatives
-"3,4-Dichloroaniline",95-76-1,C1=CC(=C(C=C1N)Cl)Cl,0.003,5.52,Cyclic,BenzeneDerivatives
-3-Bromophenol,591-20-8,C1=CC(=CC(=C1)Br)O,0.0176,4.75,Cyclic,BenzeneDerivatives
-3-Chlorophenol,108-43-0,C1=CC(=CC(=C1)Cl)O,0.054,4.27,Cyclic,BenzeneDerivatives
-3-Fluorophenol,372-20-3,C1=CC(=CC(=C1)F)O,2,2.70,Cyclic,BenzeneDerivatives
-3-Nitrophenol,554-84-7,C1=CC(=CC(=C1)O)[N+](=O)[O-],0.6,3.22,Cyclic,BenzeneDerivatives
-"1,3-Dihydroxybenzene",108-46-3,C1=CC(=CC(=C1)O)O,23,1.64,Cyclic,BenzeneDerivatives
-4-Nitrophenol,100-02-7,C1=CC(=CC=C1[N+](=O)[O-])O,2.5,2.60,Cyclic,BenzeneDerivatives
-"2,4,4'-Trihydroxybenzophenone",1470-79-7,C1=CC(=CC=C1C(=O)C2=C(C=C(C=C2)O)O)O,6,2.22,Cyclic,Polycyclic
-4-Hydroxybenzoic acid,99-96-7,C1=CC(=CC=C1C(=O)O)O,5,2.30,Cyclic,BenzeneDerivatives
-"1,4-Dichlorobenzene",106-46-7,C1=CC(=CC=C1Cl)Cl,0.0066,5.18,Cyclic,BenzeneDerivatives
-4-Chlorophenol,106-48-9,C1=CC(=CC=C1O)Cl,0.066,4.18,Cyclic,BenzeneDerivatives
-4-Fluorophenol,371-41-5,C1=CC(=CC=C1O)F,2.3,2.64,Cyclic,BenzeneDerivatives
-"1,4-Dihydroxybenzene",123-31-9,C1=CC(=CC=C1O)O,5,2.30,Cyclic,BenzeneDerivatives
-"3,4,5,6,7,8,8a-Heptachlorodicyclopentadiene",76-44-8,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,0.02,4.70,Cyclic,Polycyclic
-1-Chloro-2-nitrobenzene,88-73-3,C1=CC=C(C(=C1)[N+](=O)[O-])Cl,0.0267,4.57,Cyclic,BenzeneDerivatives
-2-Nitrophenol,88-75-5,C1=CC=C(C(=C1)[N+](=O)[O-])O,1.7,2.77,Cyclic,BenzeneDerivatives
-2-Chlorophenol,95-57-8,C1=CC=C(C(=C1)O)Cl,0.002,5.70,Cyclic,BenzeneDerivatives
-2-Fluorophenol,367-12-4,C1=CC=C(C(=C1)O)F,1.5,2.82,Cyclic,BenzeneDerivatives
-2-Iodophenol,533-58-4,C1=CC=C(C(=C1)O)I,0.001,6.00,Cyclic,BenzeneDerivatives
-"1,2-Dihydroxybenzene",120-80-9,C1=CC=C(C(=C1)O)O,8,2.10,Cyclic,BenzeneDerivatives
-(E)-3-Phenyl-2-propenoic acid,NA,C1=CC=C(C=C1)/C=C/C(=O)O,3.5,2.46,Cyclic,BenzeneDerivatives
-Nitrobenzene,98-95-3,C1=CC=C(C=C1)[N+](=O)[O-],0.2328,3.63,Cyclic,BenzeneDerivatives
-N-Benzoylglycine,495-69-2,C1=CC=C(C=C1)C(=O)NCC(=O)O,2.5,2.60,Cyclic,BenzeneDerivatives
-3-Phenyl-2-propenal,104-55-2,C1=CC=C(C=C1)C=CC=O,0.008,5.10,Cyclic,BenzeneDerivatives
-3-Phenyl-2-propen-1-ol,104-54-1,C1=CC=C(C=C1)C=CCO,0.0359,4.44,Cyclic,BenzeneDerivatives
-Benzaldehyde,100-52-7,C1=CC=C(C=C1)C=O,0.92,3.04,Cyclic,BenzeneDerivatives
-4-Phenylphenol,92-69-3,C1=CC=C(C=C1)C2=CC=C(C=C2)O,0.7,3.15,Cyclic,Polycyclic
-2-Phenylphenol,90-43-7,C1=CC=C(C=C1)C2=CC=CC=C2O,0.4,3.40,Cyclic,Polycyclic
-Phenylacetic acid,103-82-2,C1=CC=C(C=C1)CC(=O)O,3.506,2.46,Cyclic,BenzeneDerivatives
-2-Phenylethanal,122-78-1,C1=CC=C(C=C1)CC=O,0.04,4.40,Cyclic,BenzeneDerivatives
-2-Phenylethyl cyanide,645-59-0,C1=CC=C(C=C1)CCC#N,0.015,4.82,Cyclic,BenzeneDerivatives
-3-Phenylpropanoic acid,501-52-0,C1=CC=C(C=C1)CCC(=O)O,5,2.30,Cyclic,BenzeneDerivatives
-2-Phenylethyl isothiocyanate,2257-09-2,C1=CC=C(C=C1)CCN=C=S,0.0028,5.55,Cyclic,Others
-2-Phenylethanol,60-12-8,C1=CC=C(C=C1)CCO,0.98,3.01,Cyclic,BenzeneDerivatives
-Benzyl isothiocyanate,622-78-6,C1=CC=C(C=C1)CN=C=S,0.012,4.92,Cyclic,BenzeneDerivatives
-Benzyl alcohol,100-51-6,C1=CC=C(C=C1)CO,23.239,1.63,Cyclic,BenzeneDerivatives
-Aniline,62-53-3,C1=CC=C(C=C1)N,70.1,1.15,Cyclic,BenzeneDerivatives
-Phenol,108-95-2,C1=CC=C(C=C1)O,13.14,1.88,Cyclic,BenzeneDerivatives
-3-Phenoxybenzyl chloride,53874-66-1,C1=CC=C(C=C1)OC2=CC=CC(=C2)CCl,0.03,4.52,Cyclic,Polycyclic
-Phenoxypyrazine,107697-82-5,C1=CC=C(C=C1)OC2=NC=CN=C2,0.03,4.52,Cyclic,Polycyclic
-Benzenethiol,108-98-5,C1=CC=C(C=C1)S,0.0255,4.59,Cyclic,BenzeneDerivatives
-Phenyldithiobenzene,882-33-7,C1=CC=C(C=C1)SSC2=CC=CC=C2,0.005,5.30,Cyclic,Polycyclic
-Coumarin,91-64-5,C1=CC=C2C(=C1)C=CC(=O)O2,0.0136,4.87,Cyclic,Polycyclic
-1-Hydroxynaphthalene,90-15-3,C1=CC=C2C(=C1)C=CC=C2O,4,2.40,Cyclic,Polycyclic
-Indole,120-72-9,C1=CC=C2C(=C1)C=CN2,0.1373,3.86,Cyclic,Polycyclic
-Dibenzofuran,132-64-9,C1=CC=C2C(=C1)C3=CC=CC=C3O2,0.034,4.47,Cyclic,Polycyclic
-2-Hydroxynaphthalene,135-19-3,C1=CC=C2C=C(C=CC2=C1)O,3.76,2.42,Cyclic,Polycyclic
-Naphthalene,91-20-3,C1=CC=C2C=CC=CC2=C1,0.0215,4.67,Cyclic,Polycyclic
-Benzene,71-43-2,C1=CC=CC=C1,30.87,1.51,Cyclic,BenzeneDerivatives
-Pyridine,110-86-1,C1=CC=NC=C1,63.5,1.20,Cyclic,Others
-Pyridine,290-37-9,C1=CN=CC=N1,201,0.70,Cyclic,Pyrazine
-2-Pyrrolecarbaldehyde,1003-29-8,C1=CNC(=C1)C=O,65,1.19,Cyclic,Others
-Pyrrole,109-97-7,C1=CNC=C1,24.9,1.60,Cyclic,Others
-Furfural,98-01-1,C1=COC(=C1)C=O,5.2,2.28,Cyclic,Furan
-2-Furylacetic acid,2745-26-8,C1=COC(=C1)CC(=O)O,34.6,1.46,Cyclic,Furan
-3-(2-Furyl)propanoic acid,935-13-7,C1=COC(=C1)CCC(=O)O,15.6,1.81,Cyclic,Furan
-2-Furanmethanol,98-00-0,C1=COC(=C1)CO,2.18,2.66,Cyclic,Furan
-2-Furylmethanethiol,98-02-2,C1=COC(=C1)CS,0.00006,7.22,Cyclic,Furan
-3-Hydroxy-2-pyrone,496-64-0,C1=COC(=O)C(=C1)O,22.5,1.65,Cyclic,Others
-Furan,110-00-9,C1=COC=C1,5,2.30,Cyclic,Furan
-2-Thienylacetic acid,1918-77-0,C1=CSC(=C1)CC(=O)O,22.6,1.65,Cyclic,Others
-3-(2-Thienyl)propanoic acid,5928-51-8,C1=CSC(=C1)CCC(=O)O,13.2,1.88,Cyclic,Others
-2-Thiophenemethanol,636-72-6,C1=CSC(=C1)CO,15,1.82,Cyclic,Others
-2-Thenylthiol,6258-63-5,C1=CSC(=C1)CS,0.00004,7.40,Cyclic,Others
-2-Thiophenethiol,7774-74-5,C1=CSC(=C1)S,0.0007,6.15,Cyclic,Others
-Thiazole,288-47-1,C1=CSC=N1,1.569,2.80,Cyclic,Thiazole
-Chlorogenic acid,327-97-9,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O,82,1.09,Cyclic,Polycyclic
-3-Pyrroline,109-96-6,C1C=CCN1,62.8,1.20,Cyclic,Others
-"1,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methanoindene",5103-71-9,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,0.0015,5.82,Cyclic,Polycyclic
-"1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4-endo-exo-5,8-dimethanonaphthalene",309-00-2,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,0.017,4.77,Cyclic,Polycyclic
-"1,2,3,4,10,10-Hexachloro-6,7-epoxy-1,4,4a,5,6,7,8,8a-octahydro-1,4-endo-endo-5,8-dimethanonaphthalene",72-20-8,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,0.018,4.74,Cyclic,Polycyclic
-Cyclobutanone,1191-95-3,C1CC(=O)C1,2.8,2.55,Cyclic,Ketone
-4-Hydroxybutanoic acid lactone,96-48-0,C1CC(=O)OC1,25,1.60,Cyclic,Ester
-Cyclobutylamine,2516-34-9,C1CC(C1)N,32.5,1.49,Cyclic,Others
-Cyclobutanol,2919-23-5,C1CC(C1)O,7,2.15,Cyclic,Alcohol
-4-Phenyl-1-cyclohexene,4994-16-5,C1CC(CC=C1)C2=CC=CC=C2,0.01,5.00,Cyclic,Polycyclic
-3-Phenyl-1-cyclohexene,15232-96-9,C1CC=CC(C1)C2=CC=CC=C2,0.01,5.00,Cyclic,Polycyclic
-Cyclopropylamine,765-30-0,C1CC1N,38.9,1.41,Cyclic,Others
-Indan,496-11-7,C1CC2=CC=CC=C2C1,0.063,4.20,Cyclic,Polycyclic
-1-Phenyl-1-cyclohexene,771-98-2,C1CCC(=CC1)C2=CC=CC=C2,0.01,5.00,Cyclic,Polycyclic
-Cyclopentanone,120-92-3,C1CCC(=O)C1,39.625,1.40,Cyclic,Ketone
-Cyclohexanone,108-94-1,C1CCC(=O)CC1,11.625,1.93,Cyclic,Ketone
-6-Aminohexanoic acid lactam,105-60-2,C1CCC(=O)NCC1,59.7,1.22,Cyclic,Others
-4-Chloro-2-cyclopentylphenol,13347-42-7,C1CCC(C1)C2=C(C=CC(=C2)Cl)O,0.3,3.52,Cyclic,Polycyclic
-Cyclopentylamine,1003-03-8,C1CCC(C1)N,190,0.72,Cyclic,Others
-Cyclopentanol,96-41-3,C1CCC(C1)O,8.1249,2.09,Cyclic,Alcohol
-Nitrocyclohexane,1122-60-7,C1CCC(CC1)[N+](=O)[O-],0.15,3.82,Cyclic,Others
-Cyclohexylacetic acid,5292-21-7,C1CCC(CC1)CC(=O)O,19.1,1.72,Cyclic,Others
-Cyclohexylamine,108-91-8,C1CCC(CC1)N,28.5,1.55,Cyclic,Others
-"3-Cyclohexyl-5,6-trimethylene uracil",2164-08-1,C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O,0.1354,3.87,Cyclic,Polycyclic
-Cyclohexanol,108-93-0,C1CCC(CC1)O,1.145,2.94,Cyclic,Alcohol
-"1,2,3,4-Tetrahydronaphthalene",119-64-2,C1CCC2=CC=CC=C2C1,0.018,4.74,Cyclic,Polycyclic
-Cycloheptanone,502-42-1,C1CCCC(=O)CC1,1.1,2.96,Cyclic,Ketone
-Cycloheptylamine,5452-35-7,C1CCCC(CC1)N,65.8,1.18,Cyclic,Others
-Cycloheptanol,502-41-0,C1CCCC(CC1)O,7.15,2.15,Cyclic,Alcohol
-Cyclooctanol,696-71-9,C1CCCC(CCC1)O,14.5,1.84,Cyclic,Alcohol
-9-cis-Cycloheptadecen-1-one,542-46-1,C1CCCC=CCCCCCCCC(=O)CCC1,0.0031,5.51,Cyclic,Ketone
-Cyclononanone,3350-30-9,C1CCCCC(=O)CCC1,0.303,3.52,Cyclic,Ketone
-Cyclodecanone,1502-06-3,C1CCCCC(=O)CCCC1,0.415,3.38,Cyclic,Ketone
-11-Oxahexadecalactone,3391-83-1,C1CCCCC(=O)OCCCCCOCCCC1,0.019,4.72,Cyclic,Ester
-Cycloundecanone,878-13-7,C1CCCCCC(=O)CCCC1,0.036,4.44,Cyclic,Ketone
-Cyclotetradecanone,3603-99-4,C1CCCCCCC(=O)CCCCCC1,0.024,4.62,Cyclic,Ketone
-Cyclopentadecanone,502-72-7,C1CCCCCCCC(=O)CCCCCC1,0.015,4.82,Cyclic,Ketone
-Cyclohexadecanone,2550-52-9,C1CCCCCCCC(=O)CCCCCCC1,0.0073,5.14,Cyclic,Ketone
-16-Hydroxyhexadecanoic acid lactone,109-29-5,C1CCCCCCCC(=O)OCCCCCCC1,0.0046,5.34,Cyclic,Ester
-Cycloheptadecanone,3661-77-6,C1CCCCCCCCC(=O)CCCCCCC1,0.0043,5.37,Cyclic,Ketone
-Cyclooctadecanone,6907-37-5,C1CCCCCCCCC(=O)CCCCCCCC1,0.023,4.64,Cyclic,Ketone
-15-Hydroxypentadecanoic acid lactone,106-02-5,C1CCCCCCCOC(=O)CCCCCC1,0.0012,5.92,Cyclic,Ester
-12-Oxahexadecalactone,6707-60-4,C1CCCCCOCCCCOC(=O)CCCC1,0.029,4.54,Cyclic,Ester
-Azacycloheptane,111-49-9,C1CCCNCC1,46.9,1.33,Cyclic,Others
-Azacyclooctane,1121-92-2,C1CCCNCCC1,82.8,1.08,Cyclic,Others
-"1,2,3,4-Tetrahydropyridine",505-18-0,C1CCN=CC1,0.302,3.52,Cyclic,Others
-Pyrrolidine,123-75-1,C1CCNC1,20.2,1.69,Cyclic,Others
-Piperidine,110-89-4,C1CCNCC1,68.2,1.17,Cyclic,Others
-Azetidine,503-29-7,C1CNC1,21.9,1.66,Cyclic,Others
-"1,2,3,6-Tetrahydropyridine",694-05-3,C1CNCC=C1,226,0.65,Cyclic,Others
-Heliotropine,120-57-0,C1OC2=C(O1)C=C(C=C2)C=O,0.3553,3.45,Cyclic,Polycyclic
-"1,2,4-Trithiolane",289-16-7,C1SCSS1,0.00766,5.12,Cyclic,Others
-2-Methylpropenoic acid,79-41-4,CC(=C)C(=O)O,51,1.29,Aliphatic,Acid
-Methyl 2-methyl-2-propenoate,80-62-6,CC(=C)C(=O)OC,0.3588,3.45,Aliphatic,Ester
-"[1R-(1α,3α,4β)]-4-Ethenyl-α,α,4-trimethyl-3-(1-methylethenyl)cyclohexanemethanol",639-99-6,CC(=C)C1CC(CCC1(C)C=C)C(C)(C)O,0.24,3.62,Cyclic,Alcohol
-3-Methyl-3-buten-1-ol,763-32-6,CC(=C)CCO,0.5471,3.26,Aliphatic,Alcohol
-3-Methyl-2-butenoic acid,541-47-9,CC(=CC(=O)O)C,14,1.85,Aliphatic,Acid
-(E)-Nerolidol,372965-99-6,CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,0.22,3.66,Aliphatic,Alcohol
-"(E)-3,7-Dimethyl-1,3,6-octatriene",3779-61-1,CC(=CCC=C(C)C=C)C,0.034,4.47,Aliphatic,Hydrocarbon
-"7-Methyl-3-methylene-1,6-octadiene",123-35-3,CC(=CCCC(=C)C=C)C,0.04211,4.38,Aliphatic,Hydrocarbon
-"(E,E)-2,6-Dimethyl-10-methylene-2,6,11-dodecatrienal",3779-62-2,CC(=CCCC(=C)C=C)CCC=C(C)C=O,0.027825,4.56,Aliphatic,Aldehyde
-"3,7,11-Trimethyl-2,6,10-dodecatrien-1-ol",4602-84-0,CC(=CCCC(=CCCC(=CCO)C)C)C,0.3325,3.48,Aliphatic,Alcohol
-"3,7-Dimethyl-(E)-2,6-octadien-1-ol",106-24-1,CC(=CCCC(=CCO)C)C,0.14,3.85,Aliphatic,Alcohol
-"3,7-Dimethyl-(E)-2,6-octadien-1-yl acetate",105-87-3,CC(=CCCC(=CCOC(=O)C)C)C,0.0315,4.50,Aliphatic,Ester
-Linalool,78-70-6,CC(=CCCC(C)(C=C)O)C,0.822,3.09,Aliphatic,Alcohol
-3-Methyl-2-buten-1-ol,556-82-1,CC(=CCO)C,5.85,2.23,Aliphatic,Alcohol
-2-(Prenylthio)ethanal,NA,CC(=CCSCC=O)C,0.00005,7.30,Aliphatic,Aldehyde
-Propanone,67-64-1,CC(=O)C,247,0.61,Aliphatic,Ketone
-"2,2-Dimethyl-3-butanone",75-97-8,CC(=O)C(C)(C)C,0.6,3.22,Aliphatic,Ketone
-"2',3',4'-Trihydroxyacetophenone",528-21-2,CC(=O)C1=C(C(=C(C=C1)O)O)O,2,2.70,Cyclic,BenzeneDerivatives
-"4-Acetyl-6-tert-butyl-1,1-dimethylindane",13171-00-1,CC(=O)C1=C2CCC(C2=CC(=C1)C(C)(C)C)(C)C,0.005,5.30,Cyclic,Polycyclic
-1-(4-Hydroxy-3-methoxyphenyl)ethanone,498-02-2,CC(=O)C1=CC(=C(C=C1)O)OC,0.78,3.11,Cyclic,BenzeneDerivatives
-4'-Hydroxyacetophenone,99-93-4,CC(=O)C1=CC=C(C=C1)O,5.5,2.26,Cyclic,BenzeneDerivatives
-Acetophenone,98-86-2,CC(=O)C1=CC=CC=C1,0.0428,4.37,Cyclic,BenzeneDerivatives
-2-Acetylpyridine,1122-62-9,CC(=O)C1=CC=CC=N1,0.019,4.72,Cyclic,Others
-2-Acetylpyrrole,1072-83-9,CC(=O)C1=CC=CN1,139.62,0.86,Cyclic,Others
-2-Acetylfuran,1192-62-7,CC(=O)C1=CC=CO1,11.5,1.94,Cyclic,Furan
-"2-Acetyl-1,4,5,6-tetrahydropyridine",25343-57-1,CC(=O)C1=CCCCN1,0.0015,5.82,Cyclic,Others
-"5-Acetyl-2,3-dihydro-1,4-thiazine",164524-93-0,CC(=O)C1=CSCCN1,0.00126,5.90,Cyclic,Others
-Acetylpyrazine,22047-25-2,CC(=O)C1=NC=CN=C1,0.61,3.21,Cyclic,Pyrazine
-2-Acetylthiazole,24295-03-2,CC(=O)C1=NC=CS1,0.01,5.00,Cyclic,Thiazole
-2-Acetyl-1-pyrroline,85213-22-5,CC(=O)C1=NCCC1,0.0002,6.70,Cyclic,Others
-2-Acetyltetrahydropyridine,27300-27-2,CC(=O)C1=NCCCC1,0.0014375,5.84,Cyclic,Others
-2-Acetyl-2-thiazoline,29926-41-8,CC(=O)C1=NCCS1,0.001,6.00,Cyclic,Thiazole
-"4,4-Dimethyl-2-pentanone",590-50-1,CC(=O)CC(C)(C)C,0.02405,4.62,Aliphatic,Ketone
-4-Hydroxy-4-methyl-2-pentanone,123-42-2,CC(=O)CC(C)(C)O,72.06,1.14,Aliphatic,Ketone
-2-Mercapto-2-methyl-4-pentanone,19872-52-7,CC(=O)CC(C)(C)S,0.00000075,9.12,Aliphatic,Ketone
-1-Hydroxy-2-propanone,116-09-6,CC(=O)CO,76,1.12,Aliphatic,Ketone
-Acetic acid,64-19-7,CC(=O)O,114.09,0.94,Aliphatic,Acid
-Methyl acetate,79-20-9,CC(=O)OC,12.126,1.92,Aliphatic,Ester
-tert-Butyl acetate,540-88-5,CC(=O)OC(C)(C)C,0.18,3.74,Aliphatic,Ester
-Bornyl acetate,76-49-3,CC(=O)OC1CC2CCC1(C2(C)C)C,0.009,5.05,Cyclic,Polycyclic
-Cyclopentyl acetate,933-05-1,CC(=O)OC1CCCC1,0.021,4.68,Cyclic,Ester
-"2,2-Dimethylpropyl acetate",926-41-0,CC(=O)OCC(C)(C)C,0.004,5.40,Aliphatic,Ester
-Benzyl acetate,140-11-4,CC(=O)OCC1=CC=CC=C1,0.29,3.54,Cyclic,BenzeneDerivatives
-2-Phenylethyl acetate,103-45-7,CC(=O)OCCC1=CC=CC=C1,0.04,4.40,Cyclic,BenzeneDerivatives
-3-(Methylthio)propyl acetate,16630-55-0,CC(=O)OCCCSC,0.03,4.52,Aliphatic,Ester
-3-Hydroxy-2-butanone,513-86-0,CC(C(=O)C)O,3.76,2.42,Aliphatic,Ketone
-3-Mercapto-2-butanone,40789-98-8,CC(C(=O)C)S,0.003,5.52,Aliphatic,Ketone
-"2,2-Dichloropropanoic acid",75-99-0,CC(C(=O)O)(Cl)Cl,23.2,1.63,Aliphatic,Acid
-"2-(2,4,5-Trichlorophenoxy)propanoic acid",93-72-1,CC(C(=O)O)OC1=CC(=C(C=C1Cl)Cl)Cl,0.78,3.11,Cyclic,BenzeneDerivatives
-"3,3-Dimethyl-2-butanol",464-07-3,CC(C(C)(C)C)O,4.525,2.34,Aliphatic,Alcohol
-"2,2-Dimethylpropanoic acid",75-98-9,CC(C)(C)C(=O)O,22.6,1.65,Aliphatic,Acid
-"Methyl 2,2-dimethylpropanoate",598-98-1,CC(C)(C)C(=O)OC,0.028,4.55,Aliphatic,Ester
-"2-tert-Butyl-4,6-dinitrophenol",1420-07-1,CC(C)(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,0.5,3.30,Cyclic,Others
-3-tert-Butyl-4-hydroxyanisole,121-00-6,CC(C)(C)C1=C(C=CC(=C1)OC)O,3,2.52,Cyclic,BenzeneDerivatives
-"2,4-Di-tert-butylphenol",96-76-4,CC(C)(C)C1=CC(=C(C=C1)O)C(C)(C)C,0.5,3.30,Cyclic,BenzeneDerivatives
-"4-tert-Butyl-1,2-dihydroxybenzene",98-29-3,CC(C)(C)C1=CC(=C(C=C1)O)O,1,3.00,Cyclic,BenzeneDerivatives
-"1,3-Di-tert-butyl-4,6-dihydroxbenzene",5374-06-1,CC(C)(C)C1=CC(=C(C=C1O)O)C(C)(C)C,0.3,3.52,Cyclic,BenzeneDerivatives
-4-tert-Butylphenol,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,0.8,3.10,Cyclic,BenzeneDerivatives
-2-sec-Butylcyclohexanone,1728-46-7,CC(C)(C)C1CCCCC1=O,0.26,3.59,Cyclic,Ketone
-2-tert-Butylcyclohexanol,13491-79-7,CC(C)(C)C1CCCCC1O,0.182,3.74,Cyclic,Alcohol
-"3,3-Dimethylbutanoic acid",1070-83-3,CC(C)(C)CC(=O)O,2.71,2.57,Aliphatic,Acid
-"4-(1,1,3,3-Tetramethylbutyl)phenol",140-66-9,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)O,2.7,2.57,Cyclic,BenzeneDerivatives
-"2,2-Dimethyl-1-propanol",75-84-3,CC(C)(C)CO,1.66,2.78,Aliphatic,Alcohol
-2-Methyl-3-buten-2-ol,115-18-4,CC(C)(C=C)O,50.57,1.30,Aliphatic,Alcohol
-3-Mercapto-3-methylbutan-1-ol,34300-94-2,CC(C)(CCO)S,0.0031,5.51,Aliphatic,Sulfur_containing
-1-Methoxy-3-methyl-3-butanethiol,94087-83-9,CC(C)(CCOC)S,0.00000051,9.29,Aliphatic,Sulfur_containing
-3-Mercapto-3-methylbutyl formate,50746-10-6,CC(C)(CCOC=O)S,0.0000034,8.47,Aliphatic,Ester
-2-Nitropropane,79-46-9,CC(C)[N+](=O)[O-],23.45,1.63,Aliphatic,Others
-3-Methyl-2-butanone,563-80-4,CC(C)C(=O)C,1.3375,2.87,Aliphatic,Ketone
-"2,4-Dimethyl-3-pentanone",565-80-0,CC(C)C(=O)C(C)C,0.0266,4.58,Aliphatic,Ketone
-2-Methylpropanoic acid,79-31-2,CC(C)C(=O)O,8.78,2.06,Aliphatic,Acid
-Methyl 2-methylpropanoate,547-63-7,CC(C)C(=O)OC,0.007,5.15,Aliphatic,Ester
-"2,4-Dimethyl-3-pentanol",600-36-2,CC(C)C(C(C)C)O,0.251,3.60,Aliphatic,Alcohol
-"2,3-Dimethylbutanoic acid",14287-61-7,CC(C)C(C)C(=O)O,6.9,2.16,Aliphatic,Acid
-"2,3-Dimethyl-1-butanol",54206-54-1,CC(C)C(C)CO,1.665,2.78,Aliphatic,Alcohol
-3-Methyl-2-butanol,598-75-4,CC(C)C(C)O,0.615,3.21,Aliphatic,Alcohol
-"1,2-Dimethylpropyl acetate",5343-96-4,CC(C)C(C)OC(=O)C,0.006,5.22,Aliphatic,Ester
-2-Methyl-1-nitropropane,625-74-1,CC(C)C[N+](=O)[O-],5,2.30,Aliphatic,Others
-2-Isopropylphenol,88-69-7,CC(C)C1=CC=CC=C1O,1,3.00,Cyclic,BenzeneDerivatives
-Isopropylpyrazine,29460-90-0,CC(C)C1=NC=CN=C1,0.1442,3.84,Cyclic,Pyrazine
-2-Methoxy-6-isopropylpyrazine,93905-03-4,CC(C)C1=NC=CN=C1OC,0.00001,8.00,Cyclic,Pyrazine
-2-Isopropyl-3-(methylthio)pyrazine,67952-59-4,CC(C)C1=NC=CN=C1SC,0.000047,7.33,Cyclic,Pyrazine
-1-Isopropyl-4-methylenebicyclo[3.1.0]hexane,3387-41-5,CC(C)C12CCC(=C)C1C2,0.2965,3.53,Cyclic,Polycyclic
-"8-Isopropenyl-5,6-dimethylbicyclo[4.4.0]-3-decanone",1803-39-0,CC(C)C1CCC2(CCCC(=O)C2(C1)C)C,0.05,4.30,Cyclic,Polycyclic
-Isobutyl cyanide,625-28-5,CC(C)CC#N,0.868,3.06,Aliphatic,Nitrogen_containing
-4-Methyl-2-pentanone,108-10-1,CC(C)CC(=O)C,0.04514,4.35,Aliphatic,Ketone
-3-Methylbutanoic acid,503-74-2,CC(C)CC(=O)O,3.91,2.41,Aliphatic,Acid
-Methyl 3-methylbutanoate,556-24-1,CC(C)CC(=O)OC,0.0242,4.62,Aliphatic,Ester
-"2,5-Dimethyl-3-hexanol",19550-07-3,CC(C)CC(C(C)C)O,1.05,2.98,Aliphatic,Alcohol
-"2,2,4-Trimethyl-1-pentanol",123-44-4,CC(C)CC(C)(C)CO,0.62,3.21,Aliphatic,Alcohol
-"2,4-Dimethyl-2-pentanol",625-06-9,CC(C)CC(C)(C)O,3.25,2.49,Aliphatic,Alcohol
-"2,4-Dimethyl-1-pentanol",6305-71-1,CC(C)CC(C)CO,0.32,3.49,Aliphatic,Alcohol
-4-Methyl-2-pentanol,108-11-2,CC(C)CC(C)O,3.3,2.48,Aliphatic,Alcohol
-"2,6-Dimethyl-4-heptanol",108-82-7,CC(C)CC(CC(C)C)O,1.3,2.89,Aliphatic,Alcohol
-1-Nitro-3-methylbutane,627-67-8,CC(C)CC[N+](=O)[O-],0.15,3.82,Aliphatic,Others
-3-Methylbutanal,590-86-3,CC(C)CC=O,0.585,3.23,Aliphatic,Aldehyde
-3-Isobutyl-2-methoxypyridine,35243-42-6,CC(C)CC1=C(N=CC=C1)OC,0.011,4.96,Cyclic,Others
-2-Isobutyl-3-methoxypyrazine,24683-00-9,CC(C)CC1=NC=CN=C1OC,0.00000828,8.08,Cyclic,Pyrazine
-2-Isobutylthiazole,18640-74-9,CC(C)CC1=NC=CS1,0.0081,5.09,Cyclic,Thiazole
-4-Methylpentanoic acid,646-07-1,CC(C)CCC(=O)O,0.81,3.09,Aliphatic,Acid
-"2,5-Dimethyl-2-hexanol",3730-60-7,CC(C)CCC(C)(C)O,1.45,2.84,Aliphatic,Alcohol
-5-Methyl-2-hexanol,627-59-8,CC(C)CCC(C)O,0.49,3.31,Aliphatic,Alcohol
-2-Isopentyl-3-methoxypyrazine,32737-13-6,CC(C)CCC1=NC=CN=C1OC,0.0000063,8.20,Cyclic,Pyrazine
-6-Methyl-2-heptanone,928-68-7,CC(C)CCCC(=O)C,0.01605,4.79,Aliphatic,Ketone
-5-Methylhexanoic acid,628-46-6,CC(C)CCCC(=O)O,15.8,1.80,Aliphatic,Acid
-"1-Hydroxy-3,7,11,15-tetramethyl-2-hexadecene",150-86-7,CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C,0.64,3.19,Aliphatic,Alcohol
-6-Methyl-2-heptanol,4730-22-7,CC(C)CCCC(C)O,0.347,3.46,Aliphatic,Alcohol
-2-Isohexyl-3-methoxypyrazine,68844-95-1,CC(C)CCCC1=NC=CN=C1OC,0.000006,8.22,Cyclic,Pyrazine
-"Isooctyl 2,4-dichlorophenoxyacetate",25168-26-7,CC(C)CCCCCOC(=O)COC1=C(C=C(C=C1)Cl)Cl,0.12,3.92,Cyclic,BenzeneDerivatives
-5-Methyl-1-hexanol,627-98-5,CC(C)CCCCO,0.495,3.31,Aliphatic,Alcohol
-4-Methyl-1-pentanol,626-89-1,CC(C)CCCO,2.46,2.61,Aliphatic,Alcohol
-3-Methyl-1-butanol,123-51-3,CC(C)CCO,1.336,2.87,Aliphatic,Alcohol
-Isoamyl acetate,123-92-2,CC(C)CCOC(=O)C,0.00531,5.27,Aliphatic,Ester
-Isopentyl 2-methylpropanoate,2050-01-3,CC(C)CCOC(=O)C(C)C,0.02585,4.59,Aliphatic,Ester
-Isoamyl isovalerate,659-70-1,CC(C)CCOC(=O)CC(C)C,0.0199,4.70,Aliphatic,Ester
-Potassium isopentyl xanthate,928-70-1,CC(C)CCOC(=S)[S-].[K+],0.005,5.30,Aliphatic,Ester
-2-(Isopentylthio)ethanal,NA,CC(C)CCSCC=O,0.0003,6.52,Aliphatic,Aldehyde
-2-Methyl-1-propanol,78-83-1,CC(C)CO,7.27,2.14,Aliphatic,Alcohol
-2-Methylpropyl acetate,110-19-0,CC(C)COC(=O)C,0.03,4.52,Aliphatic,Ester
-Potassium isobutyl xanthate,13001-46-2,CC(C)COC(=S)[S-].[K+],0.005,5.30,Aliphatic,Ester
-2-(Isobutylthio)ethanal,NA,CC(C)CSCC=O,0.00008,7.10,Aliphatic,Aldehyde
-Isopropylamine,75-31-0,CC(C)N,5,2.30,Aliphatic,Nitrogen_containing
-2-Propanol,67-63-0,CC(C)O,9.14,2.04,Aliphatic,Alcohol
-2-Propyl acetate,108-21-4,CC(C)OC(=O)C,3.556,2.45,Aliphatic,Ester
-"Isopropyl 2,4-dichlorophenoxyacetate",94-11-1,CC(C)OC(=O)COC1=C(C=C(C=C1)Cl)Cl,0.11635,3.93,Cyclic,BenzeneDerivatives
-2-(Isopropylthio)ethanal,NA,CC(C)SCC=O,0.0005,6.30,Aliphatic,Aldehyde
-1-Phenylethanol,98-85-1,CC(C1=CC=CC=C1)O,0.876,3.06,Cyclic,BenzeneDerivatives
-1-Phenylethyl acetate,93-92-5,CC(C1=CC=CC=C1)OC(=O)C,0.16,3.80,Cyclic,BenzeneDerivatives
-4-Mercapto-4-methylpentan-2-ol,31539-84-1,CC(CC(C)(C)S)O,0.00002,7.70,Aliphatic,Sulfur_containing
-"2,4-Pentanediol",625-69-4,CC(CC(C)O)O,19.3,1.71,Aliphatic,Alcohol
-3-(Methylthio)butanal,16630-52-7,CC(CC=O)SC,0.0025,5.60,Aliphatic,Aldehyde
-"2,5-Hexanediol",2935-44-6,CC(CCC(C)O)O,33.5,1.47,Aliphatic,Alcohol
-"2,6-Dimethyl-5-heptenal",106-72-9,CC(CCC=C(C)C)C=O,0.016,4.80,Aliphatic,Aldehyde
-"3,7-Dimethyl-6-octenal",106-23-0,CC(CCC=C(C)C)CC=O,0.021,4.68,Aliphatic,Aldehyde
-"3,7-Dimethyl-6-octen-1-ol",106-22-9,CC(CCC=C(C)C)CCO,0.638,3.20,Aliphatic,Alcohol
-"3,7-Dimethyl-1,7-octanediol",107-74-4,CC(CCCC(C)(C)O)CCO,5,2.30,Aliphatic,Alcohol
-"1,5-Hexanediol",928-40-5,CC(CCCCO)O,5.335,2.27,Aliphatic,Alcohol
-"1,4-Pentanediol",626-95-9,CC(CCCO)O,29.45,1.53,Aliphatic,Alcohol
-"1,2-Dichloropropane",78-87-5,CC(CCl)Cl,0.19,3.72,Aliphatic,Hydrocarbon
-"1,3-Butanediol",107-88-0,CC(CCO)O,15,1.82,Aliphatic,Alcohol
-"1,1,1-Trichloroethane",71-55-6,CC(Cl)(Cl)Cl,10.235,1.99,Aliphatic,Hydrocarbon
-1-Amino-2-propanol,78-96-6,CC(CN)O,28,1.55,Aliphatic,Nitrogen_containing
-Diisopropanolamine,110-97-4,CC(CNCC(C)O)O,10,2.00,Aliphatic,Nitrogen_containing
-3-Mercapto-2-methyl-1-butanol,227456-33-9,CC(CO)C(C)S,0.00023,6.64,Aliphatic,Sulfur_containing
-2-Methyl-3-buten-1-ol,4516-90-9,CC(CO)C=C,1.1,2.96,Aliphatic,Alcohol
-3-Mercapto-2-methylpropanol,56160-79-3,CC(CO)CS,0.003,5.52,Aliphatic,Sulfur_containing
-"1,2-Propanediol",57-55-6,CC(CO)O,340,0.47,Aliphatic,Alcohol
-"4,8-Dioxa-1-nonanol",34590-94-8,CC(COC(C)COC)O,40,1.40,Aliphatic,Others
-1-Methoxy-2-propanol,107-98-2,CC(COC)O,4,2.40,Aliphatic,Others
-"4-Oxa-2,6-heptanediol",110-98-5,CC(COCC(C)O)O,240,0.62,Aliphatic,Alcohol
-(E)-2-Methyl-2-pentenal,NA,CC/C=C(\C)/C=O,0.25,3.60,Aliphatic,Aldehyde
-"(Z,Z)-3,6-Nonadien-1-ol",53406-97-2,CC/C=C\C/C=C\CCO,0.01,5.00,Aliphatic,Alcohol
-5-Hydroxy-(Z)-7-decenoic acid lactone,25524-95-2,CC/C=C\CC1CCCC(=O)O1,2,2.70,Cyclic,Others
-"Methyl (2R,3S)-2-hydroxy-3-methylpentanoate",NA,CC[C@H](C)[C@H](C(=O)OC)O,0.89,3.05,Aliphatic,Ester
-2-Methyl-2-butenal,1115-11-3,CC=C(C)C=O,0.5,3.30,Aliphatic,Aldehyde
-3-Penten-2-one,625-33-2,CC=CC(=O)C,0.6,3.22,Aliphatic,Ketone
-β-Damascenone,23696-85-7,CC=CC(=O)C1=C(C=CCC1(C)C)C,0.0044,5.36,Cyclic,Ketone
-"(E)-1-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-2-buten-1-one",23726-91-2,CC=CC(=O)C1=C(CCCC1(C)C)C,0.0006,6.22,Cyclic,Ketone
-"1-(2,2-Dimethyl-6-methylenecyclohexyl)-2-buten-1-one",35087-49-1,CC=CC(=O)C1C(=C)CCCC1(C)C,0.0092,5.04,Cyclic,Ketone
-"(S)-(-)-1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-2-buten-1-one",116497-11-1,CC=CC(=O)C1C(=CCCC1(C)C)C,0.0015,5.82,Cyclic,Ketone
-"2,4-Hexadienal",142-83-6,CC=CC=CC=O,0.268,3.57,Aliphatic,Aldehyde
-(E)-2-Butenal,123-73-9,CC=CC=O,0.3126,3.51,Aliphatic,Aldehyde
-1-Methoxy-4-((E)-1-propenyl)benzene,4180-23-8,CC=CC1=CC=C(C=C1)OC,0.0292,4.53,Cyclic,BenzeneDerivatives
-"Methyl deca-4,8-dienoate",1191-03-3,CC=CCCC=CCCC(=O)OC,0.03,4.52,Aliphatic,Ester
-2-Butenyl isothiocyanate,2253-93-2,CC=CCN=C=S,0.38,3.42,Aliphatic,Others
-2-(2-Butenylthio)ethanal,NA,CC=CCSCC=O,0.00004,7.40,Aliphatic,Aldehyde
-Ethanal,75-07-0,CC=O,51.5,1.29,Aliphatic,Aldehyde
-"α-Ethenyl-α,3,3-trimethyloxiranpropanol",15249-35-1,CC1(C(O1)CCC(C)(C=C)O)C,1.148,2.94,Cyclic,Ketone
-"6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptane",127-91-3,CC1(C2CCC(=C)C1C2)C,0.4156,3.38,Cyclic,Polycyclic
-"8,8-Dimethyl-2-methylene-6-oxabicyclo[3.2.1]octane",19901-96-3,CC1(C2CCC(=C)C1CO2)C,0.003,5.52,Cyclic,Polycyclic
-"Hexahydro-1,1-dimethyl-4-methylene-1H-cyclopenta[c]furan",19901-95-2,CC1(C2CCC(=C)C2CO1)C,0.003,5.52,Cyclic,Polycyclic
-"1,3,3-Trimethylbicyclo[2.2.1]-2-heptanone",1195-79-5,CC1(C2CCC(C2)(C1=O)C)C,0.756,3.12,Cyclic,Polycyclic
-"1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octane",470-82-6,CC1(C2CCC(O1)(CC2)C)C,0.012,4.92,Cyclic,Polycyclic
-"1,7,7-Trimethylbicyclo[2.2.1]-2-heptanone",76-22-2,CC1(C2CCC1(C(=O)C2)C)C,3.162,2.50,Cyclic,Polycyclic
-"exo-1,7,7-Trimethylbicyclo[2.2,1]-2-heptanol",124-76-5,CC1(C2CCC1(C(C2)O)C)C,0.006,5.22,Cyclic,Polycyclic
-"trans-5-Ethenyltetrahydro-α,α,5-trimethyl-2-furanmethanol",34995-77-2,CC1(CCC(O1)C(C)(C)O)C=C,0.20857,3.68,Cyclic,Furan
-"(3aR)-3a,6,6,9a-Tetramethyl-3aα,5aβ,9aα,9bβ-dodecahydronaphtho[2,1-b]furan",6790-58-5,CC1(CCCC2(C1CCC3(C2CCO3)C)C)C,0.0006,6.22,Cyclic,Polycyclic
-"1-tert-Butyl-3,5-dimethyl-2,4,6-trinitrobenzene",81-15-2,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],0.0023,5.64,Cyclic,BenzeneDerivatives
-"4-tert-Butyl-2,6-dimethyl-3,5-dinitroacetophenone",81-14-1,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,0.0091,5.04,Cyclic,BenzeneDerivatives
-"2,3,6-Trimethylanisole",NA,CC1=C(C(=C(C=C1)C)OC)C,0.009,5.05,Cyclic,BenzeneDerivatives
-2-Isopropyl-6-methylphenol,3228-04-4,CC1=C(C(=CC=C1)C(C)C)O,1,3.00,Cyclic,BenzeneDerivatives
-2-Chloro-6-methylanisole,NA,CC1=C(C(=CC=C1)Cl)OC,0.003,5.52,Cyclic,BenzeneDerivatives
-"2,3-Dimethylphenol",526-75-0,CC1=C(C(=CC=C1)O)C,0.5,3.30,Cyclic,BenzeneDerivatives
-"2,3-Dihydro-3,5-dihydroxy-6-methyl-4H-pyran-4-one",28564-83-2,CC1=C(C(=O)C(CO1)O)O,35,1.46,Cyclic,Others
-3-Hydroxy-2-methyl-4-pyrone,118-71-8,CC1=C(C(=O)C=CO1)O,7.1,2.15,Cyclic,Others
-2-Hydroxy-3-methyl-2-cyclopenten-1-one,80-71-7,CC1=C(C(=O)CC1)O,1.15,2.94,Cyclic,Ketone
-4-Hydroxy-5-methyl-3(2H)-furanone,19332-27-1,CC1=C(C(=O)CO1)O,18.17,1.74,Cyclic,Furan
-3-Hydroxy-4-methyl-2(5H)-furanone,22438-62-6,CC1=C(C(=O)OC1)O,40,1.40,Cyclic,Furan
-"4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",14901-07-6,CC1=C(C(CCC1)(C)C)C=CC(=O)C,0.0009,6.05,Cyclic,Ketone
-"2,6,6-Trimethyl-1-cyclohexene-1-carboxaldehyde",432-25-7,CC1=C(C(CCC1)(C)C)C=O,0.0178,4.75,Cyclic,Others
-"4-(2,6,6-Trimethyl-1,3-cyclohexadien-1-yl)-3-buten-2-one",17283-81-7,CC1=C(C(CCC1)(C)C)CCC(=O)C,0.001,6.00,Cyclic,Ketone
-"1-tert-Butyl-2-methoxy-4-methyl-3,5-dinitrobenzene",83-66-9,CC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-],0.00342,5.47,Cyclic,BenzeneDerivatives
-5-Isopropyl-2-methylphenol,499-75-2,CC1=C(C=C(C=C1)C(C)C)O,1.67,2.78,Cyclic,BenzeneDerivatives
-5-Chloro-2-methylaniline,95-79-4,CC1=C(C=C(C=C1)Cl)N,0.005,5.30,Cyclic,BenzeneDerivatives
-4-Methyl-3-nitrophenol,2042-14-0,CC1=C(C=C(C=C1)O)[N+](=O)[O-],2,2.70,Cyclic,BenzeneDerivatives
-"3,4-Dimethylphenol",95-65-8,CC1=C(C=C(C=C1)O)C,1.2,2.92,Cyclic,BenzeneDerivatives
-4-tert-Butyl-2-methylphenol,98-27-1,CC1=C(C=CC(=C1)C(C)(C)C)O,0.4,3.40,Cyclic,BenzeneDerivatives
-3-Methyl-4-nitrophenol,2581-34-2,CC1=C(C=CC(=C1)O)[N+](=O)[O-],5,2.30,Cyclic,BenzeneDerivatives
-3-Methyl-4-(methylthio)phenol,3120-74-9,CC1=C(C=CC(=C1)O)SC,0.2,3.70,Cyclic,BenzeneDerivatives
-"2-Methyl-1,3-dinitrobenzene",606-20-2,CC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-],0.525,3.28,Cyclic,BenzeneDerivatives
-2-Methyl-3-(methylthio)furan,63012-97-5,CC1=C(C=CO1)SC,0.0092,5.04,Cyclic,Furan
-2-Methyl-3-(methyldithio)furan,65505-17-1,CC1=C(C=CO1)SSC,0.000008,8.10,Cyclic,Furan
-2-Methyl-3-thiophenethiol,2527-76-6,CC1=C(C=CS1)S,0.00002,7.70,Cyclic,Others
-2-(3-Methyl-2-butenyl)-3-methylfuran,15186-51-3,CC1=C(OC=C1)CC=C(C)C,0.01418,4.85,Cyclic,Furan
-"2-Isobutyl-4,5-dimethylthiazole",53498-32-1,CC1=C(SC(=N1)CC(C)C)C,0.01,5.00,Cyclic,Thiazole
-4-Isopropyl-7-methylcyclohexathiazole,84648-08-8,CC1=C2C(=C(C=C1)C(C)C)N=CS2,0.00036,6.44,Cyclic,Polycyclic
-"2-Methyl-3-oxa-8-thiabicyclo[3.3.0]-1,4-octadiene",26693-24-3,CC1=C2C(=CO1)CCS2,0.00275,5.56,Cyclic,Polycyclic
-"2,6-Di-tert-butyl-4-methylphenol",128-37-0,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,1,3.00,Cyclic,BenzeneDerivatives
-"2,4,6-Trimethylphenol",527-60-6,CC1=CC(=C(C(=C1)C)O)C,0.5,3.30,Cyclic,BenzeneDerivatives
-"2,4,6-Trimethylanisole",4028-66-4,CC1=CC(=C(C(=C1)C)OC)C,0.0008,6.10,Cyclic,BenzeneDerivatives
-"2,3,5-Trimethylphenol",697-82-5,CC1=CC(=C(C(=C1)O)C)C,2.3,2.64,Cyclic,BenzeneDerivatives
-2-tert-Butyl-5-methylphenol,88-60-8,CC1=CC(=C(C=C1)C(C)(C)C)O,0.5,3.30,Cyclic,BenzeneDerivatives
-2-Isopropyl-5-methylphenol,89-83-8,CC1=CC(=C(C=C1)C(C)C)O,0.58,3.24,Cyclic,BenzeneDerivatives
-"1,2,4-Trimethylbenzene",95-63-6,CC1=CC(=C(C=C1)C)C,0.38,3.42,Cyclic,BenzeneDerivatives
-"2,5-Dimethylphenol",95-87-4,CC1=CC(=C(C=C1)C)O,0.4,3.40,Cyclic,BenzeneDerivatives
-4-Methyl-2-nitrophenol,119-33-5,CC1=CC(=C(C=C1)O)[N+](=O)[O-],0.8,3.10,Cyclic,BenzeneDerivatives
-"2,4-Dimethylphenol",105-67-9,CC1=CC(=C(C=C1)O)C,0.4,3.40,Cyclic,BenzeneDerivatives
-2-Methoxy-4-methylphenol,93-51-6,CC1=CC(=C(C=C1)O)OC,0.04,4.40,Cyclic,BenzeneDerivatives
-"2,4,5-Trimethylphenol",496-78-6,CC1=CC(=C(C=C1C)O)C,2.3,2.64,Cyclic,BenzeneDerivatives
-4-Chloro-2-isopropyl-5-methylphenol,89-68-9,CC1=CC(=C(C=C1Cl)C(C)C)O,0.6,3.22,Cyclic,BenzeneDerivatives
-"2,5-Dimethyl-3-(methyldithio)furan",61197-06-6,CC1=CC(=C(O1)C)SSC,0.00001,8.00,Cyclic,Furan
-"1,3,5-Trimethylbenzene",108-67-8,CC1=CC(=CC(=C1)C)C,0.2466,3.61,Cyclic,BenzeneDerivatives
-"3,5-Dimethylphenol",108-68-9,CC1=CC(=CC(=C1)O)C,5,2.30,Cyclic,BenzeneDerivatives
-"2-Methyl-4,6-dinitrophenol",534-52-1,CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-],1.115,2.95,Cyclic,BenzeneDerivatives
-"2,6-Dimethyl-4-nitrophenol",2423-71-4,CC1=CC(=CC(=C1O)C)[N+](=O)[O-],2.5,2.60,Cyclic,BenzeneDerivatives
-"1,3-Dimethylbenzene",108-38-3,CC1=CC(=CC=C1)C,1.05,2.98,Cyclic,BenzeneDerivatives
-3-Methylphenol,108-39-4,CC1=CC(=CC=C1)O,0.23737,3.62,Cyclic,BenzeneDerivatives
-"2,4-Dimethyl a-Carboline",13315-71-4,CC1=CC(=NC2=C1C3=CC=CC=C3N2)C,0.5786,3.24,Cyclic,Polycyclic
-4-Isopropyl-1-methyl-1-cyclohexen-3-one,89-81-6,CC1=CC(=O)C(CC1)C(C)C,0.68,3.17,Cyclic,BenzeneDerivatives
-1-Isopropyl-4-methylbicyclo[3.1.0]-3-hexen-2-one,24545-81-1,CC1=CC(=O)C2(C1C2)C(C)C,0.75,3.12,Cyclic,Polycyclic
-p-Xylene,106-42-3,CC1=CC=C(C=C1)C,0.5329,3.27,Cyclic,BenzeneDerivatives
-1-Acetyl-4-methylbenzene,122-00-9,CC1=CC=C(C=C1)C(=O)C,0.039,4.41,Cyclic,BenzeneDerivatives
-p-Cymene,99-87-6,CC1=CC=C(C=C1)C(C)C,0.3,3.52,Cyclic,BenzeneDerivatives
-1-Chloro-4-methylbenzene,106-43-4,CC1=CC=C(C=C1)Cl,0.01,5.00,Cyclic,BenzeneDerivatives
-4-Methylanisole,104-93-8,CC1=CC=C(C=C1)OC,0.0243,4.61,Cyclic,BenzeneDerivatives
-4-Methylphenyl acetate,140-39-6,CC1=CC=C(C=C1)OC(=O)C,0.025,4.60,Cyclic,BenzeneDerivatives
-5-Methylfurfural,620-02-0,CC1=CC=C(O1)C=O,1.39,2.86,Cyclic,Furan
-2-(5-Methyl)furylmethanethiol,59303-05-8,CC1=CC=C(O1)CS,0.00005,7.30,Cyclic,Furan
-Toluene,108-88-3,CC1=CC=CC=C1,3.47,2.46,Cyclic,BenzeneDerivatives
-o-Xylene,95-47-6,CC1=CC=CC=C1C,0.83,3.08,Cyclic,BenzeneDerivatives
-o-Cresol,95-48-7,CC1=CC=CC=C1O,0.53,3.28,Cyclic,BenzeneDerivatives
-2-Methylanisole,578-58-5,CC1=CC=CC=C1OC,0.3,3.52,Cyclic,BenzeneDerivatives
-1-Methylnaphthalene,90-12-0,CC1=CC=CC2=CC=CC=C12,0.0118,4.93,Cyclic,Polycyclic
-2-Methylfuran,534-22-5,CC1=CC=CO1,2.8,2.55,Cyclic,Furan
-"1,2-Dihydro-1,1,6-trimethylnaphthalene",30364-38-6,CC1=CC2=C(C=C1)C(CC=C2)(C)C,0.0025,5.60,Cyclic,Polycyclic
-"1,2,3,4-Tetrahydro-1,1,6-trimethylnaphthalene",475-03-6,CC1=CC2=C(C=C1)C(CCC2)(C)C,0.002,5.70,Cyclic,Polycyclic
-"2,6-Dimethylnaphthalene",581-42-0,CC1=CC2=C(C=C1)C=C(C=C2)C,0.01,5.00,Cyclic,Polycyclic
-2-Methylnaphthalene,91-57-6,CC1=CC2=CC=CC=C2C=C1,0.0065,5.19,Cyclic,Polycyclic
-"2,6-Dimethylanthracene",613-26-3,CC1=CC2=CC3=C(C=C(C=C3)C)C=C2C=C1,0.5,3.30,Cyclic,Polycyclic
-"3,7,7-Trimethylbicyclo[4.1.0]-2-heptene",4497-92-1,CC1=CC2C(C2(C)C)CC1,4,2.40,Cyclic,Polycyclic
-4-Isopropylidene-1-methyl-3-cyclohexene,586-62-9,CC1=CCC(=C(C)C)CC1,0.157,3.80,Cyclic,Others
-"4-Isopropyl-1-methyl-1,4-cyclohexadiene",99-85-4,CC1=CCC(=CC1)C(C)C,0.3325,3.48,Cyclic,Others
-1-Isopropyl-4-methyl-3-cyclohexen-1-ol,562-74-3,CC1=CCC(CC1)(C(C)C)O,2.28,2.64,Cyclic,Alcohol
-4-Isopropenyl-1-methyl-1-cyclohexene,138-86-3,CC1=CCC(CC1)C(=C)C,0.16,3.80,Cyclic,Others
-4-(2-Hydroxyisopropyl)-1-methyl-1-cyclohexene,98-55-5,CC1=CCC(CC1)C(C)(C)O,3.2,2.49,Cyclic,Alcohol
-5-Isopropenyl-2-methyl-2-cyclohexen-1-one,99-49-0,CC1=CCC(CC1=O)C(=C)C,0.02,4.70,Cyclic,Ketone
-"(1R,5S)-2-Methyl-5-(1-methylethenyl)-2-cyclohexen-1-ol",18383-51-2,CC1=CCC(CC1O)C(=C)C,0.25,3.60,Cyclic,Alcohol
-"2,3,4,5,8,8a-Hexahydro-3-isopropyl-6,8a-dimethyl-3a(1H)-azulenol",465-28-1,CC1=CCC2(CCC(C2(CC1)O)C(C)C)C,0.008,5.10,Cyclic,Polycyclic
-"3,7,7-Trimethylbicyclo[4.1.0]-3-heptene",13466-78-9,CC1=CCC2C(C1)C2(C)C,1.19,2.92,Cyclic,Polycyclic
-"2,6,6-Trimethylbicyclo[3.1.1]-2-heptene",80-56-8,CC1=CCC2CC1C2(C)C,0.94488,3.02,Cyclic,Polycyclic
-"4,11,11-Trimethyl-8-methylenebicyclo[7.2.0]-4-undecene",87-44-5,CC1=CCCC(=C)C2CC(C2CC1)(C)C,0.0075,5.12,Cyclic,Polycyclic
-"2,6,6-Trimethyl-2-cyclohexen-1-one",20013-73-4,CC1=CCCC(C1=O)(C)C,0.285,3.55,Cyclic,Ketone
-"4-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3-buten-2-one",127-41-3,CC1=CCCC(C1C=CC(=O)C)(C)C,0.01,5.00,Cyclic,Ketone
-"1,5,9,9-Tetramethyl-[1R-(1R*,4E,7E,11R*)]-12-oxabicyclo[9.1.0]dodeca-4,7-diene",19888-33-6,CC1=CCCC2(C(O2)CC(C=CC1)(C)C)C,0.01,5.00,Cyclic,Polycyclic
-Trimethylpyrazine,14667-55-1,CC1=CN=C(C(=N1)C)C,0.19,3.72,Cyclic,Pyrazine
-"2-Methoxy-3,5-dimethylpyrazine",92508-08-2,CC1=CN=C(C(=N1)C)OC,0.0000004,9.40,Cyclic,Pyrazine
-"2-Methoxy-3,6-dimethylpyrazine",19846-22-1,CC1=CN=C(C(=N1)OC)C,0.0001,7.00,Cyclic,Pyrazine
-2-Isopropyl-3-methoxy-5-methylpyrazine,56343-37-4,CC1=CN=C(C(=N1)OC)C(C)C,0.000045,7.35,Cyclic,Pyrazine
-"2,5-Dimethyl-3-(methylthio)pyrazine",59021-08-8,CC1=CN=C(C(=N1)SC)C,0.0013,5.89,Cyclic,Pyrazine
-"2,5-Dimethylpyrazine",123-32-0,CC1=CN=C(C=N1)C,3.4,2.47,Cyclic,Pyrazine
-2-Methoxy-5-methylpyrazine,2882-22-6,CC1=CN=C(C=N1)OC,0.017,4.77,Cyclic,Pyrazine
-2-Methyl-5-(methylthio)pyrazine,2884-14-2,CC1=CN=C(C=N1)SC,0.0056,5.25,Cyclic,Pyrazine
-"2,6-Dimethyl pyrazine",108-50-9,CC1=CN=CC(=N1)C,8.212,2.09,Cyclic,Pyrazine
-2-Methoxy-6-methylpyrazine,2882-21-5,CC1=CN=CC(=N1)OC,0.017,4.77,Cyclic,Pyrazine
-2-Methyl-6-(methylthio)pyrazine,2884-13-1,CC1=CN=CC(=N1)SC,0.02,4.70,Cyclic,Pyrazine
-3-Methylindole,83-34-1,CC1=CNC2=CC=CC=C12,0.06,4.22,Cyclic,Polycyclic
-"2,4-Dimethylthiazole",541-58-2,CC1=CSC(=N1)C,0.018,4.74,Cyclic,Thiazole
-5-Isobutyl-2-methoxy-3-methylpyrazine,78246-20-5,CC1=NC(=CN=C1OC)CC(C)C,0.00018,6.74,Cyclic,Pyrazine
-5-Isopropyl-3-methyl-2-(methylthio)pyrazine,99784-22-2,CC1=NC(=CN=C1SC)C(C)C,0.016,4.80,Cyclic,Pyrazine
-5-Isobutyl-3-methyl-2-(methylthio)pyrazine,78246-17-0,CC1=NC(=CN=C1SC)CC(C)C,0.015,4.82,Cyclic,Pyrazine
-"2,3-Dimethyl-5-isopropylpyrazine",40790-21-4,CC1=NC=C(N=C1C)C(C)C,0.245,3.61,Cyclic,Pyrazine
-"5-Isobutyl-2,3-dimethylpyrazine",54410-83-2,CC1=NC=C(N=C1C)CC(C)C,1.88,2.73,Cyclic,Pyrazine
-"5,7-Dihydro-2-methylthieno-(3,4D)-pyrimidine",36267-71-7,CC1=NC=C2CSCC2=N1,0.0009,6.05,Cyclic,Polycyclic
-2-Methylpyrazine,109-08-0,CC1=NC=CN=C1,61.4,1.21,Cyclic,Pyrazine
-"2,3-Dimethylpyrazine",5910-89-4,CC1=NC=CN=C1C,1.81,2.74,Cyclic,Pyrazine
-2-Acetyl-3-methylpyrazine,23787-80-6,CC1=NC=CN=C1C(=O)C,0.01626,4.79,Cyclic,Pyrazine
-2-Isopropyl-3-methylpyrazine,15986-81-9,CC1=NC=CN=C1C(C)C,0.016,4.80,Cyclic,Pyrazine
-2-Isobutyl-3-methylpyrazine,13925-06-9,CC1=NC=CN=C1CC(C)C,0.05875,4.23,Cyclic,Pyrazine
-2-Methoxy-3-methylpyrazine,2847-30-5,CC1=NC=CN=C1OC,0.005,5.30,Cyclic,Pyrazine
-2-Methyl-3-(methylthio)pyrazine,2882-20-4,CC1=NC=CN=C1SC,0.0025,5.60,Cyclic,Pyrazine
-2-Methylbenzothiazole,120-75-2,CC1=NC2=CC=CC=C2S1,0.00775,5.11,Cyclic,Polycyclic
-"4,16-Androstadien-3-one",4075-07-4,CC12CCC3C(C1CC=C2)CCC4=CC(=O)CCC34C,0.00098,6.01,Cyclic,Polycyclic
-5α-Androst-16-en-3-one,18339-16-7,CC12CCC3C(C1CC=C2)CCC4C3(CCC(=O)C4)C,0.00064,6.19,Cyclic,Polycyclic
-5α-Androst-16-en-3α-ol,1153-51-1,CC12CCC3C(C1CC=C2)CCC4C3(CCC(C4)O)C,0.0062,5.21,Cyclic,Polycyclic
-5α-Androstan-3-one,1224-95-9,CC12CCCC1C3CCC4CC(=O)CCC4(C3CC2)C,0.00062,6.21,Cyclic,Polycyclic
-"3-Hydroxy-4,5-dimethyl-2(5H)-furanone",28664-35-9,CC1C(=C(C(=O)O1)O)C,1.315,2.88,Cyclic,Furan
-"4-Methoxy-2,5-dimethyl-3(2H)-furanone",4077-47-8,CC1C(=O)C(=C(O1)C)OC,0.19,3.72,Cyclic,Furan
-"2,5-Dimethyl-4-(3-methylbutoxy)-3(2H)-furanone",NA,CC1C(=O)C(=C(O1)C)OCCC(C)C,0.9,3.05,Cyclic,Furan
-1-Isopropyl-4-methylbicyclo[3.1.0]-3-hexanone,546-80-5,CC1C2CC2(CC1=O)C(C)C,0.36,3.44,Cyclic,Polycyclic
-"8-Isopropyl-5,6-dimethylbicyclo[4.4.0]-3-decanone",38427-80-4,CC1CC(=O)CC2C1(CC(CC2)C(C)C)C,0.045,4.35,Cyclic,Polycyclic
-"7-Acetyl-1,1,3,4,4,6-hexamethyl-1,2,3,4-tetrahydronaphthalene",1506-02-1,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,0.0015,5.82,Cyclic,Polycyclic
-(R)-(+)-4-Isopropylidene-1-methyl-3-cyclohexanone,89-82-7,CC1CCC(=C(C)C)C(=O)C1,0.13,3.89,Cyclic,Ketone
-4-Methylcyclohexanone,589-92-4,CC1CCC(=O)CC1,0.69,3.16,Cyclic,Ketone
-2-Isopropyl-5-methylcyclohexanone,10458-14-7,CC1CCC(C(=O)C1)C(C)C,1.04,2.98,Cyclic,Ketone
-2-Isopropenyl-5-methyl-1-cyclohexanol,89-79-2,CC1CCC(C(C1)O)C(=C)C,1,3.00,Cyclic,Alcohol
-3-Methylcyclohexanone,591-24-2,CC1CCCC(=O)C1,0.68,3.17,Cyclic,Ketone
-"2,2,6-Trimethylcyclohexanone",2408-37-9,CC1CCCC(C1=O)(C)C,0.17,3.77,Cyclic,Ketone
-2-Methylcyclohexanone,583-60-8,CC1CCCCC1=O,1.41,2.85,Cyclic,Ketone
-(l)-4-Methyl-2-(2-methyl-1-propenyl)tetrahydropyran,3033-23-6,CC1CCOC(C1)C=C(C)C,0.0005,6.30,Cyclic,Others
-"1,2-Epoxypropane",75-56-9,CC1CO1,0.43,3.37,Cyclic,Others
-Dill ether,74410-10-9,CC1COC2C1CCC(=C2)C,0.03,4.52,Cyclic,Polycyclic
-"1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran",1222-05-5,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,0.00455,5.34,Cyclic,Polycyclic
-"Dihydro-2,4,6-trimethyl-1,3,5(4H)-dithiazine",638-17-5,CC1NC(SC(S1)C)C,0.001,6.00,Cyclic,Others
-"α,α'-Diethyl-4,4'-stilbenediol",56-53-1,CCC(=C(CC)C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,2.3,2.64,Cyclic,Polycyclic
-Butanone,78-93-3,CCC(=O)C,32.12,1.49,Aliphatic,Ketone
-"2,2-Dimethyl-3-pentanone",564-04-5,CCC(=O)C(C)(C)C,0.0325,4.49,Aliphatic,Ketone
-2-Mercapto-3-pentanone,17042-24-9,CCC(=O)C(C)S,0.0007,6.15,Aliphatic,Ketone
-Methylionone,1335-46-2,CCC(=O)C=CC1C(=CCCC1(C)C)C,0.002,5.70,Cyclic,Ketone
-2-Propionyl-1-pyrroline,133447-37-7,CCC(=O)C1=NCCC1,0.0001,7.00,Cyclic,Others
-5-Methyl-3-hexanone,623-56-3,CCC(=O)CC(C)C,0.0517,4.29,Aliphatic,Ketone
-Propanoic acid,79-09-4,CCC(=O)O,11.6,1.94,Aliphatic,Acid
-Methyl propanoate,554-12-1,CCC(=O)OC,3.7,2.43,Aliphatic,Ester
-tert-Butyl propanoate,20487-40-5,CCC(=O)OC(C)(C)C,0.0258,4.59,Aliphatic,Ester
-Ethenyl propanoate,105-38-4,CCC(=O)OC=C,0.5,3.30,Aliphatic,Ester
-Ethyl propanoate,105-37-3,CCC(=O)OCC,1.47,2.83,Aliphatic,Ester
-"3,7-Dimethyl-(E)-2,6-octadien-1-yl propanoate",105-90-8,CCC(=O)OCC=C(C)CCC=C(C)C,0.045,4.35,Aliphatic,Ester
-Isopentyl propanoate,105-68-0,CCC(=O)OCCC(C)C,0.0258,4.59,Aliphatic,Ester
-3-Mercapto-2-pentanone,67633-97-0,CCC(C(=O)C)S,0.0007,6.15,Aliphatic,Ketone
-Ethyl 2-hydroxybutanoate,52089-54-0,CCC(C(=O)OCC)O,0.8,3.10,Aliphatic,Ester
-2-Methyl-3-pentanol,565-67-3,CCC(C(C)C)O,0.625,3.20,Aliphatic,Alcohol
-3-Mercapto-2-methylpentanal,227456-28-2,CCC(C(C)C=O)S,0.00095,6.02,Aliphatic,Aldehyde
-3-(Acetylthio)-2-methylpentanal,NA,CCC(C(C)C=O)SC(=O)C,0.005,5.30,Aliphatic,Aldehyde
-3-Mercapto-2-methyl-1-pentanol,227456-27-1,CCC(C(C)CO)S,0.00028,6.55,Aliphatic,Sulfur_containing
-"2,3-Dimethyl-3-pentanol",595-41-5,CCC(C)(C(C)C)O,0.63,3.20,Aliphatic,Alcohol
-"Ethyl 2,2-dimethylbutanoate",5129-40-8,CCC(C)(C)C(=O)OCC,0.0001,7.00,Aliphatic,Ester
-"2,2-Dimethylbutanal",2094-75-9,CCC(C)(C)C=O,0.32,3.49,Aliphatic,Aldehyde
-4-tert-Pentylphenol,80-46-6,CCC(C)(C)C1=CC=C(C=C1)O,0.8,3.10,Cyclic,BenzeneDerivatives
-"3,3-Dimethylpentanal",118993-47-8,CCC(C)(C)CC=O,0.0378,4.42,Aliphatic,Aldehyde
-"2,2-Dimethyl-1-butanol",1185-33-7,CCC(C)(C)CO,6.25,2.20,Aliphatic,Alcohol
-2-Methyl-2-butanol,75-85-4,CCC(C)(C)O,26.5,1.58,Aliphatic,Alcohol
-2-Methoxy-2-methylbutane,994-05-8,CCC(C)(C)OC,0.1668,3.78,Aliphatic,Others
-"1,1-Dimethylpropyl acetate",625-16-1,CCC(C)(C)OC(=O)C,0.03,4.52,Aliphatic,Ester
-2-Methyl-2-butanethiol,1679-09-0,CCC(C)(C)S,0.000002,8.70,Aliphatic,Sulfur_containing
-"3,5-Dimethyl-3-hexanol",4209-91-0,CCC(C)(CC(C)C)O,0.505,3.30,Aliphatic,Alcohol
-3-Methyl-3-pentanol,77-74-7,CCC(C)(CC)O,3.3,2.48,Aliphatic,Alcohol
-3-Methyl-1-phenyl-3-pentanol,10415-87-9,CCC(C)(CCC1=CC=CC=C1)O,6.4,2.19,Cyclic,BenzeneDerivatives
-5-Methyl-(E)-2-hepten-4-one,102322-83-8,CCC(C)C(=O)C=CC,0.00005,7.30,Aliphatic,Ketone
-2-Methylbutanoic acid,116-53-0,CCC(C)C(=O)O,4.1,2.39,Aliphatic,Acid
-Methyl (S)-(+)-2-methylbutanoate,10307-60-5,CCC(C)C(=O)OC,0.0003,6.52,Aliphatic,Ester
-Ethyl 2-methylbutanoate,7452-79-1,CCC(C)C(=O)OCC,0.0003,6.52,Aliphatic,Ester
-"2,4-Dimethyl-3-hexanol",13432-25-2,CCC(C)C(C(C)C)O,0.335,3.47,Aliphatic,Alcohol
-"2,3-Dimethyl-2-pentanol",4911-70-0,CCC(C)C(C)(C)O,2.9,2.54,Aliphatic,Alcohol
-"Ethyl 2,3-dimethylpentanoate",NA,CCC(C)C(C)C(=O)OCC,0.000002,8.70,Aliphatic,Ester
-"3,4-Dimethyl-2-hexanol",31350-88-6,CCC(C)C(C)C(C)O,2.525,2.60,Aliphatic,Alcohol
-"2,3-Dimethyl-1-pentanol",10143-23-4,CCC(C)C(C)CO,1.215,2.92,Aliphatic,Ketone
-3-Methyl-2-pentanol,565-60-6,CCC(C)C(C)O,2.515,2.60,Aliphatic,Alcohol
-2-Ethyl-3-methylpentanoic acid,22414-77-3,CCC(C)C(CC)C(=O)O,27.55,1.56,Aliphatic,Acid
-2-Ethyl-3-methylpentanal,42347-74-0,CCC(C)C(CC)C=O,0.03,4.52,Aliphatic,Aldehyde
-4-Methyl-3-hexanol,615-29-2,CCC(C)C(CC)O,0.3,3.52,Aliphatic,Alcohol
-"5-sec-Butyl-2,3-dimethylpyrazine",32263-00-6,CCC(C)C1=CN=C(C(=N1)C)C,0.68,3.17,Cyclic,Pyrazine
-5-sec-Butyl-3-methyl-2-phenoxypyrazine,99784-19-7,CCC(C)C1=CN=C(C(=N1)C)OC2=CC=CC=C2,0.01,5.00,Cyclic,Polycyclic
-5-sec-Butyl-2-ethoxy-3-methylpyrazine,99784-15-3,CCC(C)C1=CN=C(C(=N1)C)OCC,0.012,4.92,Cyclic,Pyrazine
-5-sec-Butyl-3-methyl-2-(methylthio)pyrazine,99784-23-3,CCC(C)C1=CN=C(C(=N1)C)SC,0.019,4.72,Cyclic,Pyrazine
-3-sec-Butyl-2-methoxy-5-methylpyrazine,94344-70-4,CCC(C)C1=NC(=CN=C1OC)C,0.002,5.70,Cyclic,Pyrazine
-2-sec-Butyl-3-methoxypyrazine,24168-70-5,CCC(C)C1=NC=CN=C1OC,0.000022,7.66,Cyclic,Pyrazine
-5-Methyl-3-heptanone,541-85-5,CCC(C)CC(=O)CC,0.05242,4.28,Aliphatic,Ketone
-Ethyl 3-methylpentanoate,5870-68-8,CCC(C)CC(=O)OCC,0.000008,8.10,Aliphatic,Ester
-2-Methoxy-3-methyl-5-(2-methylbutyl)pyrazine,78246-21-6,CCC(C)CC1=CN=C(C(=N1)C)OC,0.00001,8.00,Cyclic,Pyrazine
-3-Methyl-5-(2-methylbutyl)-2-phenoxypyrazine,99784-20-0,CCC(C)CC1=CN=C(C(=N1)C)OC2=CC=CC=C2,0.055,4.26,Cyclic,Polycyclic
-2-Ethoxy-3-methyl-5-(2-methylbutyl)pyrazine,99784-16-4,CCC(C)CC1=CN=C(C(=N1)C)OCC,0.0065,5.19,Cyclic,Pyrazine
-3-Methyl-5-(2-methylbutyl)-2-(phenylthio)pyrazine,99784-32-4,CCC(C)CC1=CN=C(C(=N1)C)SC2=CC=CC=C2,0.056,4.25,Cyclic,Polycyclic
-2-(Ethylthio)-3-methyl-5-(2-methylbutyl)pyrazine,99784-28-8,CCC(C)CC1=CN=C(C(=N1)C)SCC,0.0025,5.60,Cyclic,Pyrazine
-2-Methylbutylamine,96-15-1,CCC(C)CN,10,2.00,Aliphatic,Nitrogen_containing
-2-Methylbutyl alcohol,34713-94-5,CCC(C)CO,0.31,3.51,Aliphatic,Alcohol
-2-Methylbutyl acetate,624-41-9,CCC(C)COC(=O)C,0.008,5.10,Aliphatic,Ester
-2-Methylbutyl 2-methylpropanoate,2445-69-4,CCC(C)COC(=O)C(C)C,0.01,5.00,Aliphatic,Ester
-2-Methylbutyl 2-methylbutyrate,2445-78-5,CCC(C)COC(=O)C(C)CC,0.0047,5.33,Aliphatic,Ester
-2-Methylbutyl propionate,2438-20-2,CCC(C)COC(=O)CC,0.023,4.64,Aliphatic,Ester
-sec-Butyl isothiocyanate,4426-79-3,CCC(C)N=C=S,0.00354,5.45,Aliphatic,Others
-2-Butanol,78-92-2,CCC(C)O,21.15,1.67,Aliphatic,Alcohol
-2-Butyl acetate,105-46-4,CCC(C)OC(=O)C,0.006,5.22,Aliphatic,Ester
-1-Penten-3-ol,616-25-1,CCC(C=C)O,0.393,3.41,Aliphatic,Alcohol
-5-Methyl-3-hexanol,623-55-2,CCC(CC(C)C)O,0.62,3.21,Aliphatic,Alcohol
-4-Ethyl-3-hexanone,6137-12-8,CCC(CC)C(=O)CC,0.0246,4.61,Aliphatic,Ketone
-2-Ethylbutanoic acid,88-09-5,CCC(CC)C(=O)O,125,0.90,Aliphatic,Acid
-Ethyl 2-ethylbutanoate,2983-38-2,CCC(CC)C(=O)OCC,0.000007,8.15,Aliphatic,Ester
-3-Ethyl-2-pentanol,609-27-8,CCC(CC)C(C)O,0.645,3.19,Aliphatic,Alcohol
-2-Ethylbutanal,97-96-1,CCC(CC)C=O,0.061,4.21,Aliphatic,Aldehyde
-3-Pentanol,584-02-1,CCC(CC)O,4.83,2.32,Aliphatic,Alcohol
-3-Pentyl acetate,620-11-1,CCC(CC)OC(=O)C,0.009,5.05,Aliphatic,Ester
-6-Methyl-3-heptanol,18720-66-6,CCC(CCC(C)C)O,0.335,3.47,Aliphatic,Alcohol
-"1,2-Butanediol",584-03-2,CCC(CO)O,85,1.07,Aliphatic,Alcohol
-Ethyl (E)-2-methyl-2-pentenoate,1617-40-9,CCC=C(C)C(=O)OCC,0.0115,4.94,Aliphatic,Ester
-2-Methyl-2-pentenal,623-36-9,CCC=C(C)C=O,0.29,3.54,Aliphatic,Aldehyde
-"(E,E,Z)-2,4,6-Nonatrienal",100113-52-8,CCC=CC=CC=CC=O,0.000026,7.59,Aliphatic,Aldehyde
-"(Z)-1,5-Octadien-3-ol",50306-18-8,CCC=CCC(C=C)O,0.01,5.00,Aliphatic,Alcohol
-"2,4,7-Decatrienal",51325-37-2,CCC=CCC=CC=CC=O,0.000055,7.26,Aliphatic,Aldehyde
-"(Z,Z)-3,6-Nonadienal",21944-83-2,CCC=CCC=CCC=O,0.00005,7.30,Aliphatic,Aldehyde
-"(E,Z)-3,6-Nonadien-1-ol",56805-23-3,CCC=CCC=CCCO,0.003,5.52,Aliphatic,Alcohol
-"(E,Z)-3,6-Nonadienyl acetate",76649-26-8,CCC=CCC=CCCOC(=O)C,0.013,4.89,Aliphatic,Ester
-(E)-3-Hexenal,69112-21-6,CCC=CCC=O,0.185,3.73,Aliphatic,Aldehyde
-(Z)-Dec-7-en-5-olide,25524-95-2,CCC=CCC1CCCC(=O)O1,2,2.70,Cyclic,Others
-(Z)-5-Octen-2-one,22610-86-2,CCC=CCCC(=O)C,0.03,4.52,Aliphatic,Ketone
-"2,6-Nonadienal",17587-33-6,CCC=CCCC=CC=O,0.0005,6.30,Aliphatic,Aldehyde
-"(E,Z)-2,6-Nonadien-1-ol",28069-72-9,CCC=CCCC=CCO,0.0006,6.22,Aliphatic,Alcohol
-4-Heptenal,62238-34-0,CCC=CCCC=O,0.0023,5.64,Aliphatic,Aldehyde
-(Z)-6-Nonenal,2277-19-2,CCC=CCCCCC=O,0.000005,8.30,Aliphatic,Aldehyde
-(Z)-5-Octen-1-ol,64275-73-6,CCC=CCCCCO,0.006,5.22,Aliphatic,Alcohol
-3-Hexen-1-ol,544-12-7,CCC=CCCO,0.85,3.07,Aliphatic,Alcohol
-2-Penten-1-ol,20273-24-9,CCC=CCO,1.1,2.96,Aliphatic,Alcohol
-"5-Ethyl-2,4-dimethylthiazole",38205-61-7,CCC1=C(N=C(S1)C)C,0.00009,7.05,Cyclic,Thiazole
-"4,5-Diethylthiazole",NA,CCC1=C(SC=N1)CC,0.0051,5.29,Cyclic,Thiazole
-4-Ethyl-2-methoxyphenol,2785-89-9,CCC1=CC(=C(C=C1)O)OC,0.045,4.35,Cyclic,BenzeneDerivatives
-3-Ethyl-5-methylphenol,698-71-5,CCC1=CC(=CC(=C1)C)O,1,3.00,Cyclic,BenzeneDerivatives
-3-Ethylphenol,620-17-7,CCC1=CC(=CC=C1)O,0.2,3.70,Cyclic,BenzeneDerivatives
-3-Ethylanisole,10568-38-4,CCC1=CC(=CC=C1)OC,0.02,4.70,Cyclic,BenzeneDerivatives
-6-Ethyl-3-isobutyl-2H-2-pyranone,17654-99-8,CCC1=CC=C(C(=O)O1)CC(C)C,0.0032,5.49,Cyclic,Others
-4-Ethyltoluene,622-96-8,CCC1=CC=C(C=C1)C,0.6,3.22,Cyclic,BenzeneDerivatives
-4-Ethylphenol,123-07-9,CCC1=CC=C(C=C1)O,0.299,3.52,Cyclic,BenzeneDerivatives
-3-Ethyltoluene,620-14-4,CCC1=CC=CC(=C1)C,0.8,3.10,Cyclic,BenzeneDerivatives
-Ethylbenzene,100-41-4,CCC1=CC=CC=C1,0.749,3.13,Cyclic,BenzeneDerivatives
-2-Ethylphenol,90-00-6,CCC1=CC=CC=C1O,0.3,3.52,Cyclic,BenzeneDerivatives
-"1-(3-Ethyl-5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)ethanone",88-29-9,CCC1=CC2=C(C=C1C(=O)C)C(CCC2(C)C)(C)C,0.0024,5.62,Cyclic,Polycyclic
-5-Ethyl-3-methoxy-2-methylpyrazine,134079-38-2,CCC1=CN=C(C(=N1)OC)C,0.0002,6.70,Cyclic,Pyrazine
-5-Ethyl-2-methylpyridine,104-90-5,CCC1=CN=C(C=C1)C,0.0238,4.62,Cyclic,Others
-"2,5-Diethylpyrazine",13238-84-1,CCC1=CN=C(C=N1)CC,0.02,4.70,Cyclic,Pyrazine
-"2,5-Diethylthiazole",15729-76-7,CCC1=CN=C(S1)CC,0.00009,7.05,Cyclic,Thiazole
-"2,6-Diethylpyrazine",13067-27-1,CCC1=CN=CC(=N1)CC,0.006,5.22,Cyclic,Pyrazine
-"2,4-Diethylthiazole",32272-49-4,CCC1=CSC(=N1)CC,0.0065,5.19,Cyclic,Thiazole
-2-Ethyl-6-methylpyrazine,13925-03-6,CCC1=NC(=CN=C1)C,0.067,4.17,Cyclic,Pyrazine
-"2-Ethyl-3,6-dimethylpyrazine",13360-65-1,CCC1=NC(=CN=C1C)C,0.087,4.06,Cyclic,Pyrazine
-2-Ethyl-5-methylpyrazine,13360-64-0,CCC1=NC=C(N=C1)C,0.06,4.22,Cyclic,Pyrazine
-2-Ethylpyrazine,13925-00-3,CCC1=NC=CN=C1,7.57,2.12,Cyclic,Pyrazine
-2-Ethyl-3-methoxypyrazine,25680-58-4,CCC1=NC=CN=C1OC,0.0028,5.55,Cyclic,Pyrazine
-5-Ethyl-3-hydroxy-4-methyl-2(5H)-furanone,698-10-2,CCC1C(=C(C(=O)O1)O)C,0.455,3.34,Cyclic,Furan
-4-Hydroxy-2- or 5-ethyl-5- or 2-methyl-3(2H)-furanone,27538-10-9,CCC1C(=O)C(=C(O1)C)O,0.0153,4.82,Cyclic,Furan
-4-Hydroxyhexanoic acid lactone,695-06-7,CCC1CCC(=O)O1,0.163,3.79,Cyclic,Ester
-"2-Ethyl-4-methyl-1,3-dioxolane",4359-46-0,CCC1OCC(O1)C,0.19,3.72,Cyclic,Others
-"trans-3,5-Diethyl-1,2,4-trithiolane",38348-26-4,CCC1SC(SS1)CC,0.0000154,7.81,Cyclic,Others
-2-Pentanone,107-87-9,CCCC(=O)C,21.52,1.67,Aliphatic,Ketone
-"2,2-Dimethyl-3-hexanone",5405-79-8,CCCC(=O)C(C)(C)C,0.000615,6.21,Aliphatic,Ketone
-2-Methyl-3-hexanone,7379-12-6,CCCC(=O)C(C)C,0.028,4.55,Aliphatic,Ketone
-2-Methyl-4-heptanone,626-33-5,CCCC(=O)CC(C)C,0.041,4.39,Aliphatic,Ketone
-Butanoic acid,107-92-6,CCCC(=O)O,3.135,2.50,Aliphatic,Acid
-Ethyl butanoate,105-54-4,CCCC(=O)OCC,0.0232,4.63,Aliphatic,Ester
-Propyl butanoate,105-66-8,CCCC(=O)OCCC,0.0116,4.94,Aliphatic,Ester
-Isopentyl butanoate,106-27-4,CCCC(=O)OCCC(C)C,0.009052,5.04,Aliphatic,Ester
-3-Methyl-4-heptanol,1838-73-9,CCCC(C(C)CC)O,0.249,3.60,Aliphatic,Alcohol
-3-(Acetylthio)-2-ethylhexanal,NA,CCCC(C(CC)C=O)SC(=O)C,0.015,4.82,Aliphatic,Aldehyde
-"2,2-Dimethylpentane",590-35-2,CCCC(C)(C)C,100,1.00,Aliphatic,Hydrocarbon
-2-Methyl-2-pentanol,590-36-3,CCCC(C)(C)O,6.15,2.21,Aliphatic,Alcohol
-4-Methyl-4-heptanol,598-01-6,CCCC(C)(CCC)O,0.695,3.16,Aliphatic,Alcohol
-3-Methyl-2-hexanone,2550-21-2,CCCC(C)C(=O)C,0.5258,3.28,Aliphatic,Ketone
-2-Methylpentanoic acid,97-61-0,CCCC(C)C(=O)O,18.825,1.73,Aliphatic,Acid
-Ethyl 2-methylpentanoate,39255-32-8,CCCC(C)C(=O)OCC,0.0000068,8.17,Aliphatic,Ester
-"2,3-Dimethyl-2-hexanol",19550-03-9,CCCC(C)C(C)(C)O,0.54,3.27,Aliphatic,Alcohol
-3-Methyl-2-hexanol,2313-65-7,CCCC(C)C(C)O,0.2455,3.61,Aliphatic,Alcohol
-4-Methyl-3-heptanol,14979-39-6,CCCC(C)C(CC)O,0.315,3.50,Aliphatic,Alcohol
-2-Methylpentanal,123-15-9,CCCC(C)C=O,0.0024,5.62,Aliphatic,Aldehyde
-3-Methylhexane,589-34-4,CCCC(C)CC,500,0.30,Aliphatic,Hydrocarbon
-2-Methoxy-3-methyl-5-(2-methylpentyl)pyrazine,78261-14-0,CCCC(C)CC1=CN=C(C(=N1)C)OC,0.0012,5.92,Cyclic,Pyrazine
-2-Ethoxy-3-methyl-5-(2-methylpentyl)pyrazine,99784-17-5,CCCC(C)CC1=CN=C(C(=N1)C)OCC,0.002285,5.64,Cyclic,Pyrazine
-3-Methyl-5-(2-methylpentyl)-2-(methylthio)pyrazine,78246-18-1,CCCC(C)CC1=CN=C(C(=N1)C)SC,0.012,4.92,Cyclic,Pyrazine
-2-Methoxy-3-(2-methylpentyl)pyrazine,115652-11-4,CCCC(C)CC1=NC=CN=C1OC,0.000008,8.10,Cyclic,Pyrazine
-2-Pentanol,6032-29-7,CCCC(C)O,12.05,1.92,Aliphatic,Alcohol
-2-Pentyl acetate,53496-15-4,CCCC(C)OC(=O)C,0.007,5.15,Aliphatic,Ester
-2-Pentyl butanoate,60415-61-4,CCCC(C)OC(=O)CCC,0.0153,4.82,Aliphatic,Ester
-(R)-Methyl 3-hydroxyhexanoate,109053-86-3,CCCC(CC(=O)OC)O,3.76,2.42,Aliphatic,Ester
-Methyl 3-acetoxyhexanoate,77118-93-5,CCCC(CC(=O)OC)OC(=O)C,0.19,3.72,Aliphatic,Ester
-(R)-Ethyl 3-hydroxyhexanoate,2305-25-1,CCCC(CC(=O)OCC)O,0.27,3.57,Aliphatic,Ester
-2-Methyl-4-heptanol,21570-35-4,CCCC(CC(C)C)O,0.605,3.22,Aliphatic,Alcohol
-2-Ethylpentanoic acid,20225-24-5,CCCC(CC)C(=O)O,5.005,2.30,Aliphatic,Acid
-Ethyl 2-ethylpentanoate,NA,CCCC(CC)C(=O)OCC,0.00005,7.30,Aliphatic,Ester
-3-Hexanol,623-37-0,CCCC(CC)O,1.03,2.99,Aliphatic,Alcohol
-3-(Methylthio)hexanal,38433-74-8,CCCC(CC=O)SC,0.003,5.52,Aliphatic,Aldehyde
-4-Heptanol,589-55-9,CCCC(CCC)O,0.61,3.21,Aliphatic,Alcohol
-3-Mercaptohexan-1-ol,51755-83-0,CCCC(CCO)S,0.000046,7.34,Aliphatic,Sulfur_containing
-3-Mercaptohexyl acetate,136954-20-6,CCCC(CCOC(=O)C)S,0.0000141,7.85,Aliphatic,Ester
-(Z)-9-Tetradecenal,53939-27-8,CCCC/C=C\CCCCCCCC=O,0.00144,5.84,Aliphatic,Aldehyde
-"(E,E)-2,5-Nonadien-4-one",61759-51-1,CCCC=CC(=O)C=CC,0.004,5.40,Aliphatic,Ketone
-"(E,E)-2,4-Octadienal",30361-28-5,CCCC=CC=CC=O,0.01,5.00,Aliphatic,Aldehyde
-2-Hexenal,505-57-7,CCCC=CC=O,0.217,3.66,Aliphatic,Aldehyde
-Ethyl (E)-4-octenoate,78989-37-4,CCCC=CCCC(=O)OCC,0.05,4.30,Aliphatic,Ester
-(Z)-6-Decenal,105683-99-6,CCCC=CCCCCC=O,0.00034,6.47,Aliphatic,Aldehyde
-2-Hexen-1-ol,2305-21-7,CCCC=CCO,0.525,3.28,Aliphatic,Alcohol
-4-Ethyl-5-propylthiazole,57246-61-4,CCCC1=C(N=CS1)CC,0.00006,7.22,Cyclic,Thiazole
-Propyl benzene,103-65-1,CCCC1=CC=CC=C1,0.17712,3.75,Cyclic,BenzeneDerivatives
-2-Propylpyrazine,18138-03-9,CCCC1=NC=CN=C1,0.3,3.52,Cyclic,Pyrazine
-2-Methoxy-3-propylpyrazine,25680-57-3,CCCC1=NC=CN=C1OC,0.000063,7.20,Cyclic,Pyrazine
-2-Hexanone,591-78-6,CCCCC(=O)C,0.3935,3.41,Aliphatic,Ketone
-1-Hepten-3-one,2918-13-0,CCCCC(=O)C=C,0.00004,7.40,Aliphatic,Ketone
-3-Heptanone,106-35-4,CCCCC(=O)CC,0.0475,4.32,Aliphatic,Ketone
-5-Nonanone,502-56-7,CCCCC(=O)CCCC,0.0246,4.61,Aliphatic,Ketone
-Pentanoic acid,109-52-4,CCCCC(=O)O,4.8374,2.32,Aliphatic,Acid
-Methyl pentanoate,624-24-8,CCCCC(=O)OC,0.0355,4.45,Aliphatic,Ester
-Ethyl pentanoate,539-82-2,CCCCC(=O)OCC,0.01546,4.81,Aliphatic,Ester
-2-Methyl-3-heptanol,18720-62-2,CCCCC(C(C)C)O,0.45,3.35,Aliphatic,Ketone
-3-(Acetylthio)-2-propylheptanal,NA,CCCCC(C(CCC)C=O)SC(=O)C,0.05,4.30,Aliphatic,Aldehyde
-2-Methyl-2-hexanol,625-23-0,CCCCC(C)(C)O,1.95,2.71,Aliphatic,Alcohol
-2-Methylhexanoic acid,4536-23-6,CCCCC(C)C(=O)O,1.81,2.74,Aliphatic,Acid
-Ethyl 2-methylhexanoate,NA,CCCCC(C)C(=O)OCC,0.0025,5.60,Aliphatic,Ester
-2-Hexanol,626-93-7,CCCCC(C)O,0.96,3.02,Aliphatic,Alcohol
-2-Ethylhexanoic acid,149-57-5,CCCCC(CC)C(=O)O,45,1.35,Aliphatic,Acid
-2-Ethylhexanal,123-05-7,CCCCC(CC)C=O,0.0126,4.90,Aliphatic,Aldehyde
-2-Ethyl-1-hexanol,104-76-7,CCCCC(CC)CO,0.029,4.54,Aliphatic,Alcohol
-2-Ethylhexyl 2-propenoate,103-11-7,CCCCC(CC)COC(=O)C=C,0.00983,5.01,Aliphatic,Ester
-4-Octanol,589-62-8,CCCCC(CCC)O,0.61,3.21,Aliphatic,Alcohol
-5-Nonanol,623-93-8,CCCCC(CCCC)O,0.1685,3.77,Aliphatic,Alcohol
-(Z)-2-Butyl-2-octenal,NA,CCCCC/C=C(/CCCC)\C=O,0.02,4.70,Aliphatic,Aldehyde
-(Z)-6-Dodecenyl-γ-lactone,15456-69-6,CCCCC/C=C/CC1CCC(=O)O1,0.0007,6.15,Cyclic,Furan
-(E)-8-Tetradecenal,NA,CCCCC/C=C/CCCCCCC=O,0.000009,8.05,Aliphatic,Aldehyde
-"6,9-Pentadecadien-2-one",NA,CCCCC/C=C\C/C=C\CCCC(=O)C,0.001,6.00,Aliphatic,Ketone
-(Z)-4-Hydroxy-6-dodecenoic acid lactone,18679-18-0,CCCCC/C=C\CC1CCC(=O)O1,0.007175,5.14,Cyclic,Ester
-(Z)-8-Tetradecenal,169054-69-7,CCCCC/C=C\CCCCCCC=O,0.00124,5.91,Aliphatic,Aldehyde
-"trans-4,5-Epoxy-(E)-2-decenal",73528-44-6,CCCCC[C@H]1[C@@H](O1)/C=C/C=O,0.00095,6.02,Cyclic,Others
-"2,4-Nonadienal",6750-03-4,CCCCC=CC=CC=O,0.000075,7.12,Aliphatic,Aldehyde
-2-Heptenal,2463-63-0,CCCCC=CC=O,0.026,4.59,Aliphatic,Aldehyde
-5-Butyl-4-ethylthiazole,NA,CCCCC1=C(N=CS1)CC,0.00012,6.92,Cyclic,Thiazole
-4-Butyl-5-methylthiazole,57246-60-3,CCCCC1=C(SC=N1)C,0.00001,8.00,Cyclic,Thiazole
-4-Butyl-5-ethylthiazole,57246-62-5,CCCCC1=C(SC=N1)CC,0.00002,7.70,Cyclic,Thiazole
-4-Butyl-5-propylthiazole,57246-59-0,CCCCC1=C(SC=N1)CCC,0.000004,8.40,Cyclic,Thiazole
-2-Butylfuran,4466-24-4,CCCCC1=CC=CO1,0.005,5.30,Cyclic,Furan
-"5-Butyl-2,3-dimethylpyrazine",15834-78-3,CCCCC1=CN=C(C(=N1)C)C,0.61,3.21,Cyclic,Pyrazine
-2-Butyl-3-methoxypyrazine,32737-11-4,CCCCC1=NC=CN=C1OC,0.00005,7.30,Cyclic,Pyrazine
-3-Butylphthalide,6066-49-5,CCCCC1C2=CC=CC=C2C(=O)O1,0.01,5.00,Cyclic,Polycyclic
-4-Hydroxyoctanoic acid lactone,104-50-7,CCCCC1CCC(=O)O1,0.0043,5.37,Cyclic,Ester
-Methyl 2-octynoate,111-12-6,CCCCCC#CC(=O)OC,0.025,4.60,Aliphatic,Ester
-2-Heptanone,110-43-0,CCCCCC(=O)C,0.075,4.12,Aliphatic,Ketone
-1-Octen-3-one,4312-99-6,CCCCCC(=O)C=C,0.00053,6.28,Aliphatic,Ketone
-(E)-2-Nonen-4-one,27743-70-0,CCCCCC(=O)C=CC,0.0009,6.05,Aliphatic,Ketone
-3-Octanone,106-68-3,CCCCCC(=O)CC,0.0327,4.49,Aliphatic,Ketone
-1-Nonen-4-one,61168-10-3,CCCCCC(=O)CC=C,0.0004,6.40,Aliphatic,Ketone
-4-Nonanone,4485-09-0,CCCCCC(=O)CCC,0.0246,4.61,Aliphatic,Ketone
-6-Undecanone,927-49-1,CCCCCC(=O)CCCCC,0.065,4.19,Aliphatic,Ketone
-1-(Methylthio)-3-octanone,NA,CCCCCC(=O)CCSC,0.0055,5.26,Aliphatic,Ketone
-Hexanoic acid,142-62-1,CCCCCC(=O)O,3.0881,2.51,Aliphatic,Acid
-Methyl hexanoate,106-70-7,CCCCCC(=O)OC,0.00937,5.03,Aliphatic,Ester
-Ethyl hexanoate,123-66-0,CCCCCC(=O)OCC,0.00939,5.03,Aliphatic,Ester
-(Z)-2-Hexenyl hexanoate,56922-79-3,CCCCCC(=O)OCC=CCCC,0.2512,3.60,Aliphatic,Ester
-Isopentyl hexanoate,2198-61-0,CCCCCC(=O)OCCC(C)C,0.32,3.49,Aliphatic,Ester
-Butyl hexanoate,626-82-4,CCCCCC(=O)OCCCC,3.8,2.42,Aliphatic,Ester
-Methyl thiohexanoate,2432-77-1,CCCCCC(=O)SC,0.0022,5.66,Aliphatic,Ester
-"2,2-Dimethylheptane",1071-26-7,CCCCCC(C)(C)C,50,1.30,Aliphatic,Hydrocarbon
-2-Methyl-2-heptanol,625-25-2,CCCCCC(C)(C)O,0.28,3.55,Aliphatic,Alcohol
-2-Methylheptane,592-27-8,CCCCCC(C)C,50,1.30,Aliphatic,Hydrocarbon
-2-Methylheptanoic acid,1188-02-9,CCCCCC(C)C(=O)O,29.5,1.53,Aliphatic,Acid
-3-Methyloctane,2216-33-3,CCCCCC(C)CC,100,1.00,Aliphatic,Hydrocarbon
-"(R,S)-2-Heptanethiol",628-00-2,CCCCCC(C)S,0.01,5.00,Aliphatic,Sulfur_containing
-1-Octen-3-ol,3391-86-4,CCCCCC(C=C)O,0.1637,3.79,Aliphatic,Alcohol
-1-Octen-3-yl propanoate,63156-02-5,CCCCCC(C=C)OC(=O)CC,0.022,4.66,Aliphatic,Ester
-4-Nonanol,5932-79-6,CCCCCC(CCC)O,0.2535,3.60,Aliphatic,Alcohol
-(Z)-2-Nonenal,60784-31-8,CCCCCC/C=C\C=O,0.000004,8.40,Aliphatic,Aldehyde
-(Z)-7-Tetradecenal,65128-96-3,CCCCCC/C=C\CCCCCC=O,0.0026,5.59,Aliphatic,Aldehyde
-"(E,Z)-1,3,5-Undecatriene",51447-08-6,CCCCCC=CC=CC=C,0.00002,7.70,Aliphatic,Hydrocarbon
-"2,4-Decadienal",2363-88-4,CCCCCC=CC=CC=O,0.000169,6.77,Aliphatic,Aldehyde
-2-Octenal,2363-89-5,CCCCCC=CC=O,0.00264,5.58,Aliphatic,Aldehyde
-Methyl (Z)-4-decenoate,7367-83-1,CCCCCC=CCCC(=O)OC,0.0067,5.17,Aliphatic,Ester
-(E)-4-Decenal,65405-70-1,CCCCCC=CCCC=O,0.0000012,8.92,Aliphatic,Aldehyde
-Hexanal,66-25-1,CCCCCC=O,0.045,4.35,Aliphatic,Aldehyde
-2-Pentylpyridine,2294-76-0,CCCCCC1=CC=CC=N1,0.0066,5.18,Cyclic,Others
-2-Pentylfuran,3777-69-3,CCCCCC1=CC=CO1,0.00642,5.19,Cyclic,Furan
-"2,3-Dimethyl-5-pentylpyrazine",NA,CCCCCC1=CN=C(C(=N1)C)C,0.1,4.00,Cyclic,Pyrazine
-2-Methoxy-3-pentylpyrazine,32737-12-5,CCCCCC1=NC=CN=C1OC,0.00002,7.70,Cyclic,Pyrazine
-2-Pentyl-3-phenoxypyrazine,113685-85-1,CCCCCC1=NC=CN=C1OC2=CC=CC=C2,0.0009,6.05,Cyclic,Polycyclic
-2-Ethoxy-3-pentylpyrazine,113685-82-8,CCCCCC1=NC=CN=C1OCC,0.00008,7.10,Cyclic,Pyrazine
-2-(Methylthio)-3-pentylpyrazine,113685-87-3,CCCCCC1=NC=CN=C1SC,0.00012,6.92,Cyclic,Pyrazine
-2-Pentyl-3-(phenylthio)pyrazine,113685-96-4,CCCCCC1=NC=CN=C1SC2=CC=CC=C2,0.008,5.10,Cyclic,Polycyclic
-"4,5-Epoxy-(E)-2-decenal",134454-31-2,CCCCCC1C(O1)C=CC=O,0.00011,6.96,Cyclic,Others
-5-Hydroxydecanoic acid lactone,705-86-2,CCCCCC1CCCC(=O)O1,0.0356,4.45,Cyclic,Ester
-6-Pentyltetrahydro-2H-thiopyran-2-one,NA,CCCCCC1CCCC(=O)S1,0.006,5.22,Cyclic,Ketone
-Heptane,142-82-5,CCCCCCC,50,1.30,Aliphatic,Hydrocarbon
-2-Octanone,111-13-7,CCCCCCC(=O)C,0.03757,4.43,Aliphatic,Ketone
-1-Nonen-3-one,24415-26-7,CCCCCCC(=O)C=C,0.000000504,9.30,Aliphatic,Ketone
-3-Nonanone,925-78-0,CCCCCCC(=O)CC,0.02,4.70,Aliphatic,Ketone
-4-Oxodecanal,43160-78-7,CCCCCCC(=O)CCC=O,0.012,4.92,Aliphatic,Aldehyde
-5-Undecanone,33083-83-9,CCCCCCC(=O)CCCC,0.062,4.21,Aliphatic,Ketone
-Heptanoic acid,111-14-8,CCCCCCC(=O)O,4.725,2.33,Aliphatic,Acid
-Methyl heptanoate,106-73-0,CCCCCCC(=O)OC,0.0052,5.28,Aliphatic,Ester
-Ethyl heptanoate,106-30-9,CCCCCCC(=O)OCC,0.066,4.18,Aliphatic,Ester
-Methyl thioheptanoate,NA,CCCCCCC(=S)OC,0.005,5.30,Aliphatic,Ester
-3-Nonanol,624-51-1,CCCCCCC(CC)O,0.1685,3.77,Aliphatic,Alcohol
-"2,4-Undecadienal",13162-46-4,CCCCCCC=CC=CC=O,0.00001,8.00,Aliphatic,Aldehyde
-2-Nonenal,2463-53-8,CCCCCCC=CC=O,0.0000875,7.06,Aliphatic,Aldehyde
-Heptanal,111-71-7,CCCCCCC=O,0.0348,4.46,Aliphatic,Aldehyde
-"4-Hexyl-1,3-dihydroxybenzene",136-77-6,CCCCCCC1=C(C=C(C=C1)O)O,2,2.70,Cyclic,BenzeneDerivatives
-2-Hexylpyrazine,28217-91-6,CCCCCCC1=NC=CN=C1,0.0137,4.86,Cyclic,Pyrazine
-2-Hexyl-3-methoxypyrazine,25680-56-2,CCCCCCC1=NC=CN=C1OC,0.0000355,7.45,Cyclic,Pyrazine
-4-Hydroxydecanoic acid lactone,706-14-9,CCCCCCC1CCC(=O)O1,0.00675,5.17,Cyclic,Ester
-Octane,111-65-9,CCCCCCCC,10,2.00,Aliphatic,Hydrocarbon
-2-Nonanone,821-55-6,CCCCCCCC(=O)C,0.017,4.77,Aliphatic,Ketone
-3-Decanone,928-80-3,CCCCCCCC(=O)CC,0.033,4.48,Aliphatic,Ketone
-4-Undecanone,14476-37-0,CCCCCCCC(=O)CCC,0.0576,4.24,Aliphatic,Ketone
-Octanoic acid,124-07-2,CCCCCCCC(=O)O,5.02,2.30,Aliphatic,Acid
-Ethyl octanoate,106-32-1,CCCCCCCC(=O)OCC,0.6654,3.18,Aliphatic,Ester
-2-Methylnonane,871-83-0,CCCCCCCC(C)C,10,2.00,Aliphatic,Hydrocarbon
-3-Decanol,1565-81-7,CCCCCCCC(CC)O,0.1948,3.71,Aliphatic,Alcohol
-2-Decenal,3913-71-1,CCCCCCCC=CC=O,0.00072,6.14,Aliphatic,Aldehyde
-Octanal,124-13-0,CCCCCCCC=O,0.0075,5.12,Aliphatic,Aldehyde
-2-Heptyl-3-methoxypyrazine,113685-79-3,CCCCCCCC1=NC=CN=C1OC,0.000026,7.59,Cyclic,Pyrazine
-4-Hydroxyundecanoic acid lactone,104-67-6,CCCCCCCC1CCC(=O)O1,0.01,5.00,Cyclic,Ester
-Nonane,111-84-2,CCCCCCCCC,10,2.00,Aliphatic,Hydrocarbon
-2-Decanone,693-54-9,CCCCCCCCC(=O)C,0.0138,4.86,Aliphatic,Ketone
-Nonanoic acid,112-05-0,CCCCCCCCC(=O)O,6.2,2.21,Aliphatic,Acid
-Ethyl nonanoate,123-29-5,CCCCCCCCC(=O)OCC,4.25,2.37,Aliphatic,Ester
-(E)-2-Undecenal,53448-07-0,CCCCCCCCC=CC=O,0.0012,5.92,Aliphatic,Aldehyde
-Nonanal,124-19-6,CCCCCCCCC=O,0.021,4.68,Aliphatic,Aldehyde
-2-Methoxy-3-octylpyrazine,113685-80-6,CCCCCCCCC1=NC=CN=C1OC,0.00006,7.22,Cyclic,Pyrazine
-2-Ethoxy-3-octylpyrazine,113685-83-9,CCCCCCCCC1=NC=CN=C1OCC,0.002,5.70,Cyclic,Pyrazine
-4-Hydroxydodecanoic acid lactone,2305-05-7,CCCCCCCCC1CCC(=O)O1,0.003686,5.43,Cyclic,Ester
-Decane,124-18-5,CCCCCCCCCC,10,2.00,Aliphatic,Hydrocarbon
-2-Undecanone,112-12-9,CCCCCCCCCC(=O)C,0.0163,4.79,Aliphatic,Ketone
-3-Dodecanone,1534-27-6,CCCCCCCCCC(=O)CC,0.02515,4.60,Aliphatic,Ketone
-Decanoic acid,334-48-5,CCCCCCCCCC(=O)O,4.38,2.36,Aliphatic,Acid
-Ethyl decanoate,110-38-3,CCCCCCCCCC(=O)OCC,1.31,2.88,Aliphatic,Ester
-2-Methylundecane,7045-71-8,CCCCCCCCCC(C)C,10,2.00,Aliphatic,Hydrocarbon
-3-Dodecanol,10203-30-2,CCCCCCCCCC(CC)O,0.0615,4.21,Aliphatic,Alcohol
-(E)-2-Dodecenal,20407-84-5,CCCCCCCCCC=CC=O,0.0014,5.85,Aliphatic,Aldehyde
-7-Heptadecene,54290-12-9,CCCCCCCCCC=CCCCCCC,5.6,2.25,Aliphatic,Hydrocarbon
-Decanal,112-31-2,CCCCCCCCCC=O,0.01615,4.79,Aliphatic,Aldehyde
-4-Nonylphenol,104-40-5,CCCCCCCCCC1=CC=C(C=C1)O,1,3.00,Cyclic,BenzeneDerivatives
-Undecane,1120-21-4,CCCCCCCCCCC,10,2.00,Aliphatic,Hydrocarbon
-2-Dodecanone,6175-49-1,CCCCCCCCCCC(=O)C,0.04,4.40,Aliphatic,Ketone
-Undecanoic acid,112-37-8,CCCCCCCCCCC(=O)O,10,2.00,Aliphatic,Acid
-2-Dodecanol,10203-28-8,CCCCCCCCCCC(C)O,0.0615,4.21,Aliphatic,Alcohol
-Undecanal,112-44-7,CCCCCCCCCCC=O,0.0237,4.63,Aliphatic,Aldehyde
-2-Decyl-3-(methylthio)pyrazine,113685-89-5,CCCCCCCCCCC1=NC=CN=C1SC,0.02,4.70,Cyclic,Pyrazine
-Dodecane,112-40-3,CCCCCCCCCCCC,10,2.00,Aliphatic,Hydrocarbon
-Lauric acid,143-07-7,CCCCCCCCCCCC(=O)O,700,0.15,Aliphatic,Acid
-Ethyl dodecanoate,106-33-2,CCCCCCCCCCCC(=O)OCC,2.78,2.56,Aliphatic,Ester
-Dodecanal,112-54-9,CCCCCCCCCCCC=O,0.0216,4.67,Aliphatic,Aldehyde
-Tridecanoic acid,638-53-9,CCCCCCCCCCCCC(=O)O,10,2.00,Aliphatic,Acid
-Tridecanal,10486-19-8,CCCCCCCCCCCCC=O,0.013,4.89,Aliphatic,Aldehyde
-Tetradecane,629-59-4,CCCCCCCCCCCCCC,1,3.00,Aliphatic,Hydrocarbon
-Tetradecanoic acid,544-63-8,CCCCCCCCCCCCCC(=O)O,10,2.00,Aliphatic,Acid
-Ethyl tetradecanoate,124-06-1,CCCCCCCCCCCCCC(=O)OCC,2.472,2.61,Aliphatic,Ester
-1-Pentadecene,13360-61-7,CCCCCCCCCCCCCC=C,3.6,2.44,Aliphatic,Hydrocarbon
-Pentadecanoic acid,1002-84-2,CCCCCCCCCCCCCCC(=O)O,10,2.00,Aliphatic,Acid
-Ethyl hexadecanoate,628-97-7,CCCCCCCCCCCCCCCC(=O)OCC,2,2.70,Aliphatic,Ester
-1-Heptadecene,6765-39-5,CCCCCCCCCCCCCCCC=C,8,2.10,Aliphatic,Hydrocarbon
-Heptadecanoic acid,506-12-7,CCCCCCCCCCCCCCCCC(=O)O,20,1.70,Aliphatic,Acid
-Octadecanoic acid,57-11-4,CCCCCCCCCCCCCCCCCC(=O)O,20,1.70,Aliphatic,Acid
-Nonadecanoic acid,646-30-0,CCCCCCCCCCCCCCCCCCC(=O)O,20,1.70,Aliphatic,Acid
-Eicosanoic acid,506-30-9,CCCCCCCCCCCCCCCCCCCC(=O)O,20,1.70,Aliphatic,Acid
-1-Dodecanol,112-53-8,CCCCCCCCCCCCO,0.5435,3.26,Aliphatic,Alcohol
-1-Undecanol,112-42-5,CCCCCCCCCCCO,0.474,3.32,Aliphatic,Alcohol
-Undecyl acetate,1731-81-3,CCCCCCCCCCCOC(=O)C,0.25,3.60,Aliphatic,Ester
-1-Decanol,112-30-1,CCCCCCCCCCO,0.9,3.05,Aliphatic,Alcohol
-Decyl acetate,112-17-4,CCCCCCCCCCOC(=O)C,0.6125,3.21,Aliphatic,Ester
-1-Nonanol,143-08-8,CCCCCCCCCO,0.368,3.43,Aliphatic,Alcohol
-Nonyl acetate,143-13-5,CCCCCCCCCOC(=O)C,0.3114,3.51,Aliphatic,Ester
-1-Iodooctane,629-27-6,CCCCCCCCI,0.0002,6.70,Aliphatic,Hydrocarbon
-Octylamine,111-86-4,CCCCCCCCN,2.64,2.58,Aliphatic,Nitrogen_containing
-1-Octanol,111-87-5,CCCCCCCCO,0.36772,3.43,Aliphatic,Alcohol
-Octyl acetate,112-14-1,CCCCCCCCOC(=O)C,0.2752,3.56,Aliphatic,Ester
-Octyl 2-methylpropanoate,109-15-9,CCCCCCCCOC(=O)C(C)C,0.006,5.22,Aliphatic,Ester
-Octyl butanoate,110-39-4,CCCCCCCCOC(=O)CCC,2.9,2.54,Aliphatic,Ester
-Heptylamine,111-68-2,CCCCCCCN,13.8,1.86,Aliphatic,Nitrogen_containing
-1-Heptanol,111-70-6,CCCCCCCO,1.03775,2.98,Aliphatic,Alcohol
-Heptyl isobutyrate,2349-13-5,CCCCCCCOC(=O)C(C)C,0.01,5.00,Aliphatic,Ester
-Hexylamine,111-26-2,CCCCCCN,4.255,2.37,Aliphatic,Nitrogen_containing
-1-Hexanol,111-27-3,CCCCCCO,1.87,2.73,Aliphatic,Alcohol
-Hexyl acetate,142-92-7,CCCCCCOC(=O)C,0.036,4.44,Aliphatic,Ester
-Hexyl isobutyrate,2348-07-7,CCCCCCOC(=O)C(C)C,0.0118,4.93,Aliphatic,Ester
-Hexyl butanoate,2639-63-6,CCCCCCOC(=O)CCC,0.2265,3.64,Aliphatic,Ester
-Hexyl hexanoate,6378-65-0,CCCCCCOC(=O)CCCCC,6.4,2.19,Aliphatic,Ester
-2-(Hexylthio)ethanal,NA,CCCCCCSCC=O,0.00008,7.10,Aliphatic,Aldehyde
-Pentylamine,110-58-7,CCCCCN,12.555,1.90,Aliphatic,Nitrogen_containing
-1-Pentanol,71-41-0,CCCCCO,2.7,2.57,Aliphatic,Alcohol
-Pentyl acetate,628-63-7,CCCCCOC(=O)C,0.0139,4.86,Aliphatic,Ester
-Pentyl 2-methylbutanoate,68039-26-9,CCCCCOC(=O)C(C)CC,0.0268,4.57,Aliphatic,Ester
-Amyl valerate,2173-56-0,CCCCCOC(=O)CCCC,2.3715,2.62,Aliphatic,Ester
-1-Pentanethiol,110-66-7,CCCCCS,0.0008,6.10,Aliphatic,Sulfur_containing
-2-(Pentylthio)ethanal,NA,CCCCCSCC=O,0.0001,7.00,Aliphatic,Aldehyde
-Butylamine,109-73-9,CCCCN,50,1.30,Aliphatic,Nitrogen_containing
-1-Butanol,71-36-3,CCCCO,77,1.11,Aliphatic,Alcohol
-Butyl acetate,123-86-4,CCCCOC(=O)C,0.0487,4.31,Aliphatic,Ester
-2-Butyl 2-methylbutanoate,7785-66-2,CCCCOC(=O)C(=CC)C,0.0042,5.38,Aliphatic,Ester
-Butyl 2-propenoate,141-32-2,CCCCOC(=O)C=C,0.01,5.00,Aliphatic,Ester
-Butyl propanoate,590-01-2,CCCCOC(=O)CC,0.0335,4.47,Aliphatic,Ester
-Butyl formate,592-84-7,CCCCOC=O,3.4,2.47,Aliphatic,Ester
-"2,5-Dimethyl-4-butoxy-3(2H)-furanone",NA,CCCCOC1=C(OC(C1=O)C)C,0.25,3.60,Cyclic,Furan
-2-Butoxyethanol,111-76-2,CCCCOCCO,0.88,3.06,Aliphatic,Others
-"3,6-Dioxa-1-decanol",112-34-5,CCCCOCCOCCO,0.8,3.10,Aliphatic,Others
-1-Butanethiol,109-79-5,CCCCS,0.00355,5.45,Aliphatic,Sulfur_containing
-Propylamine,107-10-8,CCCN,76.25,1.12,Aliphatic,Nitrogen_containing
-Tripropylamine,102-69-2,CCCN(CCC)CCC,5.14,2.29,Aliphatic,Nitrogen_containing
-Ethylpropylamine,20193-20-8,CCCNCC,17.4,1.76,Aliphatic,Nitrogen_containing
-Dipropylamine,142-84-7,CCCNCCC,23.6,1.63,Aliphatic,Nitrogen_containing
-1-Propanol,71-23-8,CCCO,21.78,1.66,Aliphatic,Alcohol
-Propyl acetate,109-60-4,CCCOC(=O)C,1.369,2.86,Aliphatic,Ester
-Propyl (E)-2-methyl-2-butenoate,61692-83-9,CCCOC(=O)C(=CC)C,0.012,4.92,Aliphatic,Ester
-Propyl 2-methylpropanoate,644-49-5,CCCOC(=O)C(C)C,0.000258,6.59,Aliphatic,Ester
-Propyl 2-methylbutanoate,37064-20-3,CCCOC(=O)C(C)CC,0.00023,6.64,Aliphatic,Ester
-Propyl propanoate,106-36-5,CCCOC(=O)CC,0.05867,4.23,Aliphatic,Ester
-1-Propanethiol,107-03-9,CCCS,0.0031,5.51,Aliphatic,Sulfur_containing
-2-(Propylthio)ethanal,NA,CCCSCC=O,0.00007,7.15,Aliphatic,Aldehyde
-Ethylamine,75-04-7,CCN,52.55,1.28,Aliphatic,Nitrogen_containing
-Triethylamine,121-44-8,CCN(CC)CC,2.21,2.66,Aliphatic,Nitrogen_containing
-N-Ethylmethylamine,624-78-2,CCNC,9.02,2.04,Aliphatic,Nitrogen_containing
-Diethylamine,109-89-7,CCNCC,16.65,1.78,Aliphatic,Nitrogen_containing
-Ethanol,64-17-5,CCO,459.6,0.34,Aliphatic,Alcohol
-Ethyl acetate,141-78-6,CCOC(=O)C,3.13,2.50,Aliphatic,Ester
-Ethyl 2-methyl-2-propenoate,97-63-2,CCOC(=O)C(=C)C,0.026,4.59,Aliphatic,Ester
-Ethyl (Z)-2-methyl-2-butenoate,16509-44-7,CCOC(=O)C(=CC)C,0.00006,7.22,Aliphatic,Ester
-"Ethyl 3-(3,4-dimethylphenyl)-3-methyl-2,3-epoxypropanoate",3938-95-2,CCOC(=O)C(C)(C)C,0.0002,6.70,Aliphatic,Ester
-Ethyl 2-methylpropanoate,97-62-1,CCOC(=O)C(C)C,0.0026,5.59,Aliphatic,Ester
-"Ethyl 2-methyl-3,4-pentadienoate",60523-21-9,CCOC(=O)C(C)C=C=C,0.00005,7.30,Aliphatic,Ester
-Ethyl 2-methyl-4-pentenoate,53399-81-8,CCOC(=O)C(C)CC=C,0.00001,8.00,Aliphatic,Ester
-Ethyl 2-hydroxypropanoate,97-64-3,CCOC(=O)C(C)O,150,0.82,Aliphatic,Ester
-Ethyl 2-mercaptopropanoate,19788-49-9,CCOC(=O)C(C)S,0.001,6.00,Aliphatic,Ester
-Ethyl cinnamate,103-36-6,CCOC(=O)C=CC1=CC=CC=C1,0.016,4.80,Cyclic,BenzeneDerivatives
-"Ethyl 3-methyl-3-phenyl-2,3-epoxypropanoate",77-83-8,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2,1,3.00,Cyclic,Polycyclic
-"Ethyl 3-phenyl-2,3-epoxypropanoate",121-39-1,CCOC(=O)C1C(O1)C2=CC=CC=C2,8.5,2.07,Cyclic,Polycyclic
-Ethyl 3-cyclohexenecarboxylate,15111-56-5,CCOC(=O)C1CCC=CC1,0.000003,8.52,Cyclic,Ester
-Ethyl cyclobutanecarboxylate,14924-53-9,CCOC(=O)C1CCC1,0.00001,8.00,Cyclic,Ester
-Ethyl cyclopentanecarboxylate,5453-85-0,CCOC(=O)C1CCCC1,0.000001,9.00,Cyclic,Ester
-Ethyl cyclohexanecarboxylate,3289-28-9,CCOC(=O)C1CCCCC1,0.000001,9.00,Cyclic,Ester
-Ethyl cycloheptanecarboxylate,32777-26-7,CCOC(=O)C1CCCCCC1,0.000002,8.70,Cyclic,Ester
-Ethyl cyclooctanecarboxylate,NA,CCOC(=O)C1CCCCCCC1,0.000004,8.40,Cyclic,Ester
-Ethyl 3-methyl-3-butenoate,1617-19-2,CCOC(=O)CC(=C)C,0.00022,6.66,Aliphatic,Ester
-Ethyl acetoacetate,141-97-9,CCOC(=O)CC(=O)C,0.52,3.28,Aliphatic,Ester
-"Ethyl 3,3-dimethylbutanoate",NA,CCOC(=O)CC(C)(C)C,0.000003,8.52,Aliphatic,Ester
-3-Methylethyl butanoate,108-64-5,CCOC(=O)CC(C)C,0.00009335,7.03,Aliphatic,Ester
-Ethyl 3-hydroxybutanoate,5405-41-4,CCOC(=O)CC(C)O,2.5,2.60,Aliphatic,Ester
-Ethyl cyclohexylacetate,5452-75-5,CCOC(=O)CC1CCCCC1,0.00002,7.70,Cyclic,Ester
-Ethyl 4-methyl-4-pentenoate,4911-54-0,CCOC(=O)CCC(=C)C,0.00003,7.52,Aliphatic,Ester
-Ethyl 4-methylpentanoate,25415-67-2,CCOC(=O)CCC(C)C,0.00152,5.82,Aliphatic,Ester
-Ethyl 4-hydroxybutanoate,999-10-0,CCOC(=O)CCCO,45,1.35,Aliphatic,Ester
-Ethyl 4-(methylthio)butanoate,22014-48-8,CCOC(=O)CCCSC,0.019,4.72,Aliphatic,Ester
-Ethyl 3-(methylthio)propanoate,13327-56-5,CCOC(=O)CCSC,0.009423,5.03,Aliphatic,Ester
-Ethyl 2-(methylthio)acetate,4455-13-4,CCOC(=O)CSC,0.025,4.60,Aliphatic,Ester
-Ethyl formate,109-94-4,CCOC=O,23.39,1.63,Aliphatic,Ester
-trans-2-Ethoxy-5-(1-propenyl)phenol,94-86-0,CCOC1=C(C=C(C=C1)C=CC)O,0.16,3.80,Cyclic,BenzeneDerivatives
-3-Ethoxy-4-hydroxybenzaldehyde,121-32-4,CCOC1=C(C=CC(=C1)C=O)O,1.05,2.98,Cyclic,BenzeneDerivatives
-2-Ethoxy-6-methylpyrazine,53163-97-6,CCOC1=NC(=CN=C1)C,0.005,5.30,Cyclic,Pyrazine
-2-Ethoxy-3-methylpyrazine,32737-14-7,CCOC1=NC=CN=C1C,0.0008,6.10,Cyclic,Pyrazine
-2-Ethoxyethanol,110-80-5,CCOCCO,218.375,0.66,Aliphatic,Others
-2-Ethoxyethyl acetate,111-15-9,CCOCCOC(=O)C,27.5,1.56,Aliphatic,Ester
-"3,6-Dioxa-1-octanol",111-90-0,CCOCCOCCO,1.6,2.80,Aliphatic,Others
-O-Ethyl O-4-nitrophenyl phenylphosphonothioate,2104-64-5,CCOP(=S)(C1=CC=CC=C1)OC2=CC=C(C=C2)[N+](=O)[O-],0.018,4.74,Cyclic,Polycyclic
-"O,O-Diethyl O-(4-nitrophenyl)phosphorothioate",56-38-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-],0.04,4.40,Cyclic,BenzeneDerivatives
-"O,O-Diethyl O-(3-chloro-4-methyl-7-coumarinyl)phosphorothioate",56-72-4,CCOP(=S)(OCC)OC1=CC2=C(C=C1)C(=C(C(=O)O2)Cl)C,0.02,4.70,Cyclic,Polycyclic
-"O,O-Diethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate",2921-88-2,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,0.0012,5.92,Cyclic,Others
-Ethanethiol,75-08-1,CCS,0.002,5.70,Aliphatic,Sulfur_containing
-"2-(Ethylthio)-3,6-dimethylpyrazine",59021-09-9,CCSC1=NC(=CN=C1C)C,0.021,4.68,Cyclic,Pyrazine
-(Ethylthio)ethane,352-93-2,CCSCC,0.00637,5.20,Aliphatic,Sulfur_containing
-Ethyldithioethane,110-81-6,CCSSCC,0.000015,7.82,Aliphatic,Sulfur_containing
-Chlorine,7782-50-5,ClCl,0.3,3.52,Aliphatic,Others
-Methylamine,74-89-5,CN,47.6,1.32,Aliphatic,Nitrogen_containing
-Trimethylamine,75-50-3,CN(C)C,4.059,2.39,Aliphatic,Nitrogen_containing
-"N’-(3,4-Dichlorophenyl)-N,N-Dimethylurea",330-54-1,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,1,3.00,Cyclic,BenzeneDerivatives
-"N’-(4-Chlorophenyl)-N,N-Dimethylurea",150-68-5,CN(C)C(=O)NC1=CC=C(C=C1)Cl,5,2.30,Cyclic,BenzeneDerivatives
-Methyl isothiocyanate,556-61-6,CN=C=S,12.6,1.90,Aliphatic,Others
-(R)-(+)-3-(1-Methyl-2-pyrrolidinyl)pyridine,NA,CN1CCC[C@@H]1C2=CN=CC=C2,71,1.15,Cyclic,Polycyclic
-(S)-(-)-3-(1-Methyl-2-pyrrolidinyl)pyridine,54-11-5,CN1CCCC1C2=CN=CC=C2,497,0.30,Cyclic,Polycyclic
-N-Methylpiperidine,626-67-5,CN1CCCCC1,1.17,2.93,Cyclic,Others
-Dimethylamine,124-40-3,CNC,26.3,1.58,Aliphatic,Nitrogen_containing
-1-Naphthyl N-methylcarbamate,63-25-2,CNC(=O)OC1=CC=CC2=CC=CC=C21,0.28,3.55,Cyclic,Polycyclic
-Methyl N-methyl anthranilate,85-91-6,CNC1=CC=CC=C1C(=O)OC,0.349,3.46,Cyclic,BenzeneDerivatives
-Methanol,67-56-1,CO,507,0.29,Aliphatic,Alcohol
-"Methyl 3-phenyl-2,3-epoxypropanoate",NA,COC(=O)[C@H]1[C@H](O1)C2=CC=CC=C2,15,1.82,Cyclic,Polycyclic
-Methyl 3-hydroxybenzoate,19438-10-9,COC(=O)C1=CC(=CC=C1)O,2,2.70,Cyclic,BenzeneDerivatives
-Methyl 4-hydroxybenzoate,99-76-3,COC(=O)C1=CC=C(C=C1)O,2.6,2.59,Cyclic,BenzeneDerivatives
-Methyl benzoate,93-58-3,COC(=O)C1=CC=CC=C1,0.006601,5.18,Cyclic,BenzeneDerivatives
-"trans-Methyl 3-phenyl-2,3-epoxypropanoate",19190-80-8,COC(=O)C1C(O1)C2=CC=CC=C2,38,1.42,Cyclic,Polycyclic
-Methyl formate,107-31-3,COC=O,340,0.47,Aliphatic,Ester
-"2,3-Dichloro-4-hydroxy-5-methoxybenzaldehyde",18268-69-4,COC1=C(C(=C(C(=C1)C=O)Cl)Cl)O,7.5,2.12,Cyclic,BenzeneDerivatives
-Pentabromoanisole,1825-26-9,COC1=C(C(=C(C(=C1Br)Br)Br)Br)Br,0.000043,7.37,Cyclic,BenzeneDerivatives
-Pentachloroanisole,1825-21-4,COC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,0.0022,5.66,Cyclic,BenzeneDerivatives
-2-Methoxytetrachlorophenol,2539-17-5,COC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O,0.88,3.06,Cyclic,BenzeneDerivatives
-"2,3,4-Trichloroanisole",54135-80-7,COC1=C(C(=C(C=C1)Cl)Cl)Cl,0.0000011,8.96,Cyclic,BenzeneDerivatives
-"2,3,4,6-Tetrachloroanisole",938-22-7,COC1=C(C(=C(C=C1Cl)Cl)Cl)Cl,0.000003,8.52,Cyclic,BenzeneDerivatives
-5-Chloro-4-hydroxy-3-methoxybenzaldehyde,19463-48-0,COC1=C(C(=CC(=C1)C=O)Cl)O,3.8,2.42,Cyclic,BenzeneDerivatives
-"4,6-Dichloro-2-methoxyphenol",16766-31-7,COC1=C(C(=CC(=C1)Cl)Cl)O,0.0115,4.94,Cyclic,BenzeneDerivatives
-"2,6-Dimethoxyphenol",91-10-1,COC1=C(C(=CC=C1)OC)O,1.85,2.73,Cyclic,BenzeneDerivatives
-"4-Allyl-1,2-dimethoxybenzene",93-15-2,COC1=C(C=C(C=C1)CC=C)OC,0.48,3.32,Cyclic,BenzeneDerivatives
-"2,4-Dichloroanisole",553-82-2,COC1=C(C=C(C=C1)Cl)Cl,0.00093,6.03,Cyclic,BenzeneDerivatives
-"2,4,6-Tribromoanisole",607-99-8,COC1=C(C=C(C=C1Br)Br)Br,0.000003,8.52,Cyclic,BenzeneDerivatives
-"2,4,6-Trichloroanisole",87-40-1,COC1=C(C=C(C=C1Cl)Cl)Cl,0.0000046,8.34,Cyclic,BenzeneDerivatives
-Methyl 4-hydroxy-3-methoxybenzoate,3943-74-6,COC1=C(C=CC(=C1)C(=O)OC)O,0.79,3.10,Cyclic,BenzeneDerivatives
-4-Ethenyl-2-methoxyphenol,7786-61-0,COC1=C(C=CC(=C1)C=C)O,0.14,3.85,Cyclic,BenzeneDerivatives
-Ferulic acid,1135-24-6,COC1=C(C=CC(=C1)C=CC(=O)O)O,62,1.21,Cyclic,BenzeneDerivatives
-Vanillin,121-33-5,COC1=C(C=CC(=C1)C=O)O,3.4,2.47,Cyclic,BenzeneDerivatives
-4-Allyl-2-methoxyphenol,97-53-0,COC1=C(C=CC(=C1)CC=C)O,0.048,4.32,Cyclic,BenzeneDerivatives
-4-Chloro-2-methoxyphenol,16766-30-6,COC1=C(C=CC(=C1)Cl)O,0.0042,5.38,Cyclic,BenzeneDerivatives
-"2,3,6-Tribromoanisole",NA,COC1=C(C=CC(=C1Br)Br)Br,0.0000105,7.98,Cyclic,BenzeneDerivatives
-"2,6-Dibromo-3-chloroanisole",NA,COC1=C(C=CC(=C1Br)Cl)Br,0.000002,8.70,Cyclic,BenzeneDerivatives
-"2,3,6-Trichloroanisole",50375-10-5,COC1=C(C=CC(=C1Cl)Cl)Cl,0.000005,8.30,Cyclic,BenzeneDerivatives
-"2,6-Dichloroanisole",1984-65-2,COC1=C(C=CC=C1Cl)Cl,0.00004,7.40,Cyclic,BenzeneDerivatives
-"4,5-Dichloro-2-methoxyphenol",2460-49-3,COC1=CC(=C(C=C1O)Cl)Cl,0.0025,5.60,Cyclic,BenzeneDerivatives
-"4-Hydroxy-3,5-dimethoxybenzaldehyde",134-96-3,COC1=CC(=CC(=C1O)OC)C=O,1.9,2.72,Cyclic,BenzeneDerivatives
-"4-Allyl-2,6-dimethoxyphenol",6627-88-9,COC1=CC(=CC(=C1O)OC)CC=C,1.2,2.92,Cyclic,BenzeneDerivatives
-"5-Allyl-1-methoxy-2,3-(methylenedioxy)benzene",607-91-0,COC1=CC(=CC2=C1OCO2)CC=C,0.048,4.32,Cyclic,Polycyclic
-4-Methoxybenzaldehyde,123-11-5,COC1=CC=C(C=C1)C=O,0.039,4.41,Cyclic,BenzeneDerivatives
-1-Allyl-4-methoxybenzene,140-67-0,COC1=CC=C(C=C1)CC=C,0.0175,4.76,Cyclic,BenzeneDerivatives
-4-Chloroanisole,623-12-1,COC1=CC=C(C=C1)Cl,0.02,4.70,Cyclic,BenzeneDerivatives
-Methoxybenzene,100-66-3,COC1=CC=CC=C1,0.1646,3.78,Cyclic,BenzeneDerivatives
-Methoxypyrazine,3149-28-8,COC1=NC=CN=C1,0.6,3.22,Cyclic,Pyrazine
-2-Methoxyethanol,109-86-4,COCCO,100,1.00,Aliphatic,Others
-Methyl thiocyanate,556-64-9,CSC#N,5,2.30,Aliphatic,Others
-2-(Methylthio)benzothiazole,615-22-5,CSC1=NC2=CC=CC=C2S1,0.00625,5.20,Cyclic,Polycyclic
-Methional,3268-49-3,CSCCC=O,0.00058,6.24,Aliphatic,Aldehyde
-3-(Methylthio)-1-propanol,505-10-2,CSCCCO,0.4,3.40,Aliphatic,Sulfur_containing
-2-(Methylthiomethyl)ethanal,NA,CSCSCC=O,0.00003,7.52,Aliphatic,Aldehyde
-Methyl(methylthio)dithiomethan,423474-44-2,CSCSSC,0.000268,6.57,Aliphatic,Sulfur_containing
-"2,4,5,7-Tetrathiaoctane",NA,CSCSSCSC,0.0035,5.46,Aliphatic,Sulfur_containing
-Dimethyl disulphide,624-92-0,CSSC,0.0008,6.10,Aliphatic,Sulfur_containing
-2-[(Methyldithio)methyl]furan,57500-00-2,CSSCC1=CC=CO1,0.00004,7.40,Cyclic,Furan
-Methyltrithiomethane,3658-80-8,CSSSC,0.00006,7.22,Aliphatic,Sulfur_containing
-Methyltetrathiomethane,5756-24-1,CSSSSC,0.00002,7.70,Aliphatic,Sulfur_containing
-Ammonia,7664-41-7,N,46.9,1.33,Aliphatic,Others
-Dichloramine,3400-09-7,N(Cl)Cl,0.36,3.44,Aliphatic,Nitrogen_containing
-4-tert-Pentylanisole,NA,O(C)C1C=CC(=CC=1)C(C)(C)CC,0.031,4.51,Cyclic,BenzeneDerivatives
-Sulphur dioxide,7446-09-5,O=S=O,75,1.12,Aliphatic,Others
-3-Hydroxy-4-methyl-5-propyl-2(5H)-furanone,28664-37-1,O1C(C(=C(C)C1CCC)O)=O,0.3,3.52,Cyclic,Furan
+﻿Compound_name,CAS_number,Canonical_SMILES,n_original_records,ODT_min_mg_L,ODT_max_mg_L,log10_ODT_SD,ODT_geometric_mean_mg_L,Final_pT,Structure_type,Chemical_class
+Hydrogen cyanide,74-90-8,C#N,5,2,15,0.37903444331222,3.28,2.48412615628832,Aliphatic,Nitrogen-containing
+Tetrachloroethene,127-18-4,C(=C(Cl)Cl)(Cl)Cl,2,0.24,0.3,0.0685257273628732,0.27,3.56863623584101,Aliphatic,Hydrocarbon
+Trichloroethene,79-01-6,C(=C(Cl)Cl)Cl,2,0.5,0.56,0.0348023975866787,0.53,3.27572413039921,Aliphatic,Hydrocarbon
+"1,1-Dichloroethene",156-60-5,C(=CCl)Cl,1,1.6,1.6,NA,1.6,2.79588001734407,Aliphatic,Hydrocarbon
+Tribromomethane,75-25-2,C(Br)(Br)Br,5,0.001,0.005,0.248544260981376,0.0021,5.67778070526608,Aliphatic,Hydrocarbon
+Dibromoiodomethane,593-94-2,C(Br)(Br)I,1,0.00465,0.00465,NA,0.00465,5.33254704711005,Aliphatic,Hydrocarbon
+Bromodiiodomethane,557-95-9,C(Br)(I)I,1,0.00015,0.00015,NA,0.00015,6.82390874094432,Aliphatic,Hydrocarbon
+"1,2-Dichlorooxoethane",79-04-9,C(C(=O)Cl)Cl,1,25,25,NA,25,1.60205999132796,Aliphatic,Acid
+Hexachloroethane,67-72-1,C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl,5,0.01,0.03,0.222013443455569,0.021,4.67778070526608,Aliphatic,Hydrocarbon
+"1,5-Pentanedial",111-30-8,C(CC=O)CC=O,1,100,100,NA,100,1,Aliphatic,Aldehyde
+"1,2-Dichloroethane",107-06-2,C(CCl)Cl,2,29,29,NA,29,1.53760200210104,Aliphatic,Hydrocarbon
+"1,5-Pentanediamine",462-94-2,C(CCN)CCN,2,20,190,0.691354991425904,61.64,1.21013736995362,Aliphatic,Nitrogen-containing
+"1,4-Butanediamine",110-60-1,C(CCN)CN,2,20,22,0.0292690483669006,20.98,1.67819451614246,Aliphatic,Nitrogen-containing
+"N-(3-Aminopropyl)-1,4-butanediamine",124-20-9,C(CCNCCCN)CN,1,129,129,NA,129,0.889410289700751,Aliphatic,Nitrogen-containing
+"N,N'-Bis(3-aminopropyl)-1,4-butanediamine",71-44-3,C(CCNCCCN)CNCCCN,1,24,24,NA,24,1.61978875828839,Aliphatic,Nitrogen-containing
+"1,5-Pentanediol",111-29-5,C(CCO)CCO,1,645,645,NA,645,0.190440285364732,Aliphatic,Alcohol
+"1,4-Butanediol",110-63-4,C(CCO)CO,1,1000,1000,NA,1000,0,Aliphatic,Alcohol
+Bromochloroiodomethane,34970-00-8,C(Cl)(Br)I,1,0.00675,0.00675,NA,0.00675,5.17069622716897,Aliphatic,Hydrocarbon
+Carbon tetrachloride,56-23-5,C(Cl)(Cl)(Cl)Cl,1,1.08,1.08,NA,1.08,2.96657624451305,Aliphatic,Hydrocarbon
+Trichloromethane,67-66-3,C(Cl)(Cl)Cl,5,0.1,18,0.86872129716497,3.2,2.49485002168009,Aliphatic,Hydrocarbon
+Chlorodiiodomethane,638-73-3,C(Cl)(I)I,1,0.0002,0.0002,NA,0.0002,6.69897000433602,Aliphatic,Hydrocarbon
+Dichloromethane,75-09-2,C(Cl)Cl,1,5.6,5.6,NA,5.6,2.2518119729938,Aliphatic,Hydrocarbon
+2-(2-Aminoethylamino)ethanol,111-41-1,C(CNCCO)N,1,2.8,2.8,NA,2.8,2.55284196865778,Aliphatic,Nitrogen-containing
+2-Aminoethanol,141-43-5,C(CO)N,1,32,32,NA,32,1.49485002168009,Aliphatic,Nitrogen-containing
+Triethanolamine,102-71-6,C(CO)N(CCO)CCO,1,160,160,NA,160,0.795880017344075,Aliphatic,Nitrogen-containing
+"1,2-Ethanediol",107-21-1,C(CO)O,1,197,197,NA,197,0.705533773838407,Aliphatic,Alcohol
+Diethylene glycol,111-46-6,C(COCCO)O,1,240,240,NA,240,0.619788758288394,Aliphatic,Alcohol
+"3,6-Dioxa-1,8-octanediol",112-27-6,C(COCCOCCO)O,1,700,700,NA,700,0.154901959985743,Aliphatic,Alcohol
+2-Mercaptoethanol,60-24-2,C(CS)O,5,0.64,12.5,0.499381283701128,4.68,2.32975414692588,Aliphatic,Sulfur-containing
+Triiodomethane,75-47-8,C(I)(I)I,2,2e-5,6.5e-5,0.361956195724723,3.60555127546399e-5,7.44302832384658,Aliphatic,Hydrocarbon
+4-Androsten-3-one,,C[C@@]12CCC[C@H]1[C@@H]3CCC4=CC(=O)CC[C@@]4([C@H]3CC2)C,1,0.0022,0.0022,NA,0.0022,5.65757731917779,Cyclic,Polycyclic
+"(2R,4R,6R)-2,4,6-Trimethyl-4-phenyl-1,3-dioxane",,C[C@@H]1C[C@](O[C@@H](O1)C)(C)C2=CC=CC=C2,1,0.332,0.332,NA,0.332,3.47886191629596,Cyclic,Polycyclic
+"cis-3,5-Dimethyl-1,2,4-trithiolane",38348-23-1,C[C@@H]1S[C@@H](SS1)C,1,0.002,0.002,NA,0.002,5.69897000433602,Cyclic,Others
+"trans-3,5-Dimethyl-1,2,4-trithiolane",38348-24-2,C[C@H]1S[C@@H](SS1)C,1,0.000609,0.000609,NA,0.000609,6.21538270736712,Cyclic,Others
+Propenoic acid,79-10-7,C=CC(=O)O,1,5.25,5.25,NA,5.25,2.27984069659404,Aliphatic,Acid
+2-Vinylpyrazine,4177-16-6,C=CC1=NC=CN=C1,3,0.7,0.7,NA,0.7,3.15490195998574,Cyclic,Pyrazine
+"4-Allyl-1,2-(methylenedioxy)benzene",94-59-7,C=CCC1=CC2=C(C=C1)OCO2,3,0.0215,0.16,0.0750370797228499,0.052,4.2839966563652,Cyclic,Polycyclic
+5-Hexenyl isothiocyanate,49776-81-0,C=CCCCCN=C=S,1,0.021,0.021,NA,0.021,4.67778070526608,Aliphatic,Others
+Allyl isothiocyanate,57-06-7,C=CCN=C=S,4,0.046,0.375,0.1645,0.222,3.65364702554936,Aliphatic,Others
+Methanal,50-00-0,C=O,2,25,49.9,0.212245551122896,35.32,1.45197930509447,Aliphatic,Aldehyde
+Pentachlorophenol,87-86-5,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,4,0.3,1.6,0.351737655981064,0.478,3.32057210338788,Cyclic,BenzeneDerivatives
+2-Methoxy-3-(2-methylbutyl)pyrazine,115652-10-3,C1(OC)=NC=CN=C1CC(C)CC,1,1.2e-5,1.2e-5,NA,1.2e-5,7.92081875395237,Cyclic,Pyrazine
+2-(Phenylthio)-3-propylpyrazine,113685-95-3,C1(SC2=CC=CC=C2)=NC=CN=C1CCC,1,0.009,0.009,NA,0.009,5.04575749056067,Cyclic,Polycyclic
+Hexachlorophene,70-30-4,C1=C(C(=C(C(=C1Cl)Cl)CC2=C(C(=CC(=C2Cl)Cl)Cl)O)O)Cl,1,10,10,NA,10,2,Cyclic,Polycyclic
+Pentachlorobenzene,608-93-5,C1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,1,0.06,0.06,NA,0.06,4.22184874961636,Cyclic,BenzeneDerivatives
+"2,4,5-Trichlorophenol",95-95-4,C1=C(C(=CC(=C1Cl)Cl)Cl)O,3,0.111,0.25,0.0704059656563277,0.177,3.75202673363819,Cyclic,BenzeneDerivatives
+"2,4,5-Trichlorophenoxyacetic acid",93-76-5,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O,1,2.92,2.92,NA,2.92,2.53461714855158,Cyclic,BenzeneDerivatives
+"4,5-Dichloro-1,2-dihydroxybenzene",3428-24-8,C1=C(C(=CC(=C1Cl)Cl)O)O,1,3.5,3.5,NA,3.5,2.45593195564972,Cyclic,BenzeneDerivatives
+"2,4,6-Trinitrophenol",88-89-1,C1=C(C=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])[N+](=O)[O-],1,4,4,NA,4,2.39794000867204,Cyclic,BenzeneDerivatives
+"2,4,6-Tribromophenol",118-79-6,C1=C(C=C(C(=C1Br)O)Br)Br,1,0.0295,0.0295,NA,0.0295,4.53017798402184,Cyclic,BenzeneDerivatives
+"2,4,6-Trichloroaniline",634-93-5,C1=C(C=C(C(=C1Cl)N)Cl)Cl,1,0.05,0.05,NA,0.05,4.30102999566398,Cyclic,BenzeneDerivatives
+"2,4,6-Trichlorophenol",88-06-2,C1=C(C=C(C(=C1Cl)O)Cl)Cl,3,0.1,0.94,0.486594467924671,0.304,3.51712641639125,Cyclic,BenzeneDerivatives
+5-(Hydroxymethyl)furfural,67-47-0,C1=C(OC(=C1)C=O)CO,1,1000,1000,NA,1000,0,Cyclic,Furan
+"2,6-Dinitrophenol",573-56-8,C1=CC(=C(C(=C1)[N+](=O)[O-])O)[N+](=O)[O-],1,10,10,NA,10,2,Cyclic,BenzeneDerivatives
+"2,6-Dibromophenol",608-33-3,C1=CC(=C(C(=C1)Br)O)Br,1,0.0013,0.0013,NA,0.0013,5.88605664769316,Cyclic,BenzeneDerivatives
+"1,2,3-Trichlorobenzene",87-61-6,C1=CC(=C(C(=C1)Cl)Cl)Cl,2,0.01,0.02,0.212860351274558,0.014,4.85387196432176,Cyclic,BenzeneDerivatives
+"2,3-Dichlorophenol",576-24-9,C1=CC(=C(C(=C1)Cl)Cl)O,1,0.03,0.03,NA,0.03,4.52287874528034,Cyclic,BenzeneDerivatives
+"2,6-Dichlorophenol",87-65-0,C1=CC(=C(C(=C1)Cl)O)Cl,6,0.022,0.05,0.130688527390824,0.039,4.4089353929735,Cyclic,BenzeneDerivatives
+"1,2,3-Trihydroxybenzene",87-66-1,C1=CC(=C(C(=C1)O)O)O,1,2,2,NA,2,2.69897000433602,Cyclic,BenzeneDerivatives
+"1,2,3,4-Tetrachlorobenzene",634-66-2,C1=CC(=C(C(=C1Cl)Cl)Cl)Cl,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,BenzeneDerivatives
+"2,3,6-Trichlorophenol",933-75-5,C1=CC(=C(C(=C1Cl)O)Cl)Cl,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,BenzeneDerivatives
+"2,4-Dinitrophenol",51-28-5,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])O,1,4,4,NA,4,2.39794000867204,Cyclic,BenzeneDerivatives
+2-Chloro-4-nitrophenol,619-08-9,C1=CC(=C(C=C1[N+](=O)[O-])Cl)O,1,5,5,NA,5,2.30102999566398,Cyclic,BenzeneDerivatives
+"2,5-Dinitrophenol",329-71-5,C1=CC(=C(C=C1[N+](=O)[O-])O)[N+](=O)[O-],1,2.4,2.4,NA,2.4,2.61978875828839,Cyclic,BenzeneDerivatives
+4-Chloro-2-nitrophenol,89-64-5,C1=CC(=C(C=C1Cl)[N+](=O)[O-])O,1,0.8,0.8,NA,0.8,3.09691001300806,Cyclic,BenzeneDerivatives
+"2,2'-Methylenebis",97-23-4,C1=CC(=C(C=C1Cl)CC2=C(C=CC(=C2)Cl)O)O,1,0.5,0.5,NA,0.5,3.30102999566398,Cyclic,Polycyclic
+"1,2,4-Trichlorobenzene",120-82-1,C1=CC(=C(C=C1Cl)Cl)Cl,2,0.005,0.005,NA,0.005,5.30102999566398,Cyclic,BenzeneDerivatives
+"2,4-Dichlorophenol",120-83-2,C1=CC(=C(C=C1Cl)Cl)O,7,0.029,0.056,0.112043833741595,0.033,4.48148606012211,Cyclic,BenzeneDerivatives
+"2,4-Dichlorophenoxyacetic acid",94-75-7,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,1,3.13,3.13,NA,3.13,2.50445566245355,Cyclic,BenzeneDerivatives
+"2,5-Dichlorophenol",583-78-8,C1=CC(=C(C=C1Cl)O)Cl,4,0.01,0.03,0.238560627359831,0.013,4.88605664769316,Cyclic,BenzeneDerivatives
+"3,4-Dichloroaniline",95-76-1,C1=CC(=C(C=C1N)Cl)Cl,1,0.003,0.003,NA,0.003,5.52287874528034,Cyclic,BenzeneDerivatives
+3-Bromophenol,591-20-8,C1=CC(=CC(=C1)Br)O,1,0.05,0.05,NA,0.05,4.30102999566398,Cyclic,BenzeneDerivatives
+3-Chlorophenol,108-43-0,C1=CC(=CC(=C1)Cl)O,1,0.05,0.05,NA,0.05,4.30102999566398,Cyclic,BenzeneDerivatives
+3-Fluorophenol,372-20-3,C1=CC(=CC(=C1)F)O,1,2,2,NA,2,2.69897000433602,Cyclic,BenzeneDerivatives
+3-Nitrophenol,554-84-7,C1=CC(=CC(=C1)O)[N+](=O)[O-],1,0.6,0.6,NA,0.6,3.22184874961636,Cyclic,BenzeneDerivatives
+"1,3-Dihydroxybenzene",108-46-3,C1=CC(=CC(=C1)O)O,2,6,40,0.582591457800598,15.5,1.80966830182971,Cyclic,BenzeneDerivatives
+4-Nitrophenol,100-02-7,C1=CC(=CC=C1[N+](=O)[O-])O,1,2.5,2.5,NA,2.5,2.60205999132796,Cyclic,BenzeneDerivatives
+"2,4,4'-Trihydroxybenzophenone",1470-79-7,C1=CC(=CC=C1C(=O)C2=C(C=C(C=C2)O)O)O,1,6,6,NA,6,2.22184874961636,Cyclic,Polycyclic
+4-Hydroxybenzoic acid,99-96-7,C1=CC(=CC=C1C(=O)O)O,1,5,5,NA,5,2.30102999566398,Cyclic,BenzeneDerivatives
+"1,4-Dichlorobenzene",106-46-7,C1=CC(=CC=C1Cl)Cl,5,0.003,0.018,0.340298396410747,0.005,5.30102999566398,Cyclic,BenzeneDerivatives
+4-Chlorophenol,106-48-9,C1=CC(=CC=C1O)Cl,3,0.033,0.097,0.234591631460403,0.058,4.23657200643706,Cyclic,BenzeneDerivatives
+4-Fluorophenol,371-41-5,C1=CC(=CC=C1O)F,1,2.3,2.3,NA,2.3,2.63827216398241,Cyclic,BenzeneDerivatives
+"1,4-Dihydroxybenzene",123-31-9,C1=CC(=CC=C1O)O,1,5,5,NA,5,2.30102999566398,Cyclic,BenzeneDerivatives
+"3,4,5,6,7,8,8a-Heptachlorodicyclopentadiene",76-44-8,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,Polycyclic
+1-Chloro-2-nitrobenzene,88-73-3,C1=CC=C(C(=C1)[N+](=O)[O-])Cl,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,BenzeneDerivatives
+2-Nitrophenol,88-75-5,C1=CC=C(C(=C1)[N+](=O)[O-])O,1,1.7,1.7,NA,1.7,2.76955107862173,Cyclic,BenzeneDerivatives
+2-Chlorophenol,95-57-8,C1=CC=C(C(=C1)O)Cl,1,0.002,0.002,NA,0.002,5.69897000433602,Cyclic,BenzeneDerivatives
+2-Fluorophenol,367-12-4,C1=CC=C(C(=C1)O)F,1,1.5,1.5,NA,1.5,2.82390874094432,Cyclic,BenzeneDerivatives
+2-Iodophenol,533-58-4,C1=CC=C(C(=C1)O)I,2,0.001,0.001,NA,0.001,6,Cyclic,BenzeneDerivatives
+"1,2-Dihydroxybenzene",120-80-9,C1=CC=C(C(=C1)O)O,1,8,8,NA,8,2.09691001300806,Cyclic,BenzeneDerivatives
+(E)-3-Phenyl-2-propenoic acid,,C1=CC=C(C=C1)/C=C/C(=O)O,2,2,5,0.281386078637431,3.16,2.5003129173816,Cyclic,BenzeneDerivatives
+Nitrobenzene,98-95-3,C1=CC=C(C=C1)[N+](=O)[O-],1,0.2,0.2,NA,0.2,3.69897000433602,Cyclic,BenzeneDerivatives
+N-Benzoylglycine,495-69-2,C1=CC=C(C=C1)C(=O)NCC(=O)O,1,2.5,2.5,NA,2.5,2.60205999132796,Cyclic,BenzeneDerivatives
+3-Phenyl-2-propenal,104-55-2,C1=CC=C(C=C1)C=CC=O,1,0.008,0.008,NA,0.008,5.09691001300806,Cyclic,BenzeneDerivatives
+3-Phenyl-2-propen-1-ol,104-54-1,C1=CC=C(C=C1)C=CCO,1,0.077,0.077,NA,0.077,4.11350927482752,Cyclic,BenzeneDerivatives
+Benzaldehyde,100-52-7,C1=CC=C(C=C1)C=O,22,0.3,3.5,0.411389892753606,0.65,3.18708664335714,Cyclic,BenzeneDerivatives
+4-Phenylphenol,92-69-3,C1=CC=C(C=C1)C2=CC=C(C=C2)O,1,0.7,0.7,NA,0.7,3.15490195998574,Cyclic,Polycyclic
+2-Phenylphenol,90-43-7,C1=CC=C(C=C1)C2=CC=CC=C2O,1,0.4,0.4,NA,0.4,3.39794000867204,Cyclic,Polycyclic
+Phenylacetic acid,103-82-2,C1=CC=C(C=C1)CC(=O)O,2,1,6.1,0.555312051804226,2.47,2.60730304674033,Cyclic,BenzeneDerivatives
+2-Phenylethanal,122-78-1,C1=CC=C(C=C1)CC=O,1,0.04,0.04,NA,0.04,4.39794000867204,Cyclic,BenzeneDerivatives
+2-Phenylethyl cyanide,645-59-0,C1=CC=C(C=C1)CCC#N,1,0.015,0.015,NA,0.015,4.82390874094432,Cyclic,BenzeneDerivatives
+3-Phenylpropanoic acid,501-52-0,C1=CC=C(C=C1)CCC(=O)O,1,5,5,NA,5,2.30102999566398,Cyclic,BenzeneDerivatives
+2-Phenylethyl isothiocyanate,2257-09-2,C1=CC=C(C=C1)CCN=C=S,1,0.006,0.006,NA,0.006,5.22184874961636,Cyclic,Others
+2-Phenylethanol,60-12-8,C1=CC=C(C=C1)CCO,9,0.14,1.5,0.316947182321129,0.78,3.10790539730952,Cyclic,BenzeneDerivatives
+Benzyl isothiocyanate,622-78-6,C1=CC=C(C=C1)CN=C=S,4,0.004,0.035,0.457140764462122,0.007,5.15490195998574,Cyclic,BenzeneDerivatives
+Benzyl alcohol,100-51-6,C1=CC=C(C=C1)CO,6,10,100,0.341011118184863,15.94,1.79751168293991,Cyclic,BenzeneDerivatives
+Aniline,62-53-3,C1=CC=C(C=C1)N,1,70.1,70.1,NA,70.1,1.15428198203334,Cyclic,BenzeneDerivatives
+Phenol,108-95-2,C1=CC=C(C=C1)O,10,1,58.59,0.485516940194224,7.31,2.13608262304214,Cyclic,BenzeneDerivatives
+3-Phenoxybenzyl chloride,53874-66-1,C1=CC=C(C=C1)OC2=CC=CC(=C2)CCl,1,0.03,0.03,NA,0.03,4.52287874528034,Cyclic,Polycyclic
+Phenoxypyrazine,107697-82-5,C1=CC=C(C=C1)OC2=NC=CN=C2,1,0.03,0.03,NA,0.03,4.52287874528034,Cyclic,Polycyclic
+Benzenethiol,108-98-5,C1=CC=C(C=C1)S,1,0.05,0.05,NA,0.05,4.30102999566398,Cyclic,BenzeneDerivatives
+Phenyldithiobenzene,882-33-7,C1=CC=C(C=C1)SSC2=CC=CC=C2,1,0.005,0.005,NA,0.005,5.30102999566398,Cyclic,Polycyclic
+Coumarin,91-64-5,C1=CC=C2C(=C1)C=CC(=O)O2,3,0.034,0.05,0.00923760430703401,0.044,4.35654732351381,Cyclic,Polycyclic
+1-Hydroxynaphthalene,90-15-3,C1=CC=C2C(=C1)C=CC=C2O,1,4,4,NA,4,2.39794000867204,Cyclic,Polycyclic
+Indole,120-72-9,C1=CC=C2C(=C1)C=CN2,10,0.011,0.36,0.55687549681407,0.074,4.13076828026902,Cyclic,Polycyclic
+Dibenzofuran,132-64-9,C1=CC=C2C(=C1)C3=CC=CC=C3O2,5,0.0033,0.12,0.697951637371402,0.058,4.23657200643706,Cyclic,Polycyclic
+2-Hydroxynaphthalene,135-19-3,C1=CC=C2C=C(C=CC2=C1)O,3,1.29,7,0.36725440183241,3,2.52287874528034,Cyclic,Polycyclic
+Naphthalene,91-20-3,C1=CC=C2C=CC=CC2=C1,6,0.001,0.5,1.13621488788015,0.019,4.72124639904717,Cyclic,Polycyclic
+Benzene,71-43-2,C1=CC=CC=C1,6,10,111,0.423306670396046,18.85,1.72468864545819,Cyclic,BenzeneDerivatives
+Pyridine,110-86-1,C1=CC=NC=C1,8,19,79,0.257149391361546,56.3,1.24949160514865,Cyclic,Others
+Pyridine,290-37-9,C1=CN=CC=N1,6,75,500,0.317968015336662,157,0.804100347590766,Cyclic,Pyrazine
+2-Pyrrolecarbaldehyde,1003-29-8,C1=CNC(=C1)C=O,1,65,65,NA,65,1.18708664335714,Cyclic,Others
+Pyrrole,109-97-7,C1=CNC=C1,4,10,49.6,0.28520710836247,21.1,1.67571754470231,Cyclic,Others
+Furfural,98-01-1,C1=COC(=C1)C=O,10,2.5,23,0.338149855945963,3.57,2.44733178388781,Cyclic,Furan
+2-Furylacetic acid,2745-26-8,C1=COC(=C1)CC(=O)O,1,34.6,34.6,NA,34.6,1.46092390120722,Cyclic,Furan
+3-(2-Furyl)propanoic acid,935-13-7,C1=COC(=C1)CCC(=O)O,1,15.6,15.6,NA,15.6,1.80687540164554,Cyclic,Furan
+2-Furanmethanol,98-00-0,C1=COC(=C1)CO,12,0.5005,4.5005,0.251440890581212,1.9,2.72124639904717,Cyclic,Furan
+2-Furylmethanethiol,98-02-2,C1=COC(=C1)CS,17,1e-5,0.000125,0.412341460270625,5e-5,7.30102999566398,Cyclic,Furan
+3-Hydroxy-2-pyrone,496-64-0,C1=COC(=O)C(=C1)O,1,22.5,22.5,NA,22.5,1.64781748188864,Cyclic,Others
+Furan,110-00-9,C1=COC=C1,3,4.5,5.25,0.0386517470146158,4.987,2.30216063178164,Cyclic,Furan
+2-Thienylacetic acid,1918-77-0,C1=CSC(=C1)CC(=O)O,1,22.6,22.6,NA,22.6,1.6458915608526,Cyclic,Others
+3-(2-Thienyl)propanoic acid,5928-51-8,C1=CSC(=C1)CCC(=O)O,1,13.2,13.2,NA,13.2,1.87942606879415,Cyclic,Others
+2-Thiophenemethanol,636-72-6,C1=CSC(=C1)CO,1,15,15,NA,15,1.82390874094432,Cyclic,Others
+2-Thenylthiol,6258-63-5,C1=CSC(=C1)CS,2,4e-5,4e-5,NA,4e-5,7.39794000867204,Cyclic,Others
+2-Thiophenethiol,7774-74-5,C1=CSC(=C1)S,2,0.0006,0.0008,0.0883450278886091,0.0007,6.15490195998574,Cyclic,Others
+Thiazole,288-47-1,C1=CSC=N1,2,0.038,3.1,1.35168983531015,0.343,3.46470587995723,Cyclic,Thiazole
+Chlorogenic acid,327-97-9,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O,1,82,82,NA,82,1.08618614761628,Cyclic,Polycyclic
+3-Pyrroline,109-96-6,C1C=CCN1,1,62.8,62.8,NA,62.8,1.2020403562628,Cyclic,Others
+"1,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methanoindene",5103-71-9,C1C2C(C(C1Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,1,0.0015,0.0015,NA,0.0015,5.82390874094432,Cyclic,Polycyclic
+"1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4-endo-exo-5,8-dimethanonaphthalene",309-00-2,C1C2C=CC1C3C2C4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,1,0.017,0.017,NA,0.017,4.76955107862173,Cyclic,Polycyclic
+"1,2,3,4,10,10-Hexachloro-6,7-epoxy-1,4,4a,5,6,7,8,8a-octahydro-1,4-endo-endo-5,8-dimethanonaphthalene",72-20-8,C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl,1,0.018,0.018,NA,0.018,4.74472749489669,Cyclic,Polycyclic
+Cyclobutanone,1191-95-3,C1CC(=O)C1,1,2.8,2.8,NA,2.8,2.55284196865778,Cyclic,Ketone
+4-Hydroxybutanoic acid lactone,96-48-0,C1CC(=O)OC1,2,25,25,NA,25,1.60205999132796,Cyclic,Ester
+Cyclobutylamine,2516-34-9,C1CC(C1)N,1,32.5,32.5,NA,32.5,1.48811663902113,Cyclic,Others
+Cyclobutanol,2919-23-5,C1CC(C1)O,1,7,7,NA,7,2.15490195998574,Cyclic,Alcohol
+4-Phenyl-1-cyclohexene,4994-16-5,C1CC(CC=C1)C2=CC=CC=C2,1,0.01,0.01,NA,0.01,5,Cyclic,Polycyclic
+3-Phenyl-1-cyclohexene,15232-96-9,C1CC=CC(C1)C2=CC=CC=C2,1,0.01,0.01,NA,0.01,5,Cyclic,Polycyclic
+Cyclopropylamine,765-30-0,C1CC1N,1,38.9,38.9,NA,38.9,1.41005039867429,Cyclic,Others
+Indan,496-11-7,C1CC2=CC=CC=C2C1,1,0.063,0.063,NA,0.063,4.20065945054642,Cyclic,Polycyclic
+1-Phenyl-1-cyclohexene,771-98-2,C1CCC(=CC1)C2=CC=CC=C2,1,0.01,0.01,NA,0.01,5,Cyclic,Polycyclic
+Cyclopentanone,120-92-3,C1CCC(=O)C1,2,28.15,51.1,0.183099998357274,37.93,1.42101715729721,Cyclic,Ketone
+Cyclohexanone,108-94-1,C1CCC(=O)CC1,3,0.475,20,0.899459595985851,5.2,2.2839966563652,Cyclic,Ketone
+6-Aminohexanoic acid lactam,105-60-2,C1CCC(=O)NCC1,1,59.7,59.7,NA,59.7,1.22402566887063,Cyclic,Others
+4-Chloro-2-cyclopentylphenol,13347-42-7,C1CCC(C1)C2=C(C=CC(=C2)Cl)O,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,Polycyclic
+Cyclopentylamine,1003-03-8,C1CCC(C1)N,1,190,190,NA,190,0.721246399047171,Cyclic,Others
+Cyclopentanol,96-41-3,C1CCC(C1)O,7,0.1251,19,0.806777725599686,8.12,2.09044397075882,Cyclic,Alcohol
+Nitrocyclohexane,1122-60-7,C1CCC(CC1)[N+](=O)[O-],1,0.15,0.15,NA,0.15,3.82390874094432,Cyclic,Others
+Cyclohexylacetic acid,5292-21-7,C1CCC(CC1)CC(=O)O,1,19.1,19.1,NA,19.1,1.71896663275227,Cyclic,Others
+Cyclohexylamine,108-91-8,C1CCC(CC1)N,1,28.5,28.5,NA,28.5,1.54515513999149,Cyclic,Others
+"3-Cyclohexyl-5,6-trimethylene uracil",2164-08-1,C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O,1,0.15,0.15,NA,0.15,3.82390874094432,Cyclic,Polycyclic
+Cyclohexanol,108-93-0,C1CCC(CC1)O,4,0.28,3.5,0.502158603345759,0.63,3.20065945054642,Cyclic,Alcohol
+"1,2,3,4-Tetrahydronaphthalene",119-64-2,C1CCC2=CC=CC=C2C1,1,0.018,0.018,NA,0.018,4.74472749489669,Cyclic,Polycyclic
+Cycloheptanone,502-42-1,C1CCCC(=O)CC1,4,0.09,4.5,0.827319284820889,0.96,3.01772876696043,Cyclic,Ketone
+Cycloheptylamine,5452-35-7,C1CCCC(CC1)N,1,65.8,65.8,NA,65.8,1.18177410638604,Cyclic,Others
+Cycloheptanol,502-41-0,C1CCCC(CC1)O,1,7.15,7.15,NA,7.15,2.14569395819892,Cyclic,Alcohol
+Cyclooctanol,696-71-9,C1CCCC(CCC1)O,1,14.5,14.5,NA,14.5,1.83863199776503,Cyclic,Alcohol
+9-cis-Cycloheptadecen-1-one,542-46-1,C1CCCC=CCCCCCCCC(=O)CCC1,1,0.0031,0.0031,NA,0.0031,5.50863830616573,Cyclic,Ketone
+Cyclononanone,3350-30-9,C1CCCCC(=O)CCC1,3,0.1,0.52,0.362897236632309,0.247,3.60730304674033,Cyclic,Ketone
+Cyclodecanone,1502-06-3,C1CCCCC(=O)CCCC1,3,0.385,0.44,0.0294369893665184,0.414,3.3829996588791,Cyclic,Ketone
+11-Oxahexadecalactone,3391-83-1,C1CCCCC(=O)OCCCCCOCCCC1,1,0.019,0.019,NA,0.019,4.72124639904717,Cyclic,Ester
+Cycloundecanone,878-13-7,C1CCCCCC(=O)CCCC1,4,0.009,0.12,0.51266611624292,0.047,4.32790214206428,Cyclic,Ketone
+Cyclotetradecanone,3603-99-4,C1CCCCCCC(=O)CCCCCC1,1,0.024,0.024,NA,0.024,4.61978875828839,Cyclic,Ketone
+Cyclopentadecanone,502-72-7,C1CCCCCCCC(=O)CCCCCC1,1,0.015,0.015,NA,0.015,4.82390874094432,Cyclic,Ketone
+Cyclohexadecanone,2550-52-9,C1CCCCCCCC(=O)CCCCCCC1,1,0.0073,0.0073,NA,0.0073,5.13667713987954,Cyclic,Ketone
+16-Hydroxyhexadecanoic acid lactone,109-29-5,C1CCCCCCCC(=O)OCCCCCCC1,1,0.0046,0.0046,NA,0.0046,5.33724216831843,Cyclic,Ester
+Cycloheptadecanone,3661-77-6,C1CCCCCCCCC(=O)CCCCCCC1,1,0.0043,0.0043,NA,0.0043,5.36653154442041,Cyclic,Ketone
+Cyclooctadecanone,6907-37-5,C1CCCCCCCCC(=O)CCCCCCCC1,1,0.023,0.023,NA,0.023,4.63827216398241,Cyclic,Ketone
+15-Hydroxypentadecanoic acid lactone,106-02-5,C1CCCCCCCOC(=O)CCCCCC1,10,0.0001,0.00398,0.402747845912249,0.00087,6.06048074738138,Cyclic,Ester
+12-Oxahexadecalactone,6707-60-4,C1CCCCCOCCCCOC(=O)CCCC1,1,0.029,0.029,NA,0.029,4.53760200210104,Cyclic,Ester
+Azacycloheptane,111-49-9,C1CCCNCC1,1,46.9,46.9,NA,46.9,1.32882715728492,Cyclic,Others
+Azacyclooctane,1121-92-2,C1CCCNCCC1,1,82.8,82.8,NA,82.8,1.08196966321512,Cyclic,Others
+"1,2,3,4-Tetrahydropyridine",505-18-0,C1CCN=CC1,1,0.302,0.302,NA,0.302,3.51999305704285,Cyclic,Others
+Pyrrolidine,123-75-1,C1CCNC1,1,20.2,20.2,NA,20.2,1.69464863055338,Cyclic,Others
+Piperidine,110-89-4,C1CCNCC1,2,65.8,70.6,0.0216224820999002,68.16,1.16647041824136,Cyclic,Others
+Azetidine,503-29-7,C1CNC1,1,21.9,21.9,NA,21.9,1.65955588515988,Cyclic,Others
+"1,2,3,6-Tetrahydropyridine",694-05-3,C1CNCC=C1,1,226,226,NA,226,0.645891560852599,Cyclic,Others
+Heliotropine,120-57-0,C1OC2=C(O1)C=C(C=C2)C=O,2,0.062,1,0.853908025373014,0.25,3.60205999132796,Cyclic,Polycyclic
+"1,2,4-Trithiolane",289-16-7,C1SCSS1,1,0.00766,0.00766,NA,0.00766,5.1157712303674,Cyclic,Others
+2-Methylpropenoic acid,79-41-4,CC(=C)C(=O)O,2,51,51,NA,51,1.29242982390206,Aliphatic,Acid
+Methyl 2-methyl-2-propenoate,80-62-6,CC(=C)C(=O)OC,2,0.3588,0.3588,NA,0.3588,3.44514756562795,Aliphatic,Ester
+"[1R-(1α,3α,4β)]-4-Ethenyl-α,α,4-trimethyl-3-(1-methylethenyl)cyclohexanemethanol",639-99-6,CC(=C)C1CC(CCC1(C)C=C)C(C)(C)O,3,0.1,0.1,NA,0.1,4,Cyclic,Alcohol
+3-Methyl-3-buten-1-ol,763-32-6,CC(=C)CCO,1,0.5471,0.5471,NA,0.5471,3.26193328522253,Aliphatic,Alcohol
+3-Methyl-2-butenoic acid,541-47-9,CC(=CC(=O)O)C,1,14,14,NA,14,1.85387196432176,Aliphatic,Acid
+(E)-Nerolidol,372965-99-6,CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,1,0.25,0.25,NA,0.25,3.60205999132796,Aliphatic,Alcohol
+"(E)-3,7-Dimethyl-1,3,6-octatriene",3779-61-1,CC(=CCC=C(C)C=C)C,1,0.034,0.034,NA,0.034,4.46852108295774,Aliphatic,Hydrocarbon
+"7-Methyl-3-methylene-1,6-octadiene",123-35-3,CC(=CCCC(=C)C=C)C,5,0.014,0.099,0.355381495111152,0.032,4.49485002168009,Aliphatic,Hydrocarbon
+"(E,E)-2,6-Dimethyl-10-methylene-2,6,11-dodecatrienal",3779-62-2,CC(=CCCC(=C)C=C)CCC=C(C)C=O,4,0.0038,0.082,0.482132129124036,0.015,4.82390874094432,Aliphatic,Aldehyde
+"3,7,11-Trimethyl-2,6,10-dodecatrien-1-ol",4602-84-0,CC(=CCCC(=CCCC(=CCO)C)C)C,4,0.11,1,0.479303657420888,0.19,3.72124639904717,Aliphatic,Alcohol
+"3,7-Dimethyl-(E)-2,6-octadien-1-ol",106-24-1,CC(=CCCC(=CCO)C)C,1,0.1,0.1,NA,0.1,4,Aliphatic,Alcohol
+"3,7-Dimethyl-(E)-2,6-octadien-1-yl acetate",105-87-3,CC(=CCCC(=CCOC(=O)C)C)C,1,0.036,0.036,NA,0.036,4.44369749923271,Aliphatic,Ester
+Linalool,78-70-6,CC(=CCCC(C)(C=C)O)C,1,0.822,0.822,NA,0.822,3.08512818245995,Aliphatic,Alcohol
+3-Methyl-2-buten-1-ol,556-82-1,CC(=CCO)C,8,0.14,7.75,0.751668312074374,3.05,2.51570016065321,Aliphatic,Alcohol
+2-(Prenylthio)ethanal,,CC(=CCSCC=O)C,1,5e-5,5e-5,NA,5e-5,7.30102999566398,Aliphatic,Aldehyde
+Propanone,67-64-1,CC(=O)C,5,140,500,0.23513020166019,237,0.625251653989896,Aliphatic,Ketone
+"2,2-Dimethyl-3-butanone",75-97-8,CC(=O)C(C)(C)C,1,0.6,0.6,NA,0.6,3.22184874961636,Aliphatic,Ketone
+"2',3',4'-Trihydroxyacetophenone",528-21-2,CC(=O)C1=C(C(=C(C=C1)O)O)O,1,2,2,NA,2,2.69897000433602,Cyclic,BenzeneDerivatives
+"4-Acetyl-6-tert-butyl-1,1-dimethylindane",13171-00-1,CC(=O)C1=C2CCC(C2=CC(=C1)C(C)(C)C)(C)C,1,0.005,0.005,NA,0.005,5.30102999566398,Cyclic,Polycyclic
+1-(4-Hydroxy-3-methoxyphenyl)ethanone,498-02-2,CC(=O)C1=CC(=C(C=C1)O)OC,1,0.78,0.78,NA,0.78,3.10790539730952,Cyclic,BenzeneDerivatives
+4'-Hydroxyacetophenone,99-93-4,CC(=O)C1=CC=C(C=C1)O,1,5.5,5.5,NA,5.5,2.25963731050576,Cyclic,BenzeneDerivatives
+Acetophenone,98-86-2,CC(=O)C1=CC=CC=C1,7,0.036,0.065,0.102136158705873,0.0388,4.41116827440579,Cyclic,BenzeneDerivatives
+2-Acetylpyridine,1122-62-9,CC(=O)C1=CC=CC=N1,1,0.019,0.019,NA,0.019,4.72124639904717,Cyclic,Others
+2-Acetylpyrrole,1072-83-9,CC(=O)C1=CC=CN1,11,58.59,170,0.216092042181847,127.14,0.895717792905562,Cyclic,Others
+2-Acetylfuran,1192-62-7,CC(=O)C1=CC=CO1,10,10,15.0252,0.0854123009041715,11.3,1.94692155651658,Cyclic,Furan
+"2-Acetyl-1,4,5,6-tetrahydropyridine",25343-57-1,CC(=O)C1=CCCCN1,1,0.0015,0.0015,NA,0.0015,5.82390874094432,Cyclic,Others
+"5-Acetyl-2,3-dihydro-1,4-thiazine",164524-93-0,CC(=O)C1=CSCCN1,4,0.0006,0.001475,0.195320384965269,0.00118,5.92811799269387,Cyclic,Others
+Acetylpyrazine,22047-25-2,CC(=O)C1=NC=CN=C1,1,0.61,0.61,NA,0.61,3.21467016498923,Cyclic,Pyrazine
+2-Acetylthiazole,24295-03-2,CC(=O)C1=NC=CS1,1,0.01,0.01,NA,0.01,5,Cyclic,Thiazole
+2-Acetyl-1-pyrroline,85213-22-5,CC(=O)C1=NCCC1,23,5.3e-5,0.001,0.35438562607004,0.00013,6.88605664769316,Cyclic,Others
+2-Acetyltetrahydropyridine,27300-27-2,CC(=O)C1=NCCCC1,8,0.001,0.002,0.100832948064702,0.00141,5.85078088734462,Cyclic,Others
+2-Acetyl-2-thiazoline,29926-41-8,CC(=O)C1=NCCS1,3,0.001,0.001,NA,0.001,6,Cyclic,Thiazole
+"4,4-Dimethyl-2-pentanone",590-50-1,CC(=O)CC(C)(C)C,1,0.02405,0.02405,NA,0.02405,4.61888491929015,Aliphatic,Ketone
+4-Hydroxy-4-methyl-2-pentanone,123-42-2,CC(=O)CC(C)(C)O,2,44.12,100,0.25128064507848,66.42,1.17770112873763,Aliphatic,Ketone
+2-Mercapto-2-methyl-4-pentanone,19872-52-7,CC(=O)CC(C)(C)S,1,7.5e-7,7.5e-7,NA,7.5e-7,9.1249387366083,Aliphatic,Ketone
+1-Hydroxy-2-propanone,116-09-6,CC(=O)CO,5,10,100,0.432320340967807,59,1.22914798835786,Aliphatic,Ketone
+Acetic acid,64-19-7,CC(=O)O,31,25.59,550,0.431929137948962,66.66,1.17613469067549,Aliphatic,Acid
+Methyl acetate,79-20-9,CC(=O)OC,1,12.126,12.126,NA,12.126,1.91628243610105,Aliphatic,Ester
+tert-Butyl acetate,540-88-5,CC(=O)OC(C)(C)C,2,0.081,0.43,0.512640704339161,0.19,3.72124639904717,Aliphatic,Ester
+Bornyl acetate,76-49-3,CC(=O)OC1CC2CCC1(C2(C)C)C,1,0.009,0.009,NA,0.009,5.04575749056067,Cyclic,Polycyclic
+Cyclopentyl acetate,933-05-1,CC(=O)OC1CCCC1,1,0.021,0.021,NA,0.021,4.67778070526608,Cyclic,Ester
+"2,2-Dimethylpropyl acetate",926-41-0,CC(=O)OCC(C)(C)C,1,0.004,0.004,NA,0.004,5.39794000867204,Aliphatic,Ester
+Benzyl acetate,140-11-4,CC(=O)OCC1=CC=CC=C1,5,0.27,0.364,0.0566687806006691,0.29,3.53760200210104,Cyclic,BenzeneDerivatives
+2-Phenylethyl acetate,103-45-7,CC(=O)OCCC1=CC=CC=C1,7,0.019,0.48,0.612072453622587,0.045,4.34678748622466,Cyclic,BenzeneDerivatives
+3-(Methylthio)propyl acetate,16630-55-0,CC(=O)OCCCSC,1,0.03,0.03,NA,0.03,4.52287874528034,Aliphatic,Ester
+3-Hydroxy-2-butanone,513-86-0,CC(C(=O)C)O,5,0.8,8,0.360515204472194,2.98,2.52578373592374,Aliphatic,Ketone
+3-Mercapto-2-butanone,40789-98-8,CC(C(=O)C)S,1,0.003,0.003,NA,0.003,5.52287874528034,Aliphatic,Ketone
+"2,2-Dichloropropanoic acid",75-99-0,CC(C(=O)O)(Cl)Cl,1,23.2,23.2,NA,23.2,1.6345120151091,Aliphatic,Acid
+"2-(2,4,5-Trichlorophenoxy)propanoic acid",93-72-1,CC(C(=O)O)OC1=CC(=C(C=C1Cl)Cl)Cl,1,0.78,0.78,NA,0.78,3.10790539730952,Cyclic,BenzeneDerivatives
+"3,3-Dimethyl-2-butanol",464-07-3,CC(C(C)(C)C)O,2,2.85,6.2,0.238681652100217,4.2,2.3767507096021,Aliphatic,Alcohol
+"2,2-Dimethylpropanoic acid",75-98-9,CC(C)(C)C(=O)O,3,5.25,50,0.493708368472507,14.9,1.82681373158773,Aliphatic,Acid
+"Methyl 2,2-dimethylpropanoate",598-98-1,CC(C)(C)C(=O)OC,1,0.028,0.028,NA,0.028,4.55284196865778,Aliphatic,Ester
+"2-tert-Butyl-4,6-dinitrophenol",1420-07-1,CC(C)(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,1,0.5,0.5,NA,0.5,3.30102999566398,Cyclic,Others
+3-tert-Butyl-4-hydroxyanisole,121-00-6,CC(C)(C)C1=C(C=CC(=C1)OC)O,1,3,3,NA,3,2.52287874528034,Cyclic,BenzeneDerivatives
+"2,4-Di-tert-butylphenol",96-76-4,CC(C)(C)C1=CC(=C(C=C1)O)C(C)(C)C,1,0.5,0.5,NA,0.5,3.30102999566398,Cyclic,BenzeneDerivatives
+"4-tert-Butyl-1,2-dihydroxybenzene",98-29-3,CC(C)(C)C1=CC(=C(C=C1)O)O,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+"1,3-Di-tert-butyl-4,6-dihydroxbenzene",5374-06-1,CC(C)(C)C1=CC(=C(C=C1O)O)C(C)(C)C,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,BenzeneDerivatives
+4-tert-Butylphenol,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,1,0.8,0.8,NA,0.8,3.09691001300806,Cyclic,BenzeneDerivatives
+2-sec-Butylcyclohexanone,1728-46-7,CC(C)(C)C1CCCCC1=O,1,0.26,0.26,NA,0.26,3.58502665202918,Cyclic,Ketone
+2-tert-Butylcyclohexanol,13491-79-7,CC(C)(C)C1CCCCC1O,1,0.182,0.182,NA,0.182,3.73992861201493,Cyclic,Alcohol
+"3,3-Dimethylbutanoic acid",1070-83-3,CC(C)(C)CC(=O)O,1,2.71,2.71,NA,2.71,2.56703070912559,Aliphatic,Acid
+"4-(1,1,3,3-Tetramethylbutyl)phenol",140-66-9,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)O,1,2.7,2.7,NA,2.7,2.56863623584101,Cyclic,BenzeneDerivatives
+"2,2-Dimethyl-1-propanol",75-84-3,CC(C)(C)CO,1,1.66,1.66,NA,1.66,2.77989191195994,Aliphatic,Alcohol
+2-Methyl-3-buten-2-ol,115-18-4,CC(C)(C=C)O,1,50.57,50.57,NA,50.57,1.29610704636746,Aliphatic,Alcohol
+3-Mercapto-3-methylbutan-1-ol,34300-94-2,CC(C)(CCO)S,3,0.0013,0.004,0.281814272934782,0.0028,5.55284196865778,Aliphatic,Sulfur-containing
+1-Methoxy-3-methyl-3-butanethiol,94087-83-9,CC(C)(CCOC)S,1,5.1e-7,5.1e-7,NA,5.1e-7,9.29242982390206,Aliphatic,Sulfur-containing
+3-Mercapto-3-methylbutyl formate,50746-10-6,CC(C)(CCOC=O)S,4,3e-6,3.5e-6,0.0334733948153065,3.36768410368517e-6,8.47266865305738,Aliphatic,Ester
+2-Nitropropane,79-46-9,CC(C)[N+](=O)[O-],2,22,24.9,0.0380258453916191,23.41,1.63059858630338,Aliphatic,Others
+3-Methyl-2-butanone,563-80-4,CC(C)C(=O)C,2,1.005,1.67,0.155952690073899,1.3,2.88605664769316,Aliphatic,Ketone
+"2,4-Dimethyl-3-pentanone",565-80-0,CC(C)C(=O)C(C)C,1,0.0266,0.0266,NA,0.0266,4.57511836336893,Aliphatic,Ketone
+2-Methylpropanoic acid,79-31-2,CC(C)C(=O)O,5,5.3,16,0.181103838168566,8.14,2.0893755951108,Aliphatic,Acid
+Methyl 2-methylpropanoate,547-63-7,CC(C)C(=O)OC,4,0.00655,0.007,0.0144283700112369,0.007,5.15490195998574,Aliphatic,Ester
+"2,4-Dimethyl-3-pentanol",600-36-2,CC(C)C(C(C)C)O,1,0.251,0.251,NA,0.251,3.60032627851896,Aliphatic,Alcohol
+"2,3-Dimethylbutanoic acid",14287-61-7,CC(C)C(C)C(=O)O,1,6.9,6.9,NA,6.9,2.16115090926274,Aliphatic,Acid
+"2,3-Dimethyl-1-butanol",54206-54-1,CC(C)C(C)CO,1,1.665,1.665,NA,1.665,2.77858576215766,Aliphatic,Alcohol
+3-Methyl-2-butanol,598-75-4,CC(C)C(C)O,1,0.615,0.615,NA,0.615,3.21112488422458,Aliphatic,Alcohol
+"1,2-Dimethylpropyl acetate",5343-96-4,CC(C)C(C)OC(=O)C,1,0.006,0.006,NA,0.006,5.22184874961636,Aliphatic,Ester
+2-Methyl-1-nitropropane,625-74-1,CC(C)C[N+](=O)[O-],1,5,5,NA,5,2.30102999566398,Aliphatic,Others
+2-Isopropylphenol,88-69-7,CC(C)C1=CC=CC=C1O,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+Isopropylpyrazine,29460-90-0,CC(C)C1=NC=CN=C1,1,0.1,0.1,NA,0.1,4,Cyclic,Pyrazine
+2-Methoxy-6-isopropylpyrazine,93905-03-4,CC(C)C1=NC=CN=C1OC,3,2e-6,2.4e-5,0.556891759169289,5.76899828122963e-6,8.23889959043215,Cyclic,Pyrazine
+2-Isopropyl-3-(methylthio)pyrazine,67952-59-4,CC(C)C1=NC=CN=C1SC,1,4.7e-5,4.7e-5,NA,4.7e-5,7.32790214206428,Cyclic,Pyrazine
+1-Isopropyl-4-methylenebicyclo[3.1.0]hexane,3387-41-5,CC(C)C12CCC(=C)C1C2,8,0.037,0.98,0.550633553560868,0.1305,3.8843894883257,Cyclic,Polycyclic
+"8-Isopropenyl-5,6-dimethylbicyclo[4.4.0]-3-decanone",1803-39-0,CC(C)C1CCC2(CCCC(=O)C2(C1)C)C,1,0.05,0.05,NA,0.05,4.30102999566398,Cyclic,Polycyclic
+Isobutyl cyanide,625-28-5,CC(C)CC#N,6,0.21,1,0.276702814234269,0.771,3.11294562194904,Aliphatic,Nitrogen-containing
+4-Methyl-2-pentanone,108-10-1,CC(C)CC(=O)C,1,0.04514,0.04514,NA,0.04514,4.34543844525826,Aliphatic,Ketone
+3-Methylbutanoic acid,503-74-2,CC(C)CC(=O)O,1,3.91,3.91,NA,3.91,2.40782324260413,Aliphatic,Acid
+Methyl 3-methylbutanoate,556-24-1,CC(C)CC(=O)OC,1,0.0242,0.0242,NA,0.0242,4.61618463401957,Aliphatic,Ester
+"2,5-Dimethyl-3-hexanol",19550-07-3,CC(C)CC(C(C)C)O,1,1.05,1.05,NA,1.05,2.97881070093006,Aliphatic,Alcohol
+"2,2,4-Trimethyl-1-pentanol",123-44-4,CC(C)CC(C)(C)CO,1,0.62,0.62,NA,0.62,3.20760831050175,Aliphatic,Alcohol
+"2,4-Dimethyl-2-pentanol",625-06-9,CC(C)CC(C)(C)O,1,3.25,3.25,NA,3.25,2.48811663902113,Aliphatic,Alcohol
+"2,4-Dimethyl-1-pentanol",6305-71-1,CC(C)CC(C)CO,1,0.32,0.32,NA,0.32,3.49485002168009,Aliphatic,Alcohol
+4-Methyl-2-pentanol,108-11-2,CC(C)CC(C)O,1,3.3,3.3,NA,3.3,2.48148606012211,Aliphatic,Alcohol
+"2,6-Dimethyl-4-heptanol",108-82-7,CC(C)CC(CC(C)C)O,1,1.3,1.3,NA,1.3,2.88605664769316,Aliphatic,Alcohol
+1-Nitro-3-methylbutane,627-67-8,CC(C)CC[N+](=O)[O-],1,0.15,0.15,NA,0.15,3.82390874094432,Aliphatic,Others
+3-Methylbutanal,590-86-3,CC(C)CC=O,1,0.585,0.585,NA,0.585,3.23284413391782,Aliphatic,Aldehyde
+3-Isobutyl-2-methoxypyridine,35243-42-6,CC(C)CC1=C(N=CC=C1)OC,1,0.011,0.011,NA,0.011,4.95860731484177,Cyclic,Others
+2-Isobutyl-3-methoxypyrazine,24683-00-9,CC(C)CC1=NC=CN=C1OC,22,1e-6,4.5e-5,0.489635401007725,3.6696151057065e-6,8.43537948513041,Cyclic,Pyrazine
+2-Isobutylthiazole,18640-74-9,CC(C)CC1=NC=CS1,11,0.0035,0.029,0.371482757027037,0.0051,5.29242982390206,Cyclic,Thiazole
+4-Methylpentanoic acid,646-07-1,CC(C)CCC(=O)O,1,0.81,0.81,NA,0.81,3.09151498112135,Aliphatic,Acid
+"2,5-Dimethyl-2-hexanol",3730-60-7,CC(C)CCC(C)(C)O,1,1.45,1.45,NA,1.45,2.83863199776503,Aliphatic,Alcohol
+5-Methyl-2-hexanol,627-59-8,CC(C)CCC(C)O,1,0.49,0.49,NA,0.49,3.30980391997149,Aliphatic,Alcohol
+2-Isopentyl-3-methoxypyrazine,32737-13-6,CC(C)CCC1=NC=CN=C1OC,1,6.3e-6,6.3e-6,NA,6.3e-6,8.20065945054642,Cyclic,Pyrazine
+6-Methyl-2-heptanone,928-68-7,CC(C)CCCC(=O)C,1,0.01605,0.01605,NA,0.01605,4.79452496325911,Aliphatic,Ketone
+5-Methylhexanoic acid,628-46-6,CC(C)CCCC(=O)O,1,15.8,15.8,NA,15.8,1.80134291304558,Aliphatic,Acid
+"1-Hydroxy-3,7,11,15-tetramethyl-2-hexadecene",150-86-7,CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C,1,0.64,0.64,NA,0.64,3.19382002601611,Aliphatic,Alcohol
+6-Methyl-2-heptanol,4730-22-7,CC(C)CCCC(C)O,1,0.4,0.4,NA,0.4,3.39794000867204,Aliphatic,Alcohol
+2-Isohexyl-3-methoxypyrazine,68844-95-1,CC(C)CCCC1=NC=CN=C1OC,1,6e-6,6e-6,NA,6e-6,8.22184874961636,Cyclic,Pyrazine
+"Isooctyl 2,4-dichlorophenoxyacetate",25168-26-7,CC(C)CCCCCOC(=O)COC1=C(C=C(C=C1)Cl)Cl,1,0.12,0.12,NA,0.12,3.92081875395238,Cyclic,BenzeneDerivatives
+5-Methyl-1-hexanol,627-98-5,CC(C)CCCCO,1,0.495,0.495,NA,0.495,3.30539480106643,Aliphatic,Alcohol
+4-Methyl-1-pentanol,626-89-1,CC(C)CCCO,1,2.46,2.46,NA,2.46,2.60906489289662,Aliphatic,Alcohol
+3-Methyl-1-butanol,123-51-3,CC(C)CCO,8,0.22,3.06,0.461740505112368,0.871,3.05998184499234,Aliphatic,Alcohol
+Isoamyl acetate,123-92-2,CC(C)CCOC(=O)C,1,0.005,0.005,NA,0.005,5.30102999566398,Aliphatic,Ester
+Isopentyl 2-methylpropanoate,2050-01-3,CC(C)CCOC(=O)C(C)C,1,0.02585,0.02585,NA,0.02585,4.58753945257004,Aliphatic,Ester
+Isoamyl isovalerate,659-70-1,CC(C)CCOC(=O)CC(C)C,1,0.0199,0.0199,NA,0.0199,4.70114692359029,Aliphatic,Ester
+Potassium isopentyl xanthate,928-70-1,CC(C)CCOC(=S)[S-].[K+],1,0.005,0.005,NA,0.005,5.30102999566398,Aliphatic,Ester
+2-(Isopentylthio)ethanal,,CC(C)CCSCC=O,1,0.0003,0.0003,NA,0.0003,6.52287874528034,Aliphatic,Aldehyde
+2-Methyl-1-propanol,78-83-1,CC(C)CO,14,0.36,200,0.843258917174946,7.77,2.10957898119909,Aliphatic,Alcohol
+2-Methylpropyl acetate,110-19-0,CC(C)COC(=O)C,7,0.0025,0.0065,0.156845182778665,0.0029,5.53760200210104,Aliphatic,Ester
+Potassium isobutyl xanthate,13001-46-2,CC(C)COC(=S)[S-].[K+],1,0.005,0.005,NA,0.005,5.30102999566398,Aliphatic,Ester
+2-(Isobutylthio)ethanal,,CC(C)CSCC=O,1,8e-5,8e-5,NA,8e-5,7.09691001300806,Aliphatic,Aldehyde
+Isopropylamine,75-31-0,CC(C)N,1,5,5,NA,5,2.30102999566398,Aliphatic,Nitrogen-containing
+2-Propanol,67-63-0,CC(C)O,2,8.5,9.7879,0.0433248552860435,9.12,2.04000516167158,Aliphatic,Alcohol
+2-Propyl acetate,108-21-4,CC(C)OC(=O)C,5,1.99,8,0.248085932361155,3.054,2.5151309672796,Aliphatic,Ester
+"Isopropyl 2,4-dichlorophenoxyacetate",94-11-1,CC(C)OC(=O)COC1=C(C=C(C=C1)Cl)Cl,3,0.02905,0.25,0.469993099552514,0.08,4.09691001300806,Cyclic,BenzeneDerivatives
+2-(Isopropylthio)ethanal,,CC(C)SCC=O,1,0.0005,0.0005,NA,0.0005,6.30102999566398,Aliphatic,Aldehyde
+1-Phenylethanol,98-85-1,CC(C1=CC=CC=C1)O,3,0.479,1.45,0.244460506174777,0.786,3.10457745396059,Cyclic,BenzeneDerivatives
+1-Phenylethyl acetate,93-92-5,CC(C1=CC=CC=C1)OC(=O)C,1,0.16,0.16,NA,0.16,3.79588001734407,Cyclic,BenzeneDerivatives
+4-Mercapto-4-methylpentan-2-ol,31539-84-1,CC(CC(C)(C)S)O,1,2e-5,2e-5,NA,2e-5,7.69897000433602,Aliphatic,Sulfur-containing
+"2,4-Pentanediol",625-69-4,CC(CC(C)O)O,1,19.3,19.3,NA,19.3,1.71444269099223,Aliphatic,Alcohol
+3-(Methylthio)butanal,16630-52-7,CC(CC=O)SC,1,0.0025,0.0025,NA,0.0025,5.60205999132796,Aliphatic,Aldehyde
+"2,5-Hexanediol",2935-44-6,CC(CCC(C)O)O,1,33.5,33.5,NA,33.5,1.47495519296315,Aliphatic,Alcohol
+"2,6-Dimethyl-5-heptenal",106-72-9,CC(CCC=C(C)C)C=O,1,0.016,0.016,NA,0.016,4.79588001734407,Aliphatic,Aldehyde
+"3,7-Dimethyl-6-octenal",106-23-0,CC(CCC=C(C)C)CC=O,4,0.031,0.1,0.217307711934762,0.055,4.25963731050576,Aliphatic,Aldehyde
+"3,7-Dimethyl-6-octen-1-ol",106-22-9,CC(CCC=C(C)C)CCO,9,0.0106,2.2,0.845494366678752,0.69,3.16115090926274,Aliphatic,Alcohol
+"3,7-Dimethyl-1,7-octanediol",107-74-4,CC(CCCC(C)(C)O)CCO,1,5,5,NA,5,2.30102999566398,Aliphatic,Alcohol
+"1,5-Hexanediol",928-40-5,CC(CCCCO)O,1,5.335,5.335,NA,5.335,2.27286557623951,Aliphatic,Alcohol
+"1,4-Pentanediol",626-95-9,CC(CCCO)O,1,29.45,29.45,NA,29.45,1.53091470087688,Aliphatic,Alcohol
+"1,2-Dichloropropane",78-87-5,CC(CCl)Cl,1,0.19,0.19,NA,0.19,3.72124639904717,Aliphatic,Hydrocarbon
+"1,3-Butanediol",107-88-0,CC(CCO)O,1,15,15,NA,15,1.82390874094432,Aliphatic,Alcohol
+"1,1,1-Trichloroethane",71-55-6,CC(Cl)(Cl)Cl,1,10.235,10.235,NA,10.235,1.98991215300148,Aliphatic,Hydrocarbon
+1-Amino-2-propanol,78-96-6,CC(CN)O,1,28,28,NA,28,1.55284196865778,Aliphatic,Nitrogen-containing
+Diisopropanolamine,110-97-4,CC(CNCC(C)O)O,1,10,10,NA,10,2,Aliphatic,Nitrogen-containing
+3-Mercapto-2-methyl-1-butanol,227456-33-9,CC(CO)C(C)S,1,0.00023,0.00023,NA,0.00023,6.63827216398241,Aliphatic,Sulfur-containing
+2-Methyl-3-buten-1-ol,4516-90-9,CC(CO)C=C,1,1.1,1.1,NA,1.1,2.95860731484177,Aliphatic,Alcohol
+3-Mercapto-2-methylpropanol,56160-79-3,CC(CO)CS,1,0.003,0.003,NA,0.003,5.52287874528034,Aliphatic,Sulfur-containing
+"1,2-Propanediol",57-55-6,CC(CO)O,1,340,340,NA,340,0.468521082957745,Aliphatic,Alcohol
+"4,8-Dioxa-1-nonanol",34590-94-8,CC(COC(C)COC)O,1,40,40,NA,40,1.39794000867204,Aliphatic,Others
+1-Methoxy-2-propanol,107-98-2,CC(COC)O,1,4,4,NA,4,2.39794000867204,Aliphatic,Others
+"4-Oxa-2,6-heptanediol",110-98-5,CC(COCC(C)O)O,1,240,240,NA,240,0.619788758288394,Aliphatic,Alcohol
+(E)-2-Methyl-2-pentenal,,CC/C=C(\C)/C=O,1,0.25,0.25,NA,0.25,3.60205999132796,Aliphatic,Aldehyde
+"(Z,Z)-3,6-Nonadien-1-ol",53406-97-2,CC/C=C\C/C=C\CCO,1,0.01,0.01,NA,0.01,5,Aliphatic,Alcohol
+5-Hydroxy-(Z)-7-decenoic acid lactone,25524-95-2,CC/C=C\CC1CCCC(=O)O1,1,2,2,NA,2,2.69897000433602,Cyclic,Others
+"Methyl (2R,3S)-2-hydroxy-3-methylpentanoate",,CC[C@H](C)[C@H](C(=O)OC)O,1,0.013,0.89,NA,0.013,4.88605664769316,Aliphatic,Ester
+2-Methyl-2-butenal,1115-11-3,CC=C(C)C=O,1,0.5,0.5,NA,0.5,3.30102999566398,Aliphatic,Aldehyde
+3-Penten-2-one,625-33-2,CC=CC(=O)C,1,0.6,0.6,NA,0.6,3.22184874961636,Aliphatic,Ketone
+β-Damascenone,23696-85-7,CC=CC(=O)C1=C(C=CCC1(C)C)C,1,0.0044,0.0044,NA,0.0044,5.35654732351381,Cyclic,Ketone
+"(E)-1-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-2-buten-1-one",23726-91-2,CC=CC(=O)C1=C(CCCC1(C)C)C,3,2e-6,9e-5,0.954482689855853,0.0003,6.52287874528034,Cyclic,Ketone
+"1-(2,2-Dimethyl-6-methylenecyclohexyl)-2-buten-1-one",35087-49-1,CC=CC(=O)C1C(=C)CCCC1(C)C,1,0.0092,0.0092,NA,0.0092,5.03621217265444,Cyclic,Ketone
+"(S)-(-)-1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-2-buten-1-one",116497-11-1,CC=CC(=O)C1C(=CCCC1(C)C)C,1,0.0015,0.0015,NA,0.0015,5.82390874094432,Cyclic,Ketone
+"2,4-Hexadienal",142-83-6,CC=CC=CC=O,1,0.268,0.268,NA,0.268,3.57186520597121,Aliphatic,Aldehyde
+(E)-2-Butenal,123-73-9,CC=CC=O,1,0.3126,0.3126,NA,0.3126,3.50501102631683,Aliphatic,Aldehyde
+1-Methoxy-4-((E)-1-propenyl)benzene,4180-23-8,CC=CC1=CC=C(C=C1)OC,2,0.015,0.086,0.536274868496704,0.036,4.44369749923271,Cyclic,BenzeneDerivatives
+"Methyl deca-4,8-dienoate",1191-03-3,CC=CCCC=CCCC(=O)OC,1,0.03,0.03,NA,0.03,4.52287874528034,Aliphatic,Ester
+2-Butenyl isothiocyanate,2253-93-2,CC=CCN=C=S,1,0.38,0.38,NA,0.38,3.42021640338319,Aliphatic,Others
+2-(2-Butenylthio)ethanal,,CC=CCSCC=O,1,4e-5,4e-5,NA,4e-5,7.39794000867204,Aliphatic,Aldehyde
+Ethanal,75-07-0,CC=O,1,51.5,51.5,NA,51.5,1.28819277095881,Aliphatic,Aldehyde
+"α-Ethenyl-α,3,3-trimethyloxiranpropanol",15249-35-1,CC1(C(O1)CCC(C)(C=C)O)C,1,1.148,1.148,NA,1.148,2.94005811193804,Cyclic,Ketone
+"6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptane",127-91-3,CC1(C2CCC(=C)C1C2)C,5,0.14,4.16,0.703121747648109,0.44,3.35654732351381,Cyclic,Polycyclic
+"8,8-Dimethyl-2-methylene-6-oxabicyclo[3.2.1]octane",19901-96-3,CC1(C2CCC(=C)C1CO2)C,1,0.003,0.003,NA,0.003,5.52287874528034,Cyclic,Polycyclic
+"Hexahydro-1,1-dimethyl-4-methylene-1H-cyclopenta[c]furan",19901-95-2,CC1(C2CCC(=C)C2CO1)C,1,0.003,0.003,NA,0.003,5.52287874528034,Cyclic,Polycyclic
+"1,3,3-Trimethylbicyclo[2.2.1]-2-heptanone",1195-79-5,CC1(C2CCC(C2)(C1=O)C)C,5,0.44,1.2,0.229643535654627,0.674,3.17134010346468,Cyclic,Polycyclic
+"1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octane",470-82-6,CC1(C2CCC(O1)(CC2)C)C,1,0.012,0.012,NA,0.012,4.92081875395237,Cyclic,Polycyclic
+"1,7,7-Trimethylbicyclo[2.2.1]-2-heptanone",76-22-2,CC1(C2CCC1(C(=O)C2)C)C,4,0.25,4.6,0.617605069495526,1.45,2.83863199776503,Cyclic,Polycyclic
+"exo-1,7,7-Trimethylbicyclo[2.2,1]-2-heptanol",124-76-5,CC1(C2CCC1(C(C2)O)C)C,4,0.0025,0.015,0.467052504851989,0.004,5.39794000867204,Cyclic,Polycyclic
+"trans-5-Ethenyltetrahydro-α,α,5-trimethyl-2-furanmethanol",34995-77-2,CC1(CCC(O1)C(C)(C)O)C=C,7,0.06,0.32,0.116910586557917,0.187,3.7281583934635,Cyclic,Furan
+"(3aR)-3a,6,6,9a-Tetramethyl-3aα,5aβ,9aα,9bβ-dodecahydronaphtho[2,1-b]furan",6790-58-5,CC1(CCCC2(C1CCC3(C2CCO3)C)C)C,1,0.0006,0.0006,NA,0.0006,6.22184874961636,Cyclic,Polycyclic
+"1-tert-Butyl-3,5-dimethyl-2,4,6-trinitrobenzene",81-15-2,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)[N+](=O)[O-],1,0.0023,0.0023,NA,0.0023,5.63827216398241,Cyclic,BenzeneDerivatives
+"4-tert-Butyl-2,6-dimethyl-3,5-dinitroacetophenone",81-14-1,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,2,0.0082,0.01,0.0609428094238187,0.0091,5.04095860767891,Cyclic,BenzeneDerivatives
+"2,3,6-Trimethylanisole",,CC1=C(C(=C(C=C1)C)OC)C,1,0.009,0.009,NA,0.009,5.04575749056067,Cyclic,BenzeneDerivatives
+2-Isopropyl-6-methylphenol,3228-04-4,CC1=C(C(=CC=C1)C(C)C)O,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+2-Chloro-6-methylanisole,,CC1=C(C(=CC=C1)Cl)OC,1,0.003,0.003,NA,0.003,5.52287874528034,Cyclic,BenzeneDerivatives
+"2,3-Dimethylphenol",526-75-0,CC1=C(C(=CC=C1)O)C,1,0.5,0.5,NA,0.5,3.30102999566398,Cyclic,BenzeneDerivatives
+"2,3-Dihydro-3,5-dihydroxy-6-methyl-4H-pyran-4-one",28564-83-2,CC1=C(C(=O)C(CO1)O)O,1,35,35,NA,35,1.45593195564972,Cyclic,Others
+3-Hydroxy-2-methyl-4-pyrone,118-71-8,CC1=C(C(=O)C=CO1)O,6,0.21,35,0.824538871384524,6.03,2.21968268785985,Cyclic,Others
+2-Hydroxy-3-methyl-2-cyclopenten-1-one,80-71-7,CC1=C(C(=O)CC1)O,2,0.3,2,0.582591457800598,0.77,3.11350927482752,Cyclic,Ketone
+4-Hydroxy-5-methyl-3(2H)-furanone,19332-27-1,CC1=C(C(=O)CO1)O,6,8.52,23,0.222716290103973,16.52,1.78198995701564,Cyclic,Furan
+3-Hydroxy-4-methyl-2(5H)-furanone,22438-62-6,CC1=C(C(=O)OC1)O,1,40,40,NA,40,1.39794000867204,Cyclic,Furan
+"4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",14901-07-6,CC1=C(C(CCC1)(C)C)C=CC(=O)C,1,0.0009,0.0009,NA,0.0009,6.04575749056067,Cyclic,Ketone
+"2,6,6-Trimethyl-1-cyclohexene-1-carboxaldehyde",432-25-7,CC1=C(C(CCC1)(C)C)C=O,1,0.0178,0.0178,NA,0.0178,4.74957999769111,Cyclic,Others
+"4-(2,6,6-Trimethyl-1,3-cyclohexadien-1-yl)-3-buten-2-one",17283-81-7,CC1=C(C(CCC1)(C)C)CCC(=O)C,1,0.001,0.001,NA,0.001,6,Cyclic,Ketone
+"1-tert-Butyl-2-methoxy-4-methyl-3,5-dinitrobenzene",83-66-9,CC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-],1,0.00342,0.00342,NA,0.00342,5.46597389394386,Cyclic,BenzeneDerivatives
+5-Isopropyl-2-methylphenol,499-75-2,CC1=C(C=C(C=C1)C(C)C)O,6,0.07,2.29,0.618388971331043,1.28,2.89279003035213,Cyclic,BenzeneDerivatives
+5-Chloro-2-methylaniline,95-79-4,CC1=C(C=C(C=C1)Cl)N,1,0.005,0.005,NA,0.005,5.30102999566398,Cyclic,BenzeneDerivatives
+4-Methyl-3-nitrophenol,2042-14-0,CC1=C(C=C(C=C1)O)[N+](=O)[O-],1,2,2,NA,2,2.69897000433602,Cyclic,BenzeneDerivatives
+"3,4-Dimethylphenol",95-65-8,CC1=C(C=C(C=C1)O)C,1,1.2,1.2,NA,1.2,2.92081875395238,Cyclic,BenzeneDerivatives
+4-tert-Butyl-2-methylphenol,98-27-1,CC1=C(C=CC(=C1)C(C)(C)C)O,1,0.4,0.4,NA,0.4,3.39794000867204,Cyclic,BenzeneDerivatives
+3-Methyl-4-nitrophenol,2581-34-2,CC1=C(C=CC(=C1)O)[N+](=O)[O-],1,5,5,NA,5,2.30102999566398,Cyclic,BenzeneDerivatives
+3-Methyl-4-(methylthio)phenol,3120-74-9,CC1=C(C=CC(=C1)O)SC,1,0.2,0.2,NA,0.2,3.69897000433602,Cyclic,BenzeneDerivatives
+"2-Methyl-1,3-dinitrobenzene",606-20-2,CC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-],1,0.525,0.525,NA,0.525,3.27984069659404,Cyclic,BenzeneDerivatives
+2-Methyl-3-(methylthio)furan,63012-97-5,CC1=C(C=CO1)SC,1,0.0092,0.0092,NA,0.0092,5.03621217265444,Cyclic,Furan
+2-Methyl-3-(methyldithio)furan,65505-17-1,CC1=C(C=CO1)SSC,3,4e-6,1e-5,0.229750771128123,7e-6,8.15490195998574,Cyclic,Furan
+2-Methyl-3-thiophenethiol,2527-76-6,CC1=C(C=CS1)S,1,2e-5,2e-5,NA,2e-5,7.69897000433602,Cyclic,Others
+2-(3-Methyl-2-butenyl)-3-methylfuran,15186-51-3,CC1=C(OC=C1)CC=C(C)C,2,0.08,0.2,0.281386078637431,0.13,3.88605664769316,Cyclic,Furan
+"2-Isobutyl-4,5-dimethylthiazole",53498-32-1,CC1=C(SC(=N1)CC(C)C)C,1,0.01,0.01,NA,0.01,5,Cyclic,Thiazole
+4-Isopropyl-7-methylcyclohexathiazole,84648-08-8,CC1=C2C(=C(C=C1)C(C)C)N=CS2,1,0.00036,0.00036,NA,0.00036,6.44369749923271,Cyclic,Polycyclic
+"2-Methyl-3-oxa-8-thiabicyclo[3.3.0]-1,4-octadiene",26693-24-3,CC1=C2C(=CO1)CCS2,1,0.00275,0.00275,NA,0.00275,5.56066730616974,Cyclic,Polycyclic
+"2,6-Di-tert-butyl-4-methylphenol",128-37-0,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+"2,4,6-Trimethylphenol",527-60-6,CC1=CC(=C(C(=C1)C)O)C,1,0.5,0.5,NA,0.5,3.30102999566398,Cyclic,BenzeneDerivatives
+"2,4,6-Trimethylanisole",4028-66-4,CC1=CC(=C(C(=C1)C)OC)C,1,0.0008,0.0008,NA,0.0008,6.09691001300806,Cyclic,BenzeneDerivatives
+"2,3,5-Trimethylphenol",697-82-5,CC1=CC(=C(C(=C1)O)C)C,1,2.3,2.3,NA,2.3,2.63827216398241,Cyclic,BenzeneDerivatives
+2-tert-Butyl-5-methylphenol,88-60-8,CC1=CC(=C(C=C1)C(C)(C)C)O,1,0.5,0.5,NA,0.5,3.30102999566398,Cyclic,BenzeneDerivatives
+2-Isopropyl-5-methylphenol,89-83-8,CC1=CC(=C(C=C1)C(C)C)O,7,0.188,1.7,0.341608173658828,0.43,3.36653154442041,Cyclic,BenzeneDerivatives
+"1,2,4-Trimethylbenzene",95-63-6,CC1=CC(=C(C=C1)C)C,2,0.26,0.5,0.200815961550139,0.36,3.44369749923271,Cyclic,BenzeneDerivatives
+"2,5-Dimethylphenol",95-87-4,CC1=CC(=C(C=C1)C)O,1,0.4,0.4,NA,0.4,3.39794000867204,Cyclic,BenzeneDerivatives
+4-Methyl-2-nitrophenol,119-33-5,CC1=CC(=C(C=C1)O)[N+](=O)[O-],1,0.8,0.8,NA,0.8,3.09691001300806,Cyclic,BenzeneDerivatives
+"2,4-Dimethylphenol",105-67-9,CC1=CC(=C(C=C1)O)C,1,0.4,0.4,NA,0.4,3.39794000867204,Cyclic,BenzeneDerivatives
+2-Methoxy-4-methylphenol,93-51-6,CC1=CC(=C(C=C1)O)OC,7,0.01,0.09,0.393942800748679,0.03,4.52287874528034,Cyclic,BenzeneDerivatives
+"2,4,5-Trimethylphenol",496-78-6,CC1=CC(=C(C=C1C)O)C,1,2.3,2.3,NA,2.3,2.63827216398241,Cyclic,BenzeneDerivatives
+4-Chloro-2-isopropyl-5-methylphenol,89-68-9,CC1=CC(=C(C=C1Cl)C(C)C)O,1,0.6,0.6,NA,0.6,3.22184874961636,Cyclic,BenzeneDerivatives
+"2,5-Dimethyl-3-(methyldithio)furan",61197-06-6,CC1=CC(=C(O1)C)SSC,1,1e-5,1e-5,NA,1e-5,8,Cyclic,Furan
+"1,3,5-Trimethylbenzene",108-67-8,CC1=CC(=CC(=C1)C)C,1,0.2466,0.2466,NA,0.2466,3.60800692774029,Cyclic,BenzeneDerivatives
+"3,5-Dimethylphenol",108-68-9,CC1=CC(=CC(=C1)O)C,1,5,5,NA,5,2.30102999566398,Cyclic,BenzeneDerivatives
+"2-Methyl-4,6-dinitrophenol",534-52-1,CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-],2,0.93,1.3,0.10285603788781,1.1,2.95860731484177,Cyclic,BenzeneDerivatives
+"2,6-Dimethyl-4-nitrophenol",2423-71-4,CC1=CC(=CC(=C1O)C)[N+](=O)[O-],1,2.5,2.5,NA,2.5,2.60205999132796,Cyclic,BenzeneDerivatives
+"1,3-Dimethylbenzene",108-38-3,CC1=CC(=CC=C1)C,2,1,1.1,0.0292690483669007,1.05,2.97881070093006,Cyclic,BenzeneDerivatives
+3-Methylphenol,108-39-4,CC1=CC(=CC=C1)O,4,0.015,0.8,0.799383446661402,0.21,3.67778070526608,Cyclic,BenzeneDerivatives
+"2,4-Dimethyl a-Carboline",13315-71-4,CC1=CC(=NC2=C1C3=CC=CC=C3N2)C,1,0.5786,0.5786,NA,0.5786,3.23762157068804,Cyclic,Polycyclic
+4-Isopropyl-1-methyl-1-cyclohexen-3-one,89-81-6,CC1=CC(=O)C(CC1)C(C)C,1,0.68,0.68,NA,0.68,3.16749108729376,Cyclic,BenzeneDerivatives
+1-Isopropyl-4-methylbicyclo[3.1.0]-3-hexen-2-one,24545-81-1,CC1=CC(=O)C2(C1C2)C(C)C,1,0.75,0.75,NA,0.75,3.1249387366083,Cyclic,Polycyclic
+p-Xylene,106-42-3,CC1=CC=C(C=C1)C,1,0.5329,0.5329,NA,0.5329,3.27335427975909,Cyclic,BenzeneDerivatives
+1-Acetyl-4-methylbenzene,122-00-9,CC1=CC=C(C=C1)C(=O)C,8,0.019,0.16,0.310359174026632,8,2.09691001300806,Cyclic,BenzeneDerivatives
+p-Cymene,99-87-6,CC1=CC=C(C=C1)C(C)C,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,BenzeneDerivatives
+1-Chloro-4-methylbenzene,106-43-4,CC1=CC=C(C=C1)Cl,1,0.01,0.01,NA,0.01,5,Cyclic,BenzeneDerivatives
+4-Methylanisole,104-93-8,CC1=CC=C(C=C1)OC,1,0.025,0.025,NA,0.025,4.60205999132796,Cyclic,BenzeneDerivatives
+4-Methylphenyl acetate,140-39-6,CC1=CC=C(C=C1)OC(=O)C,1,0.025,0.025,NA,0.025,4.60205999132796,Cyclic,BenzeneDerivatives
+5-Methylfurfural,620-02-0,CC1=CC=C(O1)C=O,1,1.11,1.11,NA,1.11,2.95467702121334,Cyclic,Furan
+2-(5-Methyl)furylmethanethiol,59303-05-8,CC1=CC=C(O1)CS,1,5e-5,5e-5,NA,5e-5,7.30102999566398,Cyclic,Furan
+Toluene,108-88-3,CC1=CC=CC=C1,8,0.024,20,0.892686595620804,1.54,2.81247927916354,Cyclic,BenzeneDerivatives
+o-Xylene,95-47-6,CC1=CC=CC=C1C,5,0.4502,1.8,0.274969929006799,0.7,3.15490195998574,Cyclic,BenzeneDerivatives
+o-Cresol,95-48-7,CC1=CC=CC=C1O,3,0.26,1.4,0.366054515562707,0.62,3.20760831050175,Cyclic,BenzeneDerivatives
+2-Methylanisole,578-58-5,CC1=CC=CC=C1OC,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,BenzeneDerivatives
+1-Methylnaphthalene,90-12-0,CC1=CC=CC2=CC=CC=C12,3,0.00775,0.2,0.237711440887567,0.0106,4.97469413473523,Cyclic,Polycyclic
+2-Methylfuran,534-22-5,CC1=CC=CO1,5,0.2,4,0.569609407570466,2.08,2.68193666503724,Cyclic,Furan
+"1,2-Dihydro-1,1,6-trimethylnaphthalene",30364-38-6,CC1=CC2=C(C=C1)C(CC=C2)(C)C,1,0.0025,0.0025,NA,0.0025,5.60205999132796,Cyclic,Polycyclic
+"1,2,3,4-Tetrahydro-1,1,6-trimethylnaphthalene",475-03-6,CC1=CC2=C(C=C1)C(CCC2)(C)C,1,0.002,0.002,NA,0.002,5.69897000433602,Cyclic,Polycyclic
+"2,6-Dimethylnaphthalene",581-42-0,CC1=CC2=C(C=C1)C=C(C=C2)C,1,0.01,0.01,NA,0.01,5,Cyclic,Polycyclic
+2-Methylnaphthalene,91-57-6,CC1=CC2=CC=CC=C2C=C1,2,0.003,0.01,0.36973110652604,0.0055,5.25963731050576,Cyclic,Polycyclic
+"2,6-Dimethylanthracene",613-26-3,CC1=CC2=CC3=C(C=C(C=C3)C)C=C2C=C1,1,0.5,0.5,NA,0.5,3.30102999566398,Cyclic,Polycyclic
+"3,7,7-Trimethylbicyclo[4.1.0]-2-heptene",4497-92-1,CC1=CC2C(C2(C)C)CC1,1,4,4,NA,4,2.39794000867204,Cyclic,Polycyclic
+4-Isopropylidene-1-methyl-3-cyclohexene,586-62-9,CC1=CCC(=C(C)C)CC1,11,0.041,0.2,0.321479335494804,0.13,3.88605664769316,Cyclic,Others
+"4-Isopropyl-1-methyl-1,4-cyclohexadiene",99-85-4,CC1=CCC(=CC1)C(C)C,6,0.0065,1,0.858003836318843,0.32,3.49485002168009,Cyclic,Others
+1-Isopropyl-4-methyl-3-cyclohexen-1-ol,562-74-3,CC1=CCC(CC1)(C(C)C)O,6,0.34,6.4,0.581040044810241,2,2.69897000433602,Cyclic,Alcohol
+4-Isopropenyl-1-methyl-1-cyclohexene,138-86-3,CC1=CCC(CC1)C(=C)C,9,0.01,1,0.731335004857839,0.14,3.85387196432176,Cyclic,Others
+4-(2-Hydroxyisopropyl)-1-methyl-1-cyclohexene,98-55-5,CC1=CCC(CC1)C(C)(C)O,11,0.28,15,0.72900516842447,3.38,2.47108329972235,Cyclic,Alcohol
+5-Isopropenyl-2-methyl-2-cyclohexen-1-one,99-49-0,CC1=CCC(CC1=O)C(=C)C,6,0.0067,0.82,0.824680912918329,0.097,4.01322826573375,Cyclic,Ketone
+"(1R,5S)-2-Methyl-5-(1-methylethenyl)-2-cyclohexen-1-ol",18383-51-2,CC1=CCC(CC1O)C(=C)C,1,0.25,0.25,NA,0.25,3.60205999132796,Cyclic,Alcohol
+"2,3,4,5,8,8a-Hexahydro-3-isopropyl-6,8a-dimethyl-3a(1H)-azulenol",465-28-1,CC1=CCC2(CCC(C2(CC1)O)C(C)C)C,1,0.008,0.008,NA,0.008,5.09691001300806,Cyclic,Polycyclic
+"3,7,7-Trimethylbicyclo[4.1.0]-3-heptene",13466-78-9,CC1=CCC2C(C1)C2(C)C,3,0.77,2.03,0.243067530641124,1.06,2.97469413473523,Cyclic,Polycyclic
+"2,6,6-Trimethylbicyclo[3.1.1]-2-heptene",80-56-8,CC1=CCC2CC1C2(C)C,1,0.95,0.95,NA,0.95,3.02227639471115,Cyclic,Polycyclic
+"4,11,11-Trimethyl-8-methylenebicyclo[7.2.0]-4-undecene",87-44-5,CC1=CCCC(=C)C2CC(C2CC1)(C)C,6,0.0064,0.0077,0.0327867268786125,0.0075,5.1249387366083,Cyclic,Polycyclic
+"2,6,6-Trimethyl-2-cyclohexen-1-one",20013-73-4,CC1=CCCC(C1=O)(C)C,2,0.15,0.42,0.31618847622411,0.251,3.60032627851896,Cyclic,Ketone
+"4-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3-buten-2-one",127-41-3,CC1=CCCC(C1C=CC(=O)C)(C)C,1,0.01,0.01,NA,0.01,5,Cyclic,Ketone
+"1,5,9,9-Tetramethyl-[1R-(1R*,4E,7E,11R*)]-12-oxabicyclo[9.1.0]dodeca-4,7-diene",19888-33-6,CC1=CCCC2(C(O2)CC(C=CC1)(C)C)C,1,0.01,0.01,NA,0.01,5,Cyclic,Polycyclic
+Trimethylpyrazine,14667-55-1,CC1=CN=C(C(=N1)C)C,6,0.023,9,0.976139425331041,0.2,3.69897000433602,Cyclic,Pyrazine
+"2-Methoxy-3,5-dimethylpyrazine",92508-08-2,CC1=CN=C(C(=N1)C)OC,1,4e-7,4e-7,NA,4e-7,9.39794000867204,Cyclic,Pyrazine
+"2-Methoxy-3,6-dimethylpyrazine",19846-22-1,CC1=CN=C(C(=N1)OC)C,1,0.0001,0.0001,NA,0.0001,7,Cyclic,Pyrazine
+2-Isopropyl-3-methoxy-5-methylpyrazine,56343-37-4,CC1=CN=C(C(=N1)OC)C(C)C,1,4.5e-5,4.5e-5,NA,4.5e-5,7.34678748622466,Cyclic,Pyrazine
+"2,5-Dimethyl-3-(methylthio)pyrazine",59021-08-8,CC1=CN=C(C(=N1)SC)C,1,0.0013,0.0013,NA,0.0013,5.88605664769316,Cyclic,Pyrazine
+"2,5-Dimethylpyrazine",123-32-0,CC1=CN=C(C=N1)C,5,1.7,35,0.581944146283164,3.19,2.49620931694282,Cyclic,Pyrazine
+2-Methoxy-5-methylpyrazine,2882-22-6,CC1=CN=C(C=N1)OC,5,0.015,0.2,0.0684317643465625,0.017,4.76955107862173,Cyclic,Pyrazine
+2-Methyl-5-(methylthio)pyrazine,2884-14-2,CC1=CN=C(C=N1)SC,8,0.004,0.06,0.415811052286248,0.0056,5.2518119729938,Cyclic,Pyrazine
+"2,6-Dimethyl pyrazine",108-50-9,CC1=CN=CC(=N1)C,6,0.4,54,1.03180743287638,6.39,2.1944991418416,Cyclic,Pyrazine
+2-Methoxy-6-methylpyrazine,2882-21-5,CC1=CN=CC(=N1)OC,1,0.017,0.017,NA,0.017,4.76955107862173,Cyclic,Pyrazine
+2-Methyl-6-(methylthio)pyrazine,2884-13-1,CC1=CN=CC(=N1)SC,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,Pyrazine
+3-Methylindole,83-34-1,CC1=CNC2=CC=CC=C12,1,0.06,0.06,NA,0.06,4.22184874961636,Cyclic,Polycyclic
+"2,4-Dimethylthiazole",541-58-2,CC1=CSC(=N1)C,1,0.018,0.018,NA,0.018,4.74472749489669,Cyclic,Thiazole
+5-Isobutyl-2-methoxy-3-methylpyrazine,78246-20-5,CC1=NC(=CN=C1OC)CC(C)C,1,0.00018,0.00018,NA,0.00018,6.74472749489669,Cyclic,Pyrazine
+5-Isopropyl-3-methyl-2-(methylthio)pyrazine,99784-22-2,CC1=NC(=CN=C1SC)C(C)C,1,0.016,0.016,NA,0.016,4.79588001734407,Cyclic,Pyrazine
+5-Isobutyl-3-methyl-2-(methylthio)pyrazine,78246-17-0,CC1=NC(=CN=C1SC)CC(C)C,1,0.015,0.015,NA,0.015,4.82390874094432,Cyclic,Pyrazine
+"2,3-Dimethyl-5-isopropylpyrazine",40790-21-4,CC1=NC=C(N=C1C)C(C)C,1,0.53,0.53,NA,0.53,3.27572413039921,Cyclic,Pyrazine
+"5-Isobutyl-2,3-dimethylpyrazine",54410-83-2,CC1=NC=C(N=C1C)CC(C)C,2,0.77,4.1,0.513566798446276,1.78,2.74957999769111,Cyclic,Pyrazine
+"5,7-Dihydro-2-methylthieno-(3,4D)-pyrimidine",36267-71-7,CC1=NC=C2CSCC2=N1,1,0.0009,0.0009,NA,0.0009,6.04575749056067,Cyclic,Polycyclic
+2-Methylpyrazine,109-08-0,CC1=NC=CN=C1,1,60,60,NA,60,1.22184874961636,Cyclic,Pyrazine
+"2,3-Dimethylpyrazine",5910-89-4,CC1=NC=CN=C1C,9,0.4,2.5,0.294362066359899,1.8,2.74472749489669,Cyclic,Pyrazine
+2-Acetyl-3-methylpyrazine,23787-80-6,CC1=NC=CN=C1C(=O)C,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,Pyrazine
+2-Isopropyl-3-methylpyrazine,15986-81-9,CC1=NC=CN=C1C(C)C,1,0.016,0.016,NA,0.016,4.79588001734407,Cyclic,Pyrazine
+2-Isobutyl-3-methylpyrazine,13925-06-9,CC1=NC=CN=C1CC(C)C,2,0.035,0.13,0.402962694686856,0.067,4.17392519729917,Cyclic,Pyrazine
+2-Methoxy-3-methylpyrazine,2847-30-5,CC1=NC=CN=C1OC,7,0.003,0.007,0.153115055186975,0.0049,5.30980391997149,Cyclic,Pyrazine
+2-Methyl-3-(methylthio)pyrazine,2882-20-4,CC1=NC=CN=C1SC,6,0.001,0.004,0.32976183822169,0.002,5.69897000433602,Cyclic,Pyrazine
+2-Methylbenzothiazole,120-75-2,CC1=NC2=CC=CC=C2S1,1,0.00775,0.00775,NA,0.00775,5.11069829749369,Cyclic,Polycyclic
+"4,16-Androstadien-3-one",4075-07-4,CC12CCC3C(C1CC=C2)CCC4=CC(=O)CCC34C,1,0.00098,0.00098,NA,0.00098,6.0087739243075,Cyclic,Polycyclic
+5α-Androst-16-en-3-one,18339-16-7,CC12CCC3C(C1CC=C2)CCC4C3(CCC(=O)C4)C,3,0.00018,0.002,0.591002323318357,0.00042,6.3767507096021,Cyclic,Polycyclic
+5α-Androst-16-en-3α-ol,1153-51-1,CC12CCC3C(C1CC=C2)CCC4C3(CCC(C4)O)C,1,0.0062,0.0062,NA,0.0062,5.20760831050175,Cyclic,Polycyclic
+5α-Androstan-3-one,1224-95-9,CC12CCCC1C3CCC4CC(=O)CCC4(C3CC2)C,1,0.00062,0.00062,NA,0.00062,6.20760831050175,Cyclic,Polycyclic
+"3-Hydroxy-4,5-dimethyl-2(5H)-furanone",28664-35-9,CC1C(=C(C(=O)O1)O)C,1,1.315,1.315,NA,1.315,2.88107424717422,Cyclic,Furan
+"4-Methoxy-2,5-dimethyl-3(2H)-furanone",4077-47-8,CC1C(=O)C(=C(O1)C)OC,1,0.19,0.19,NA,0.19,3.72124639904717,Cyclic,Furan
+"2,5-Dimethyl-4-(3-methylbutoxy)-3(2H)-furanone",,CC1C(=O)C(=C(O1)C)OCCC(C)C,1,0.9,0.9,NA,0.9,3.04575749056068,Cyclic,Furan
+1-Isopropyl-4-methylbicyclo[3.1.0]-3-hexanone,546-80-5,CC1C2CC2(CC1=O)C(C)C,1,0.36,0.36,NA,0.36,3.44369749923271,Cyclic,Polycyclic
+"8-Isopropyl-5,6-dimethylbicyclo[4.4.0]-3-decanone",38427-80-4,CC1CC(=O)CC2C1(CC(CC2)C(C)C)C,1,0.045,0.045,NA,0.045,4.34678748622466,Cyclic,Polycyclic
+"7-Acetyl-1,1,3,4,4,6-hexamethyl-1,2,3,4-tetrahydronaphthalene",1506-02-1,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,1,0.0015,0.0015,NA,0.0015,5.82390874094432,Cyclic,Polycyclic
+(R)-(+)-4-Isopropylidene-1-methyl-3-cyclohexanone,89-82-7,CC1CCC(=C(C)C)C(=O)C1,1,0.13,0.13,NA,0.13,3.88605664769316,Cyclic,Ketone
+4-Methylcyclohexanone,589-92-4,CC1CCC(=O)CC1,1,0.69,0.69,NA,0.69,3.16115090926274,Cyclic,Ketone
+2-Isopropyl-5-methylcyclohexanone,10458-14-7,CC1CCC(C(=O)C1)C(C)C,1,1.04,1.04,NA,1.04,2.98296666070122,Cyclic,Ketone
+2-Isopropenyl-5-methyl-1-cyclohexanol,89-79-2,CC1CCC(C(C1)O)C(=C)C,1,1,1,NA,1,3,Cyclic,Alcohol
+3-Methylcyclohexanone,591-24-2,CC1CCCC(=O)C1,1,0.68,0.68,NA,0.68,3.16749108729376,Cyclic,Ketone
+"2,2,6-Trimethylcyclohexanone",2408-37-9,CC1CCCC(C1=O)(C)C,3,0.1,0.31,0.283687806204688,0.15,3.82390874094432,Cyclic,Ketone
+2-Methylcyclohexanone,583-60-8,CC1CCCCC1=O,1,1.41,1.41,NA,1.41,2.85078088734462,Cyclic,Ketone
+(l)-4-Methyl-2-(2-methyl-1-propenyl)tetrahydropyran,3033-23-6,CC1CCOC(C1)C=C(C)C,1,0.0005,0.0005,NA,0.0005,6.30102999566398,Cyclic,Others
+"1,2-Epoxypropane",75-56-9,CC1CO1,1,0.43,0.43,NA,0.43,3.36653154442041,Cyclic,Others
+Dill ether,74410-10-9,CC1COC2C1CCC(=C2)C,1,0.03,0.03,NA,0.03,4.52287874528034,Cyclic,Polycyclic
+"1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran",1222-05-5,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,2,0.0041,0.005,0.0609428094238187,0.00453,5.34390179798717,Cyclic,Polycyclic
+"Dihydro-2,4,6-trimethyl-1,3,5(4H)-dithiazine",638-17-5,CC1NC(SC(S1)C)C,1,0.001,0.001,NA,0.001,6,Cyclic,Others
+"α,α'-Diethyl-4,4'-stilbenediol",56-53-1,CCC(=C(CC)C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,1,2.3,2.3,NA,2.3,2.63827216398241,Cyclic,Polycyclic
+Butanone,78-93-3,CCC(=O)C,6,7,55,0.310580168414884,35.92,1.44466367200473,Aliphatic,Ketone
+"2,2-Dimethyl-3-pentanone",564-04-5,CCC(=O)C(C)(C)C,1,0.0325,0.0325,NA,0.0325,4.48811663902113,Aliphatic,Ketone
+2-Mercapto-3-pentanone,17042-24-9,CCC(=O)C(C)S,1,0.0007,0.0007,NA,0.0007,6.15490195998574,Aliphatic,Ketone
+Methylionone,1335-46-2,CCC(=O)C=CC1C(=CCCC1(C)C)C,1,0.002,0.002,NA,0.002,5.69897000433602,Cyclic,Ketone
+2-Propionyl-1-pyrroline,133447-37-7,CCC(=O)C1=NCCC1,1,0.0001,0.0001,NA,0.0001,7,Cyclic,Others
+5-Methyl-3-hexanone,623-56-3,CCC(=O)CC(C)C,1,0.0517,0.0517,NA,0.0517,4.28650945690606,Aliphatic,Ketone
+Propanoic acid,79-09-4,CCC(=O)O,13,0.1,200,1.05902735132503,11.02,1.95781840548423,Aliphatic,Acid
+Methyl propanoate,554-12-1,CCC(=O)OC,1,3.7,3.7,NA,3.7,2.431798275933,Aliphatic,Ester
+tert-Butyl propanoate,20487-40-5,CCC(=O)OC(C)(C)C,1,0.0258,0.0258,NA,0.0258,4.58838029403677,Aliphatic,Ester
+Ethenyl propanoate,105-38-4,CCC(=O)OC=C,1,0.04,0.04,NA,0.04,4.39794000867204,Aliphatic,Ester
+Ethyl propanoate,105-37-3,CCC(=O)OCC,1,1.9,1.9,NA,1.9,2.72124639904717,Aliphatic,Ester
+"3,7-Dimethyl-(E)-2,6-octadien-1-yl propanoate",105-90-8,CCC(=O)OCC=C(C)CCC=C(C)C,1,0.045,0.045,NA,0.045,4.34678748622466,Aliphatic,Ester
+Isopentyl propanoate,105-68-0,CCC(=O)OCCC(C)C,1,0.0258,0.0258,NA,0.0258,4.58838029403677,Aliphatic,Ester
+3-Mercapto-2-pentanone,67633-97-0,CCC(C(=O)C)S,1,0.0007,0.0007,NA,0.0007,6.15490195998574,Aliphatic,Ketone
+Ethyl 2-hydroxybutanoate,52089-54-0,CCC(C(=O)OCC)O,1,0.8,0.8,NA,0.8,3.09691001300806,Aliphatic,Ester
+2-Methyl-3-pentanol,565-67-3,CCC(C(C)C)O,1,0.625,0.625,NA,0.625,3.20411998265592,Aliphatic,Alcohol
+3-Mercapto-2-methylpentanal,227456-28-2,CCC(C(C)C=O)S,1,0.00095,0.00095,NA,0.00095,6.02227639471115,Aliphatic,Aldehyde
+3-(Acetylthio)-2-methylpentanal,,CCC(C(C)C=O)SC(=O)C,1,0.005,0.005,NA,0.005,5.30102999566398,Aliphatic,Aldehyde
+3-Mercapto-2-methyl-1-pentanol,227456-27-1,CCC(C(C)CO)S,4,0.00015,0.00063,0.298464017903877,0.00023,6.63827216398241,Aliphatic,Sulfur-containing
+"2,3-Dimethyl-3-pentanol",595-41-5,CCC(C)(C(C)C)O,1,0.63,0.63,NA,0.63,3.20065945054642,Aliphatic,Alcohol
+"Ethyl 2,2-dimethylbutanoate",5129-40-8,CCC(C)(C)C(=O)OCC,1,0.0001,0.0001,NA,0.0001,7,Aliphatic,Ester
+"2,2-Dimethylbutanal",2094-75-9,CCC(C)(C)C=O,1,0.32,0.32,NA,0.32,3.49485002168009,Aliphatic,Aldehyde
+4-tert-Pentylphenol,80-46-6,CCC(C)(C)C1=CC=C(C=C1)O,1,0.8,0.8,NA,0.8,3.09691001300806,Cyclic,BenzeneDerivatives
+"3,3-Dimethylpentanal",118993-47-8,CCC(C)(C)CC=O,1,0.062,0.062,NA,0.062,4.20760831050175,Aliphatic,Aldehyde
+"2,2-Dimethyl-1-butanol",1185-33-7,CCC(C)(C)CO,1,6.25,6.25,NA,6.25,2.20411998265592,Aliphatic,Alcohol
+2-Methyl-2-butanol,75-85-4,CCC(C)(C)O,1,26.5,26.5,NA,26.5,1.57675412606319,Aliphatic,Alcohol
+2-Methoxy-2-methylbutane,994-05-8,CCC(C)(C)OC,1,0.19,0.19,NA,0.19,3.72124639904717,Aliphatic,Others
+"1,1-Dimethylpropyl acetate",625-16-1,CCC(C)(C)OC(=O)C,1,0.03,0.03,NA,0.03,4.52287874528034,Aliphatic,Ester
+2-Methyl-2-butanethiol,1679-09-0,CCC(C)(C)S,1,2e-6,2e-6,NA,2e-6,8.69897000433602,Aliphatic,Sulfur-containing
+"3,5-Dimethyl-3-hexanol",4209-91-0,CCC(C)(CC(C)C)O,1,0.505,0.505,NA,0.505,3.29670862188134,Aliphatic,Alcohol
+3-Methyl-3-pentanol,77-74-7,CCC(C)(CC)O,1,3.3,3.3,NA,3.3,2.48148606012211,Aliphatic,Alcohol
+3-Methyl-1-phenyl-3-pentanol,10415-87-9,CCC(C)(CCC1=CC=CC=C1)O,1,6.4,6.4,NA,6.4,2.19382002601611,Cyclic,BenzeneDerivatives
+5-Methyl-(E)-2-hepten-4-one,102322-83-8,CCC(C)C(=O)C=CC,1,5e-5,5e-5,NA,5e-5,7.30102999566398,Aliphatic,Ketone
+2-Methylbutanoic acid,116-53-0,CCC(C)C(=O)O,9,0.1,40,1.01405013741286,3.43,2.46470587995723,Aliphatic,Acid
+Methyl (S)-(+)-2-methylbutanoate,10307-60-5,CCC(C)C(=O)OC,1,0.0003,0.0003,NA,0.0003,6.52287874528034,Aliphatic,Ester
+Ethyl 2-methylbutanoate,7452-79-1,CCC(C)C(=O)OCC,1,0.0003,0.0003,NA,0.0003,6.52287874528034,Aliphatic,Ester
+"2,4-Dimethyl-3-hexanol",13432-25-2,CCC(C)C(C(C)C)O,1,0.335,0.335,NA,0.335,3.47495519296315,Aliphatic,Alcohol
+"2,3-Dimethyl-2-pentanol",4911-70-0,CCC(C)C(C)(C)O,1,2.9,2.9,NA,2.9,2.53760200210104,Aliphatic,Alcohol
+"Ethyl 2,3-dimethylpentanoate",,CCC(C)C(C)C(=O)OCC,1,2e-6,2e-6,NA,2e-6,8.69897000433602,Aliphatic,Ester
+"3,4-Dimethyl-2-hexanol",31350-88-6,CCC(C)C(C)C(C)O,1,2.525,2.525,NA,2.525,2.59773861754532,Aliphatic,Alcohol
+"2,3-Dimethyl-1-pentanol",10143-23-4,CCC(C)C(C)CO,1,1.215,1.215,NA,1.215,2.91542372206567,Aliphatic,Ketone
+3-Methyl-2-pentanol,565-60-6,CCC(C)C(C)O,1,2.515,2.515,NA,2.515,2.59946201060805,Aliphatic,Alcohol
+2-Ethyl-3-methylpentanoic acid,22414-77-3,CCC(C)C(CC)C(=O)O,1,27.55,27.55,NA,27.55,1.5598783968122,Aliphatic,Acid
+2-Ethyl-3-methylpentanal,42347-74-0,CCC(C)C(CC)C=O,1,0.03,0.03,NA,0.03,4.52287874528034,Aliphatic,Aldehyde
+4-Methyl-3-hexanol,615-29-2,CCC(C)C(CC)O,1,0.3,0.3,NA,0.3,3.52287874528034,Aliphatic,Alcohol
+"5-sec-Butyl-2,3-dimethylpyrazine",32263-00-6,CCC(C)C1=CN=C(C(=N1)C)C,1,0.68,0.68,NA,0.68,3.16749108729376,Cyclic,Pyrazine
+5-sec-Butyl-3-methyl-2-phenoxypyrazine,99784-19-7,CCC(C)C1=CN=C(C(=N1)C)OC2=CC=CC=C2,1,0.072,0.072,NA,0.072,4.14266750356873,Cyclic,Polycyclic
+5-sec-Butyl-2-ethoxy-3-methylpyrazine,99784-15-3,CCC(C)C1=CN=C(C(=N1)C)OCC,1,0.012,0.012,NA,0.012,4.92081875395237,Cyclic,Pyrazine
+5-sec-Butyl-3-methyl-2-(methylthio)pyrazine,99784-23-3,CCC(C)C1=CN=C(C(=N1)C)SC,1,0.019,0.019,NA,0.019,4.72124639904717,Cyclic,Pyrazine
+3-sec-Butyl-2-methoxy-5-methylpyrazine,94344-70-4,CCC(C)C1=NC(=CN=C1OC)C,1,0.002,0.002,NA,0.002,5.69897000433602,Cyclic,Pyrazine
+2-sec-Butyl-3-methoxypyrazine,24168-70-5,CCC(C)C1=NC=CN=C1OC,9,1e-6,5e-5,0.699899403396614,9.83888697001574e-6,8.00705402861346,Cyclic,Pyrazine
+5-Methyl-3-heptanone,541-85-5,CCC(C)CC(=O)CC,2,0.041,0.082,0.212860351274558,0.058,4.23657200643706,Aliphatic,Ketone
+Ethyl 3-methylpentanoate,5870-68-8,CCC(C)CC(=O)OCC,1,8e-6,8e-6,NA,8e-6,8.09691001300806,Aliphatic,Ester
+2-Methoxy-3-methyl-5-(2-methylbutyl)pyrazine,78246-21-6,CCC(C)CC1=CN=C(C(=N1)C)OC,1,1e-5,1e-5,NA,1e-5,8,Cyclic,Pyrazine
+3-Methyl-5-(2-methylbutyl)-2-phenoxypyrazine,99784-20-0,CCC(C)CC1=CN=C(C(=N1)C)OC2=CC=CC=C2,1,0.056,0.056,NA,0.056,4.2518119729938,Cyclic,Polycyclic
+2-Ethoxy-3-methyl-5-(2-methylbutyl)pyrazine,99784-16-4,CCC(C)CC1=CN=C(C(=N1)C)OCC,1,0.0065,0.0065,NA,0.0065,5.18708664335714,Cyclic,Pyrazine
+3-Methyl-5-(2-methylbutyl)-2-(phenylthio)pyrazine,99784-32-4,CCC(C)CC1=CN=C(C(=N1)C)SC2=CC=CC=C2,1,0.056,0.056,NA,0.056,4.2518119729938,Cyclic,Polycyclic
+2-(Ethylthio)-3-methyl-5-(2-methylbutyl)pyrazine,99784-28-8,CCC(C)CC1=CN=C(C(=N1)C)SCC,1,0.0025,0.0025,NA,0.0025,5.60205999132796,Cyclic,Pyrazine
+2-Methylbutylamine,96-15-1,CCC(C)CN,1,10,10,NA,10,2,Aliphatic,Nitrogen-containing
+2-Methylbutyl alcohol,34713-94-5,CCC(C)CO,2,0.3,0.32,0.0198193005257357,0.31,3.50863830616573,Aliphatic,Alcohol
+2-Methylbutyl acetate,624-41-9,CCC(C)COC(=O)C,9,0.005,0.011,0.0995844159244185,0.008,5.09691001300806,Aliphatic,Ester
+2-Methylbutyl 2-methylpropanoate,2445-69-4,CCC(C)COC(=O)C(C)C,1,0.01,0.01,NA,0.01,5,Aliphatic,Ester
+2-Methylbutyl 2-methylbutyrate,2445-78-5,CCC(C)COC(=O)C(C)CC,1,0.0047,0.0047,NA,0.0047,5.32790214206428,Aliphatic,Ester
+2-Methylbutyl propionate,2438-20-2,CCC(C)COC(=O)CC,3,0.013,0.028,0.192381584639013,0.022,4.65757731917779,Aliphatic,Ester
+sec-Butyl isothiocyanate,4426-79-3,CCC(C)N=C=S,1,0.00354,0.00354,NA,0.00354,5.45099673797421,Aliphatic,Others
+2-Butanol,78-92-2,CCC(C)O,4,3.3,50,0.536208025296052,18.03,1.7440042732776,Aliphatic,Alcohol
+2-Butyl acetate,105-46-4,CCC(C)OC(=O)C,1,0.006,0.006,NA,0.006,5.22184874961636,Aliphatic,Ester
+1-Penten-3-ol,616-25-1,CCC(C=C)O,1,0.4,0.4,NA,0.4,3.39794000867204,Aliphatic,Alcohol
+5-Methyl-3-hexanol,623-55-2,CCC(CC(C)C)O,1,0.62,0.62,NA,0.62,3.20760831050175,Aliphatic,Alcohol
+4-Ethyl-3-hexanone,6137-12-8,CCC(CC)C(=O)CC,1,0.0246,0.0246,NA,0.0246,4.60906489289662,Aliphatic,Ketone
+2-Ethylbutanoic acid,88-09-5,CCC(CC)C(=O)O,2,10,365,1.10470787865653,60.42,1.21881927906274,Aliphatic,Acid
+Ethyl 2-ethylbutanoate,2983-38-2,CCC(CC)C(=O)OCC,1,7e-6,7e-6,NA,7e-6,8.15490195998574,Aliphatic,Ester
+3-Ethyl-2-pentanol,609-27-8,CCC(CC)C(C)O,1,0.645,0.645,NA,0.645,3.19044028536473,Aliphatic,Alcohol
+2-Ethylbutanal,97-96-1,CCC(CC)C=O,1,0.061,0.061,NA,0.061,4.21467016498923,Aliphatic,Aldehyde
+3-Pentanol,584-02-1,CCC(CC)O,4,4.125,6.95,0.113280425852085,4.7,2.32790214206428,Aliphatic,Alcohol
+3-Pentyl acetate,620-11-1,CCC(CC)OC(=O)C,1,0.009,0.009,NA,0.009,5.04575749056067,Aliphatic,Ester
+6-Methyl-3-heptanol,18720-66-6,CCC(CCC(C)C)O,1,0.335,0.335,NA,0.335,3.47495519296315,Aliphatic,Alcohol
+"1,2-Butanediol",584-03-2,CCC(CO)O,1,85,85,NA,85,1.07058107428571,Aliphatic,Alcohol
+Ethyl (E)-2-methyl-2-pentenoate,1617-40-9,CCC=C(C)C(=O)OCC,1,0.0115,0.0115,NA,0.0115,4.93930215964639,Aliphatic,Ester
+2-Methyl-2-pentenal,623-36-9,CCC=C(C)C=O,1,0.29,0.29,NA,0.29,3.53760200210104,Aliphatic,Aldehyde
+"(E,E,Z)-2,4,6-Nonatrienal",100113-52-8,CCC=CC=CC=CC=O,1,2.6e-5,2.6e-5,NA,2.6e-5,7.58502665202918,Aliphatic,Aldehyde
+"(Z)-1,5-Octadien-3-ol",50306-18-8,CCC=CCC(C=C)O,1,0.01,0.01,NA,0.01,5,Aliphatic,Alcohol
+"2,4,7-Decatrienal",51325-37-2,CCC=CCC=CC=CC=O,1,5.5e-5,5.5e-5,NA,5.5e-5,7.25963731050576,Aliphatic,Aldehyde
+"(Z,Z)-3,6-Nonadienal",21944-83-2,CCC=CCC=CCC=O,1,5e-5,5e-5,NA,5e-5,7.30102999566398,Aliphatic,Aldehyde
+"(E,Z)-3,6-Nonadien-1-ol",56805-23-3,CCC=CCC=CCCO,1,0.003,0.003,NA,0.003,5.52287874528034,Aliphatic,Alcohol
+"(E,Z)-3,6-Nonadienyl acetate",76649-26-8,CCC=CCC=CCCOC(=O)C,1,0.013,0.013,NA,0.013,4.88605664769316,Aliphatic,Ester
+(E)-3-Hexenal,69112-21-6,CCC=CCC=O,1,0.16,0.16,NA,0.16,3.79588001734407,Aliphatic,Aldehyde
+(Z)-Dec-7-en-5-olide,25524-95-2,CCC=CCC1CCCC(=O)O1,1,2,2,NA,2,2.69897000433602,Cyclic,Others
+(Z)-5-Octen-2-one,22610-86-2,CCC=CCCC(=O)C,1,0.03,0.03,NA,0.03,4.52287874528034,Aliphatic,Ketone
+"2,6-Nonadienal",17587-33-6,CCC=CCCC=CC=O,1,0.0005,0.0005,NA,0.0005,6.30102999566398,Aliphatic,Aldehyde
+"(E,Z)-2,6-Nonadien-1-ol",28069-72-9,CCC=CCCC=CCO,4,0.0002,0.001,0.403550520158874,0.0045,5.34678748622466,Aliphatic,Alcohol
+4-Heptenal,62238-34-0,CCC=CCCC=O,1,0.0023,0.0023,NA,0.0023,5.63827216398241,Aliphatic,Aldehyde
+(Z)-6-Nonenal,2277-19-2,CCC=CCCCCC=O,1,5e-6,5e-6,NA,5e-6,8.30102999566398,Aliphatic,Aldehyde
+(Z)-5-Octen-1-ol,64275-73-6,CCC=CCCCCO,1,0.006,0.006,NA,0.006,5.22184874961636,Aliphatic,Alcohol
+3-Hexen-1-ol,544-12-7,CCC=CCCO,6,0.07,1.63,0.548438389247557,0.87,3.06048074738138,Aliphatic,Alcohol
+2-Penten-1-ol,20273-24-9,CCC=CCO,1,1.1,1.1,NA,1.1,2.95860731484177,Aliphatic,Alcohol
+"5-Ethyl-2,4-dimethylthiazole",38205-61-7,CCC1=C(N=C(S1)C)C,1,9e-5,9e-5,NA,9e-5,7.04575749056067,Cyclic,Thiazole
+"4,5-Diethylthiazole",,CCC1=C(SC=N1)CC,1,0.0051,0.0051,NA,0.0051,5.29242982390206,Cyclic,Thiazole
+4-Ethyl-2-methoxyphenol,2785-89-9,CCC1=CC(=C(C=C1)O)OC,7,0.0044,0.08925,0.507744401087254,0.045,4.34678748622466,Cyclic,BenzeneDerivatives
+3-Ethyl-5-methylphenol,698-71-5,CCC1=CC(=CC(=C1)C)O,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+3-Ethylphenol,620-17-7,CCC1=CC(=CC=C1)O,1,0.2,0.2,NA,0.2,3.69897000433602,Cyclic,BenzeneDerivatives
+3-Ethylanisole,10568-38-4,CCC1=CC(=CC=C1)OC,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,BenzeneDerivatives
+6-Ethyl-3-isobutyl-2H-2-pyranone,17654-99-8,CCC1=CC=C(C(=O)O1)CC(C)C,3,0.003,0.0033,0.0238980779185826,0.0032,5.49485002168009,Cyclic,Others
+4-Ethyltoluene,622-96-8,CCC1=CC=C(C=C1)C,1,0.6,0.6,NA,0.6,3.22184874961636,Cyclic,BenzeneDerivatives
+4-Ethylphenol,123-07-9,CCC1=CC=C(C=C1)O,1,0.299,0.299,NA,0.299,3.52432881167557,Cyclic,BenzeneDerivatives
+3-Ethyltoluene,620-14-4,CCC1=CC=CC(=C1)C,1,0.8,0.8,NA,0.8,3.09691001300806,Cyclic,BenzeneDerivatives
+Ethylbenzene,100-41-4,CCC1=CC=CC=C1,4,0.14,2.20525,0.583823519411169,0.52,3.2839966563652,Cyclic,BenzeneDerivatives
+2-Ethylphenol,90-00-6,CCC1=CC=CC=C1O,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,BenzeneDerivatives
+"1-(3-Ethyl-5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)ethanone",88-29-9,CCC1=CC2=C(C=C1C(=O)C)C(CCC2(C)C)(C)C,1,0.0024,0.0024,NA,0.0024,5.61978875828839,Cyclic,Polycyclic
+5-Ethyl-3-methoxy-2-methylpyrazine,134079-38-2,CCC1=CN=C(C(=N1)OC)C,1,0.0002,0.0002,NA,0.0002,6.69897000433602,Cyclic,Pyrazine
+5-Ethyl-2-methylpyridine,104-90-5,CCC1=CN=C(C=C1)C,1,0.019,0.019,NA,0.019,4.72124639904717,Cyclic,Others
+"2,5-Diethylpyrazine",13238-84-1,CCC1=CN=C(C=N1)CC,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,Pyrazine
+"2,5-Diethylthiazole",15729-76-7,CCC1=CN=C(S1)CC,1,9e-5,9e-5,NA,9e-5,7.04575749056067,Cyclic,Thiazole
+"2,6-Diethylpyrazine",13067-27-1,CCC1=CN=CC(=N1)CC,1,0.006,0.006,NA,0.006,5.22184874961636,Cyclic,Pyrazine
+"2,4-Diethylthiazole",32272-49-4,CCC1=CSC(=N1)CC,1,0.0065,0.0065,NA,0.0065,5.18708664335714,Cyclic,Thiazole
+2-Ethyl-6-methylpyrazine,13925-03-6,CCC1=NC(=CN=C1)C,1,0.04,0.04,NA,0.04,4.39794000867204,Cyclic,Pyrazine
+"2-Ethyl-3,6-dimethylpyrazine",13360-65-1,CCC1=NC(=CN=C1C)C,1,0.087,0.087,NA,0.087,4.06048074738138,Cyclic,Pyrazine
+2-Ethyl-5-methylpyrazine,13360-64-0,CCC1=NC=C(N=C1)C,2,0.016,0.1,0.562772157274863,0.04,4.39794000867204,Cyclic,Pyrazine
+2-Ethylpyrazine,13925-00-3,CCC1=NC=CN=C1,4,4,22,0.350795801741211,6.78,2.16877030613294,Cyclic,Pyrazine
+2-Ethyl-3-methoxypyrazine,25680-58-4,CCC1=NC=CN=C1OC,2,0.0004,0.01,0.988492859823979,0.002,5.69897000433602,Cyclic,Pyrazine
+5-Ethyl-3-hydroxy-4-methyl-2(5H)-furanone,698-10-2,CCC1C(=C(C(=O)O1)O)C,1,0.455,0.455,NA,0.455,3.34198860334289,Cyclic,Furan
+4-Hydroxy-2- or 5-ethyl-5- or 2-methyl-3(2H)-furanone,27538-10-9,CCC1C(=O)C(=C(O1)C)O,1,0.0153,0.0153,NA,0.0153,4.8153085691824,Cyclic,Furan
+4-Hydroxyhexanoic acid lactone,695-06-7,CCC1CCC(=O)O1,1,0.163,0.163,NA,0.163,3.78781239559604,Cyclic,Ester
+"2-Ethyl-4-methyl-1,3-dioxolane",4359-46-0,CCC1OCC(O1)C,1,0.38,0.38,NA,0.38,3.42021640338319,Cyclic,Others
+"trans-3,5-Diethyl-1,2,4-trithiolane",38348-26-4,CCC1SC(SS1)CC,1,1.54e-5,1.54e-5,NA,1.54e-5,7.81247927916354,Cyclic,Others
+2-Pentanone,107-87-9,CCCC(=O)C,4,1.38,70,0.791718520430232,4.99,2.30189945437661,Aliphatic,Ketone
+"2,2-Dimethyl-3-hexanone",5405-79-8,CCCC(=O)C(C)(C)C,1,0.000615,0.000615,NA,0.000615,6.21112488422458,Aliphatic,Ketone
+2-Methyl-3-hexanone,7379-12-6,CCCC(=O)C(C)C,1,0.028,0.028,NA,0.028,4.55284196865778,Aliphatic,Ketone
+2-Methyl-4-heptanone,626-33-5,CCCC(=O)CC(C)C,1,0.041,0.041,NA,0.041,4.38721614328026,Aliphatic,Ketone
+Butanoic acid,107-92-6,CCCC(=O)O,1,3.135,3.135,NA,3.135,2.50376245483326,Aliphatic,Acid
+Ethyl butanoate,105-54-4,CCCC(=O)OCC,1,0.0232,0.0232,NA,0.0232,4.6345120151091,Aliphatic,Ester
+Propyl butanoate,105-66-8,CCCC(=O)OCCC,7,0.00087,0.16,0.914150190302728,0.011,4.95860731484177,Aliphatic,Ester
+Isopentyl butanoate,106-27-4,CCCC(=O)OCCC(C)C,1,0.015,0.015,NA,0.015,4.82390874094432,Aliphatic,Ester
+3-Methyl-4-heptanol,1838-73-9,CCCC(C(C)CC)O,1,0.249,0.249,NA,0.249,3.60380065290426,Aliphatic,Alcohol
+3-(Acetylthio)-2-ethylhexanal,,CCCC(C(CC)C=O)SC(=O)C,1,0.015,0.015,NA,0.015,4.82390874094432,Aliphatic,Aldehyde
+"2,2-Dimethylpentane",590-35-2,CCCC(C)(C)C,1,100,100,NA,100,1,Aliphatic,Hydrocarbon
+2-Methyl-2-pentanol,590-36-3,CCCC(C)(C)O,1,6.15,6.15,NA,6.15,2.21112488422458,Aliphatic,Alcohol
+4-Methyl-4-heptanol,598-01-6,CCCC(C)(CCC)O,1,0.695,0.695,NA,0.695,3.15801519540989,Aliphatic,Alcohol
+3-Methyl-2-hexanone,2550-21-2,CCCC(C)C(=O)C,2,0.041,0.083,0.216582731070947,0.058,4.23657200643706,Aliphatic,Ketone
+2-Methylpentanoic acid,97-61-0,CCCC(C)C(=O)O,2,10,27.65,0.312325625628663,16.628,1.77915998416582,Aliphatic,Acid
+Ethyl 2-methylpentanoate,39255-32-8,CCCC(C)C(=O)OCC,1,6.8e-6,6.8e-6,NA,6.8e-6,8.16749108729376,Aliphatic,Ester
+"2,3-Dimethyl-2-hexanol",19550-03-9,CCCC(C)C(C)(C)O,1,0.54,0.54,NA,0.54,3.26760624017703,Aliphatic,Alcohol
+3-Methyl-2-hexanol,2313-65-7,CCCC(C)C(C)O,1,0.2455,0.2455,NA,0.2455,3.60994850354101,Aliphatic,Alcohol
+4-Methyl-3-heptanol,14979-39-6,CCCC(C)C(CC)O,1,0.315,0.315,NA,0.315,3.5016894462104,Aliphatic,Alcohol
+2-Methylpentanal,123-15-9,CCCC(C)C=O,1,0.0024,0.0024,NA,0.0024,5.61978875828839,Aliphatic,Aldehyde
+3-Methylhexane,589-34-4,CCCC(C)CC,1,500,500,NA,500,0.301029995663981,Aliphatic,Hydrocarbon
+2-Methoxy-3-methyl-5-(2-methylpentyl)pyrazine,78261-14-0,CCCC(C)CC1=CN=C(C(=N1)C)OC,1,0.0012,0.0012,NA,0.0012,5.92081875395237,Cyclic,Pyrazine
+2-Ethoxy-3-methyl-5-(2-methylpentyl)pyrazine,99784-17-5,CCCC(C)CC1=CN=C(C(=N1)C)OCC,1,0.002285,0.002285,NA,0.002285,5.64111379559413,Cyclic,Pyrazine
+3-Methyl-5-(2-methylpentyl)-2-(methylthio)pyrazine,78246-18-1,CCCC(C)CC1=CN=C(C(=N1)C)SC,1,0.012,0.012,NA,0.012,4.92081875395237,Cyclic,Pyrazine
+2-Methoxy-3-(2-methylpentyl)pyrazine,115652-11-4,CCCC(C)CC1=NC=CN=C1OC,1,8e-6,8e-6,NA,8e-6,8.09691001300806,Cyclic,Pyrazine
+2-Pentanol,6032-29-7,CCCC(C)O,1,12.05,12.05,NA,12.05,1.91901295308911,Aliphatic,Alcohol
+2-Pentyl acetate,53496-15-4,CCCC(C)OC(=O)C,3,0.002,0.025,0.43884027053087,0.005,5.30102999566398,Aliphatic,Ester
+2-Pentyl butanoate,60415-61-4,CCCC(C)OC(=O)CCC,1,0.0153,0.0153,NA,0.0153,4.8153085691824,Aliphatic,Ester
+(R)-Methyl 3-hydroxyhexanoate,109053-86-3,CCCC(CC(=O)OC)O,1,3.76,3.76,NA,3.76,2.42481215507234,Aliphatic,Ester
+Methyl 3-acetoxyhexanoate,77118-93-5,CCCC(CC(=O)OC)OC(=O)C,1,0.19,0.19,NA,0.19,3.72124639904717,Aliphatic,Ester
+(R)-Ethyl 3-hydroxyhexanoate,2305-25-1,CCCC(CC(=O)OCC)O,1,0.27,0.27,NA,0.27,3.56863623584101,Aliphatic,Ester
+2-Methyl-4-heptanol,21570-35-4,CCCC(CC(C)C)O,1,0.605,0.605,NA,0.605,3.21824462534753,Aliphatic,Alcohol
+2-Ethylpentanoic acid,20225-24-5,CCCC(CC)C(=O)O,1,5.005,5.005,NA,5.005,2.30059591818466,Aliphatic,Acid
+Ethyl 2-ethylpentanoate,,CCCC(CC)C(=O)OCC,1,5e-5,5e-5,NA,5e-5,7.30102999566398,Aliphatic,Ester
+3-Hexanol,623-37-0,CCCC(CC)O,4,0.8205,1.66,0.153014751325472,0.979,3.00921730819686,Aliphatic,Alcohol
+3-(Methylthio)hexanal,38433-74-8,CCCC(CC=O)SC,1,0.003,0.003,NA,0.003,5.52287874528034,Aliphatic,Aldehyde
+4-Heptanol,589-55-9,CCCC(CCC)O,1,0.61,0.61,NA,0.61,3.21467016498923,Aliphatic,Alcohol
+3-Mercaptohexan-1-ol,51755-83-0,CCCC(CCO)S,3,1.7e-5,6e-5,0.316216087087035,3.94079467252261e-5,7.40441619261815,Aliphatic,Sulfur-containing
+3-Mercaptohexyl acetate,136954-20-6,CCCC(CCOC(=O)C)S,3,2.3e-6,2e-5,0.542306354722239,1e-5,8,Aliphatic,Ester
+(Z)-9-Tetradecenal,53939-27-8,CCCC/C=C\CCCCCCCC=O,1,0.00144,0.00144,NA,0.00144,5.84163750790475,Aliphatic,Aldehyde
+"(E,E)-2,5-Nonadien-4-one",61759-51-1,CCCC=CC(=O)C=CC,1,0.004,0.004,NA,0.004,5.39794000867204,Aliphatic,Ketone
+"(E,E)-2,4-Octadienal",30361-28-5,CCCC=CC=CC=O,1,0.01,0.01,NA,0.01,5,Aliphatic,Aldehyde
+2-Hexenal,505-57-7,CCCC=CC=O,3,0.017,0.03,0.135818701492946,0.0209,4.67985371388895,Aliphatic,Aldehyde
+Ethyl (E)-4-octenoate,78989-37-4,CCCC=CCCC(=O)OCC,1,0.05,0.05,NA,0.05,4.30102999566398,Aliphatic,Ester
+(Z)-6-Decenal,105683-99-6,CCCC=CCCCCC=O,1,0.00034,0.00034,NA,0.00034,6.46852108295774,Aliphatic,Aldehyde
+2-Hexen-1-ol,2305-21-7,CCCC=CCO,2,0.5,0.55,0.0292690483669007,0.525,3.27984069659404,Aliphatic,Alcohol
+4-Ethyl-5-propylthiazole,57246-61-4,CCCC1=C(N=CS1)CC,1,6e-5,6e-5,NA,6e-5,7.22184874961636,Cyclic,Thiazole
+Propyl benzene,103-65-1,CCCC1=CC=CC=C1,1,0.17712,0.17712,NA,0.17712,3.75173239646535,Cyclic,BenzeneDerivatives
+2-Propylpyrazine,18138-03-9,CCCC1=NC=CN=C1,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,Pyrazine
+2-Methoxy-3-propylpyrazine,25680-57-3,CCCC1=NC=CN=C1OC,2,6e-6,0.00012,0.919967132461105,2.7e-5,7.56863623584101,Cyclic,Pyrazine
+2-Hexanone,591-78-6,CCCCC(=O)C,3,0.0605,0.56,0.557970151990071,0.2667,3.57397698431012,Aliphatic,Ketone
+1-Hepten-3-one,2918-13-0,CCCCC(=O)C=C,1,4e-5,4e-5,NA,4e-5,7.39794000867204,Aliphatic,Ketone
+3-Heptanone,106-35-4,CCCCC(=O)CC,1,0.048,0.048,NA,0.048,4.31875876262441,Aliphatic,Ketone
+5-Nonanone,502-56-7,CCCCC(=O)CCCC,1,0.0246,0.0246,NA,0.0246,4.60906489289662,Aliphatic,Ketone
+Pentanoic acid,109-52-4,CCCCC(=O)O,12,0.28,11,0.541621976073505,3.36,2.47366072261016,Aliphatic,Acid
+Methyl pentanoate,624-24-8,CCCCC(=O)OC,3,0.02,0.0665,0.301256549380047,0.0299,4.52432881167557,Aliphatic,Ester
+Ethyl pentanoate,539-82-2,CCCCC(=O)OCC,1,0.01546,0.01546,NA,0.01546,4.81079051041769,Aliphatic,Ester
+2-Methyl-3-heptanol,18720-62-2,CCCCC(C(C)C)O,1,0.45,0.45,NA,0.45,3.34678748622466,Aliphatic,Ketone
+3-(Acetylthio)-2-propylheptanal,,CCCCC(C(CCC)C=O)SC(=O)C,1,0.05,0.05,NA,0.05,4.30102999566398,Aliphatic,Aldehyde
+2-Methyl-2-hexanol,625-23-0,CCCCC(C)(C)O,1,1.95,1.95,NA,1.95,2.70996538863748,Aliphatic,Alcohol
+2-Methylhexanoic acid,4536-23-6,CCCCC(C)C(=O)O,1,1.81,1.81,NA,1.81,2.74232142513082,Aliphatic,Acid
+Ethyl 2-methylhexanoate,,CCCCC(C)C(=O)OCC,1,0.0025,0.0025,NA,0.0025,5.60205999132796,Aliphatic,Ester
+2-Hexanol,626-93-7,CCCCC(C)O,13,0.0152,1.5082,0.562837720018432,0.96,3.01772876696043,Aliphatic,Alcohol
+2-Ethylhexanoic acid,149-57-5,CCCCC(CC)C(=O)O,1,45,45,NA,45,1.34678748622466,Aliphatic,Acid
+2-Ethylhexanal,123-05-7,CCCCC(CC)C=O,1,0.0126,0.0126,NA,0.0126,4.89962945488244,Aliphatic,Aldehyde
+2-Ethyl-1-hexanol,104-76-7,CCCCC(CC)CO,3,0.027,0.03,0.0264180994926475,0.029,4.53760200210104,Aliphatic,Alcohol
+2-Ethylhexyl 2-propenoate,103-11-7,CCCCC(CC)COC(=O)C=C,1,0.00983,0.00983,NA,0.00983,5.00744648216786,Aliphatic,Ester
+4-Octanol,589-62-8,CCCCC(CCC)O,1,0.61,0.61,NA,0.61,3.21467016498923,Aliphatic,Alcohol
+5-Nonanol,623-93-8,CCCCC(CCCC)O,1,0.1685,0.1685,NA,0.1685,3.77340009479264,Aliphatic,Alcohol
+(Z)-2-Butyl-2-octenal,,CCCCC/C=C(/CCCC)\C=O,1,0.02,0.02,NA,0.02,4.69897000433602,Aliphatic,Aldehyde
+(Z)-6-Dodecenyl-γ-lactone,15456-69-6,CCCCC/C=C/CC1CCC(=O)O1,1,0.0007,0.0007,NA,0.0007,6.15490195998574,Cyclic,Furan
+(E)-8-Tetradecenal,,CCCCC/C=C/CCCCCCC=O,1,9e-6,9e-6,NA,9e-6,8.04575749056067,Aliphatic,Aldehyde
+"6,9-Pentadecadien-2-one",,CCCCC/C=C\C/C=C\CCCC(=O)C,1,0.001,0.001,NA,0.001,6,Aliphatic,Ketone
+(Z)-4-Hydroxy-6-dodecenoic acid lactone,18679-18-0,CCCCC/C=C\CC1CCC(=O)O1,1,0.007175,0.007175,NA,0.007175,5.14417809459397,Cyclic,Ester
+(Z)-8-Tetradecenal,169054-69-7,CCCCC/C=C\CCCCCCC=O,1,0.00124,0.00124,NA,0.00124,5.90657831483777,Aliphatic,Aldehyde
+"trans-4,5-Epoxy-(E)-2-decenal",73528-44-6,CCCCC[C@H]1[C@@H](O1)/C=C/C=O,5,3.8e-5,0.005,0.98932131755918,0.001,6,Cyclic,Others
+"2,4-Nonadienal",6750-03-4,CCCCC=CC=CC=O,2,5e-5,0.0001,0.212860351274558,7.07106781186548e-5,7.15051499783199,Aliphatic,Aldehyde
+2-Heptenal,2463-63-0,CCCCC=CC=O,3,0.013,0.051,0.342730606513974,0.021,4.67778070526608,Aliphatic,Aldehyde
+5-Butyl-4-ethylthiazole,,CCCCC1=C(N=CS1)CC,1,0.00012,0.00012,NA,0.00012,6.92081875395237,Cyclic,Thiazole
+4-Butyl-5-methylthiazole,57246-60-3,CCCCC1=C(SC=N1)C,1,1e-5,1e-5,NA,1e-5,8,Cyclic,Thiazole
+4-Butyl-5-ethylthiazole,57246-62-5,CCCCC1=C(SC=N1)CC,1,2e-5,2e-5,NA,2e-5,7.69897000433602,Cyclic,Thiazole
+4-Butyl-5-propylthiazole,57246-59-0,CCCCC1=C(SC=N1)CCC,2,3e-6,5e-6,0.156870755251482,3.87298334620742e-6,8.41195437047216,Cyclic,Thiazole
+2-Butylfuran,4466-24-4,CCCCC1=CC=CO1,1,0.005,0.005,NA,0.005,5.30102999566398,Cyclic,Furan
+"5-Butyl-2,3-dimethylpyrazine",15834-78-3,CCCCC1=CN=C(C(=N1)C)C,3,0.3,0.77,0.23634957396395,0.56,3.2518119729938,Cyclic,Pyrazine
+2-Butyl-3-methoxypyrazine,32737-11-4,CCCCC1=NC=CN=C1OC,1,5e-5,5e-5,NA,5e-5,7.30102999566398,Cyclic,Pyrazine
+3-Butylphthalide,6066-49-5,CCCCC1C2=CC=CC=C2C(=O)O1,1,0.01,0.01,NA,0.01,5,Cyclic,Polycyclic
+4-Hydroxyoctanoic acid lactone,104-50-7,CCCCC1CCC(=O)O1,1,0.0043,0.0043,NA,0.0043,5.36653154442041,Cyclic,Ester
+Methyl 2-octynoate,111-12-6,CCCCCC#CC(=O)OC,1,0.025,0.025,NA,0.025,4.60205999132796,Aliphatic,Ester
+2-Heptanone,110-43-0,CCCCCC(=O)C,3,0.024,0.14,0.383172056984348,0.06,4.22184874961636,Aliphatic,Ketone
+1-Octen-3-one,4312-99-6,CCCCCC(=O)C=C,1,0.00053,0.00053,NA,0.00053,6.27572413039921,Aliphatic,Ketone
+(E)-2-Nonen-4-one,27743-70-0,CCCCCC(=O)C=CC,1,0.0009,0.0009,NA,0.0009,6.04575749056067,Aliphatic,Ketone
+3-Octanone,106-68-3,CCCCCC(=O)CC,9,0.0214,0.07,0.181627148016608,0.03,4.52287874528034,Aliphatic,Ketone
+1-Nonen-4-one,61168-10-3,CCCCCC(=O)CC=C,1,0.0004,0.0004,NA,0.0004,6.39794000867204,Aliphatic,Ketone
+4-Nonanone,4485-09-0,CCCCCC(=O)CCC,1,0.0246,0.0246,NA,0.0246,4.60906489289662,Aliphatic,Ketone
+6-Undecanone,927-49-1,CCCCCC(=O)CCCCC,1,0.065,0.065,NA,0.065,4.18708664335714,Aliphatic,Ketone
+1-(Methylthio)-3-octanone,,CCCCCC(=O)CCSC,1,0.0055,0.0055,NA,0.0055,5.25963731050576,Aliphatic,Ketone
+Hexanoic acid,142-62-1,CCCCCC(=O)O,1,3,3,NA,3,2.52287874528034,Aliphatic,Acid
+Methyl hexanoate,106-70-7,CCCCCC(=O)OC,1,0.00937,0.00937,NA,0.00937,5.02826040911222,Aliphatic,Ester
+Ethyl hexanoate,123-66-0,CCCCCC(=O)OCC,1,0.00939,0.00939,NA,0.00939,5.02733440773389,Aliphatic,Ester
+(Z)-2-Hexenyl hexanoate,56922-79-3,CCCCCC(=O)OCC=CCCC,1,0.2512,0.2512,NA,0.2512,3.59998036493484,Aliphatic,Ester
+Isopentyl hexanoate,2198-61-0,CCCCCC(=O)OCCC(C)C,1,0.32,0.32,NA,0.32,3.49485002168009,Aliphatic,Ester
+Butyl hexanoate,626-82-4,CCCCCC(=O)OCCCC,1,10,10,NA,10,2,Aliphatic,Ester
+Methyl thiohexanoate,2432-77-1,CCCCCC(=O)SC,1,0.0022,0.0022,NA,0.0022,5.65757731917779,Aliphatic,Ester
+"2,2-Dimethylheptane",1071-26-7,CCCCCC(C)(C)C,1,50,50,NA,50,1.30102999566398,Aliphatic,Hydrocarbon
+2-Methyl-2-heptanol,625-25-2,CCCCCC(C)(C)O,1,0.28,0.28,NA,0.28,3.55284196865778,Aliphatic,Alcohol
+2-Methylheptane,592-27-8,CCCCCC(C)C,1,50,50,NA,50,1.30102999566398,Aliphatic,Hydrocarbon
+2-Methylheptanoic acid,1188-02-9,CCCCCC(C)C(=O)O,1,29.5,29.5,NA,29.5,1.53017798402184,Aliphatic,Acid
+3-Methyloctane,2216-33-3,CCCCCC(C)CC,1,100,100,NA,100,1,Aliphatic,Hydrocarbon
+"(R,S)-2-Heptanethiol",628-00-2,CCCCCC(C)S,1,0.01,0.01,NA,0.01,5,Aliphatic,Sulfur-containing
+1-Octen-3-ol,3391-86-4,CCCCCC(C=C)O,1,0.1637,0.1637,NA,0.1637,3.78595132058806,Aliphatic,Alcohol
+1-Octen-3-yl propanoate,63156-02-5,CCCCCC(C=C)OC(=O)CC,1,0.022,0.022,NA,0.022,4.65757731917779,Aliphatic,Ester
+4-Nonanol,5932-79-6,CCCCCC(CCC)O,1,0.2535,0.2535,NA,0.2535,3.59602203633065,Aliphatic,Alcohol
+(Z)-2-Nonenal,60784-31-8,CCCCCC/C=C\C=O,1,4e-6,4e-6,NA,4e-6,8.39794000867204,Aliphatic,Aldehyde
+(Z)-7-Tetradecenal,65128-96-3,CCCCCC/C=C\CCCCCC=O,1,0.0026,0.0026,NA,0.0026,5.58502665202918,Aliphatic,Aldehyde
+"(E,Z)-1,3,5-Undecatriene",51447-08-6,CCCCCC=CC=CC=C,1,2e-5,2e-5,NA,2e-5,7.69897000433602,Aliphatic,Hydrocarbon
+"2,4-Decadienal",2363-88-4,CCCCCC=CC=CC=O,7,7e-5,0.0003,0.337830618559299,0.000131,6.88272870434424,Aliphatic,Aldehyde
+2-Octenal,2363-89-5,CCCCCC=CC=O,5,0.0002,0.003,0.542636160894885,0.00185,5.73282827159699,Aliphatic,Aldehyde
+Methyl (Z)-4-decenoate,7367-83-1,CCCCCC=CCCC(=O)OC,6,0.003,0.018,0.345487590458277,0.005,5.30102999566398,Aliphatic,Ester
+(E)-4-Decenal,65405-70-1,CCCCCC=CCCC=O,1,1.2e-6,1.2e-6,NA,1.2e-6,8.92081875395237,Aliphatic,Aldehyde
+Hexanal,66-25-1,CCCCCC=O,1,0.045,0.045,NA,0.045,4.34678748622466,Aliphatic,Aldehyde
+2-Pentylpyridine,2294-76-0,CCCCCC1=CC=CC=N1,1,0.0066,0.0066,NA,0.0066,5.18045606445813,Cyclic,Others
+2-Pentylfuran,3777-69-3,CCCCCC1=CC=CO1,1,0.006,0.006,NA,0.006,5.22184874961636,Cyclic,Furan
+"2,3-Dimethyl-5-pentylpyrazine",,CCCCCC1=CN=C(C(=N1)C)C,1,0.1,0.1,NA,0.1,4,Cyclic,Pyrazine
+2-Methoxy-3-pentylpyrazine,32737-12-5,CCCCCC1=NC=CN=C1OC,1,2e-5,2e-5,NA,2e-5,7.69897000433602,Cyclic,Pyrazine
+2-Pentyl-3-phenoxypyrazine,113685-85-1,CCCCCC1=NC=CN=C1OC2=CC=CC=C2,1,0.0009,0.0009,NA,0.0009,6.04575749056067,Cyclic,Polycyclic
+2-Ethoxy-3-pentylpyrazine,113685-82-8,CCCCCC1=NC=CN=C1OCC,1,8e-5,8e-5,NA,8e-5,7.09691001300806,Cyclic,Pyrazine
+2-(Methylthio)-3-pentylpyrazine,113685-87-3,CCCCCC1=NC=CN=C1SC,1,0.00012,0.00012,NA,0.00012,6.92081875395237,Cyclic,Pyrazine
+2-Pentyl-3-(phenylthio)pyrazine,113685-96-4,CCCCCC1=NC=CN=C1SC2=CC=CC=C2,1,0.008,0.008,NA,0.008,5.09691001300806,Cyclic,Polycyclic
+"4,5-Epoxy-(E)-2-decenal",134454-31-2,CCCCCC1C(O1)C=CC=O,4,7e-5,0.00013,0.123923533108986,0.00011,6.95860731484177,Cyclic,Others
+5-Hydroxydecanoic acid lactone,705-86-2,CCCCCC1CCCC(=O)O1,4,0.03,0.066,0.16897133599803,0.0368,4.43415218132648,Cyclic,Ester
+6-Pentyltetrahydro-2H-thiopyran-2-one,,CCCCCC1CCCC(=O)S1,1,0.006,0.006,NA,0.006,5.22184874961636,Cyclic,Ketone
+Heptane,142-82-5,CCCCCCC,1,50,50,NA,50,1.30102999566398,Aliphatic,Hydrocarbon
+2-Octanone,111-13-7,CCCCCCC(=O)C,1,0.03757,0.03757,NA,0.03757,4.42515880493662,Aliphatic,Ketone
+1-Nonen-3-one,24415-26-7,CCCCCCC(=O)C=C,2,8e-8,1e-6,0.775632508549421,2.8e-7,9.55284196865778,Aliphatic,Ketone
+3-Nonanone,925-78-0,CCCCCCC(=O)CC,1,0.02,0.02,NA,0.02,4.69897000433602,Aliphatic,Ketone
+4-Oxodecanal,43160-78-7,CCCCCCC(=O)CCC=O,1,0.012,0.012,NA,0.012,4.92081875395237,Aliphatic,Aldehyde
+5-Undecanone,33083-83-9,CCCCCCC(=O)CCCC,1,0.062,0.062,NA,0.062,4.20760831050175,Aliphatic,Ketone
+Heptanoic acid,111-14-8,CCCCCCC(=O)O,5,3,10.4,0.534938080356141,4.64,2.33348201944512,Aliphatic,Acid
+Methyl heptanoate,106-73-0,CCCCCCC(=O)OC,5,0.004,0.01,0.177964182071506,0.0048,5.31875876262441,Aliphatic,Ester
+Ethyl heptanoate,106-30-9,CCCCCCC(=O)OCC,1,0.066,0.066,NA,0.066,4.18045606445813,Aliphatic,Ester
+Methyl thioheptanoate,,CCCCCCC(=S)OC,1,0.005,0.005,NA,0.005,5.30102999566398,Aliphatic,Ester
+3-Nonanol,624-51-1,CCCCCCC(CC)O,1,0.1685,0.1685,NA,0.1685,3.77340009479264,Aliphatic,Alcohol
+"2,4-Undecadienal",13162-46-4,CCCCCCC=CC=CC=O,1,1e-5,1e-5,NA,1e-5,8,Aliphatic,Aldehyde
+2-Nonenal,2463-53-8,CCCCCCC=CC=O,8,8e-5,0.0001,0.0501556967492094,8.69823710416393e-5,7.06056875813004,Aliphatic,Aldehyde
+Heptanal,111-71-7,CCCCCCC=O,8,0.003,0.55,0.74269134108834,0.0348,4.45842075605342,Aliphatic,Aldehyde
+"4-Hexyl-1,3-dihydroxybenzene",136-77-6,CCCCCCC1=C(C=C(C=C1)O)O,1,2,2,NA,2,2.69897000433602,Cyclic,BenzeneDerivatives
+2-Hexylpyrazine,28217-91-6,CCCCCCC1=NC=CN=C1,1,0.2,0.2,NA,0.2,3.69897000433602,Cyclic,Pyrazine
+2-Hexyl-3-methoxypyrazine,25680-56-2,CCCCCCC1=NC=CN=C1OC,3,1e-6,7e-5,1.06526785008348,4.12128529980856e-6,8.38496731999525,Cyclic,Pyrazine
+4-Hydroxydecanoic acid lactone,706-14-9,CCCCCCC1CCC(=O)O1,6,0.001,0.6,1.01398243602822,0.00845,5.07314329105031,Cyclic,Ester
+Octane,111-65-9,CCCCCCCC,1,10,10,NA,10,2,Aliphatic,Hydrocarbon
+2-Nonanone,821-55-6,CCCCCCCC(=O)C,7,0.005,0.2,0.691010413103294,0.017,4.76955107862173,Aliphatic,Ketone
+3-Decanone,928-80-3,CCCCCCCC(=O)CC,1,0.033,0.033,NA,0.033,4.48148606012211,Aliphatic,Ketone
+4-Undecanone,14476-37-0,CCCCCCCC(=O)CCC,1,0.0576,0.0576,NA,0.0576,4.23957751657679,Aliphatic,Ketone
+Octanoic acid,124-07-2,CCCCCCCC(=O)O,5,1.405,19,0.517020174187259,5.39,2.26841123481326,Aliphatic,Acid
+Ethyl octanoate,106-32-1,CCCCCCCC(=O)OCC,1,0.6654,0.6654,NA,0.6654,3.1769172034672,Aliphatic,Ester
+2-Methylnonane,871-83-0,CCCCCCCC(C)C,1,10,10,NA,10,2,Aliphatic,Hydrocarbon
+3-Decanol,1565-81-7,CCCCCCCC(CC)O,1,0.1948,0.1948,NA,0.1948,3.7104110474574,Aliphatic,Alcohol
+2-Decenal,3913-71-1,CCCCCCCC=CC=O,5,0.0003,0.001,0.286392483630039,0.00062,6.20760831050175,Aliphatic,Aldehyde
+Octanal,124-13-0,CCCCCCCC=O,2,0.0069,0.008,0.0454251733711918,0.0074,5.13076828026902,Aliphatic,Aldehyde
+2-Heptyl-3-methoxypyrazine,113685-79-3,CCCCCCCC1=NC=CN=C1OC,1,2.6e-5,2.6e-5,NA,2.6e-5,7.58502665202918,Cyclic,Pyrazine
+4-Hydroxyundecanoic acid lactone,104-67-6,CCCCCCCC1CCC(=O)O1,1,0.01,0.01,NA,0.01,5,Cyclic,Ester
+Nonane,111-84-2,CCCCCCCCC,1,10,10,NA,10,2,Aliphatic,Hydrocarbon
+2-Decanone,693-54-9,CCCCCCCCC(=O)C,2,0.003,0.02465,0.64678751019662,0.0086,5.06550154875643,Aliphatic,Ketone
+Nonanoic acid,112-05-0,CCCCCCCCC(=O)O,3,3,8.8,0.244016804324293,5.6,2.2518119729938,Aliphatic,Acid
+Ethyl nonanoate,123-29-5,CCCCCCCCC(=O)OCC,1,4.25,4.25,NA,4.25,2.37161106994969,Aliphatic,Ester
+(E)-2-Undecenal,53448-07-0,CCCCCCCCC=CC=O,3,0.00078,0.0014,0.146666270918647,0.0012,5.92081875395237,Aliphatic,Aldehyde
+Nonanal,124-19-6,CCCCCCCCC=O,1,0.021,0.021,NA,0.021,4.67778070526608,Aliphatic,Aldehyde
+2-Methoxy-3-octylpyrazine,113685-80-6,CCCCCCCCC1=NC=CN=C1OC,1,6e-5,6e-5,NA,6e-5,7.22184874961636,Cyclic,Pyrazine
+2-Ethoxy-3-octylpyrazine,113685-83-9,CCCCCCCCC1=NC=CN=C1OCC,1,0.002,0.002,NA,0.002,5.69897000433602,Cyclic,Pyrazine
+4-Hydroxydodecanoic acid lactone,2305-05-7,CCCCCCCCC1CCC(=O)O1,5,0.00043,0.007,0.500570148275289,0.002427,5.61493022366807,Cyclic,Ester
+Decane,124-18-5,CCCCCCCCCC,1,10,10,NA,10,2,Aliphatic,Hydrocarbon
+2-Undecanone,112-12-9,CCCCCCCCCC(=O)C,1,0.0163,0.0163,NA,0.0163,4.78781239559604,Aliphatic,Ketone
+3-Dodecanone,1534-27-6,CCCCCCCCCC(=O)CC,1,0.02515,0.02515,NA,0.02515,4.59946201060805,Aliphatic,Ketone
+Decanoic acid,334-48-5,CCCCCCCCCC(=O)O,1,4.38,4.38,NA,4.38,2.3585258894959,Aliphatic,Acid
+Ethyl decanoate,110-38-3,CCCCCCCCCC(=O)OCC,1,1.31,1.31,NA,1.31,2.88272870434424,Aliphatic,Ester
+2-Methylundecane,7045-71-8,CCCCCCCCCC(C)C,1,10,10,NA,10,2,Aliphatic,Hydrocarbon
+3-Dodecanol,10203-30-2,CCCCCCCCCC(CC)O,1,0.0615,0.0615,NA,0.0615,4.21112488422458,Aliphatic,Alcohol
+(E)-2-Dodecenal,20407-84-5,CCCCCCCCCC=CC=O,1,0.0014,0.0014,NA,0.0014,5.85387196432176,Aliphatic,Aldehyde
+7-Heptadecene,54290-12-9,CCCCCCCCCC=CCCCCCC,1,5.6,5.6,NA,5.6,2.2518119729938,Aliphatic,Hydrocarbon
+Decanal,112-31-2,CCCCCCCCCC=O,1,0.01615,0.01615,NA,0.01615,4.79182747333288,Aliphatic,Aldehyde
+4-Nonylphenol,104-40-5,CCCCCCCCCC1=CC=C(C=C1)O,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+Undecane,1120-21-4,CCCCCCCCCCC,1,10,10,NA,10,2,Aliphatic,Hydrocarbon
+2-Dodecanone,6175-49-1,CCCCCCCCCCC(=O)C,1,0.04,0.04,NA,0.04,4.39794000867204,Aliphatic,Ketone
+Undecanoic acid,112-37-8,CCCCCCCCCCC(=O)O,1,10,10,NA,10,2,Aliphatic,Acid
+2-Dodecanol,10203-28-8,CCCCCCCCCCC(C)O,1,0.0615,0.0615,NA,0.0615,4.21112488422458,Aliphatic,Alcohol
+Undecanal,112-44-7,CCCCCCCCCCC=O,6,0.005,0.1,0.517327927848872,0.0237,4.6252516539899,Aliphatic,Aldehyde
+2-Decyl-3-(methylthio)pyrazine,113685-89-5,CCCCCCCCCCC1=NC=CN=C1SC,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,Pyrazine
+Dodecane,112-40-3,CCCCCCCCCCCC,1,10,10,NA,10,2,Aliphatic,Hydrocarbon
+Lauric acid,143-07-7,CCCCCCCCCCCC(=O)O,1,700,700,NA,700,0.154901959985743,Aliphatic,Acid
+Ethyl dodecanoate,106-33-2,CCCCCCCCCCCC(=O)OCC,5,0.4,5.9,0.605884453776439,1.81,2.74232142513082,Aliphatic,Ester
+Dodecanal,112-54-9,CCCCCCCCCCCC=O,5,0.01,0.055,0.306445352769892,0.0171,4.76700388960785,Aliphatic,Aldehyde
+Tridecanoic acid,638-53-9,CCCCCCCCCCCCC(=O)O,1,10,10,NA,10,2,Aliphatic,Acid
+Tridecanal,10486-19-8,CCCCCCCCCCCCC=O,77,0.01,0.07,0.319417035335119,0.013,4.88605664769316,Aliphatic,Aldehyde
+Tetradecane,629-59-4,CCCCCCCCCCCCCC,1,1,1,NA,1,3,Aliphatic,Hydrocarbon
+Tetradecanoic acid,544-63-8,CCCCCCCCCCCCCC(=O)O,1,10,10,NA,10,2,Aliphatic,Acid
+Ethyl tetradecanoate,124-06-1,CCCCCCCCCCCCCC(=O)OCC,3,0.18,4,0.777568117713025,1.42,2.84771165561694,Aliphatic,Ester
+1-Pentadecene,13360-61-7,CCCCCCCCCCCCCC=C,1,3.6,3.6,NA,3.6,2.44369749923271,Aliphatic,Hydrocarbon
+Pentadecanoic acid,1002-84-2,CCCCCCCCCCCCCCC(=O)O,1,10,10,NA,10,2,Aliphatic,Acid
+Ethyl hexadecanoate,628-97-7,CCCCCCCCCCCCCCCC(=O)OCC,1,2,2,NA,2,2.69897000433602,Aliphatic,Ester
+1-Heptadecene,6765-39-5,CCCCCCCCCCCCCCCC=C,1,8,8,NA,8,2.09691001300806,Aliphatic,Hydrocarbon
+Heptadecanoic acid,506-12-7,CCCCCCCCCCCCCCCCC(=O)O,1,20,20,NA,20,1.69897000433602,Aliphatic,Acid
+Octadecanoic acid,57-11-4,CCCCCCCCCCCCCCCCCC(=O)O,1,20,20,NA,20,1.69897000433602,Aliphatic,Acid
+Nonadecanoic acid,646-30-0,CCCCCCCCCCCCCCCCCCC(=O)O,1,20,20,NA,20,1.69897000433602,Aliphatic,Acid
+Eicosanoic acid,506-30-9,CCCCCCCCCCCCCCCCCCCC(=O)O,1,20,20,NA,20,1.69897000433602,Aliphatic,Acid
+1-Dodecanol,112-53-8,CCCCCCCCCCCCO,2,0.158,0.82,0.505692198446491,0.36,3.44369749923271,Aliphatic,Alcohol
+1-Undecanol,112-42-5,CCCCCCCCCCCO,2,0.248,0.7,0.318655096498892,0.417,3.37986394502624,Aliphatic,Alcohol
+Undecyl acetate,1731-81-3,CCCCCCCCCCCOC(=O)C,1,0.25,0.25,NA,0.25,3.60205999132796,Aliphatic,Ester
+1-Decanol,112-30-1,CCCCCCCCCCO,7,0.047,2.8,0.630534629688975,0.9,3.04575749056068,Aliphatic,Alcohol
+Decyl acetate,112-17-4,CCCCCCCCCCOC(=O)C,1,0.6125,0.6125,NA,0.6125,3.21289390696343,Aliphatic,Ester
+1-Nonanol,143-08-8,CCCCCCCCCO,1,0.368,0.368,NA,0.368,3.43415218132648,Aliphatic,Alcohol
+Nonyl acetate,143-13-5,CCCCCCCCCOC(=O)C,4,0.2,0.6,0.228433975392552,0.28,3.55284196865778,Aliphatic,Ester
+1-Iodooctane,629-27-6,CCCCCCCCI,1,0.0002,0.0002,NA,0.0002,6.69897000433602,Aliphatic,Hydrocarbon
+Octylamine,111-86-4,CCCCCCCCN,1,2.64,2.64,NA,2.64,2.57839607313017,Aliphatic,Nitrogen-containing
+1-Octanol,111-87-5,CCCCCCCCO,6,0.11,1,0.420947008497473,0.32,3.49485002168009,Aliphatic,Alcohol
+Octyl acetate,112-14-1,CCCCCCCCOC(=O)C,1,0.2752,0.2752,NA,0.2752,3.56035157043653,Aliphatic,Ester
+Octyl 2-methylpropanoate,109-15-9,CCCCCCCCOC(=O)C(C)C,1,0.006,0.006,NA,0.006,5.22184874961636,Aliphatic,Ester
+Octyl butanoate,110-39-4,CCCCCCCCOC(=O)CCC,2,0.25,8.2,1.07188467431185,1.43,2.84466396253494,Aliphatic,Ester
+Heptylamine,111-68-2,CCCCCCCN,1,13.8,13.8,NA,13.8,1.86012091359876,Aliphatic,Nitrogen-containing
+1-Heptanol,111-70-6,CCCCCCCO,9,0.33,4.6,0.525478225249181,0.93,3.03151705144606,Aliphatic,Alcohol
+Heptyl isobutyrate,2349-13-5,CCCCCCCOC(=O)C(C)C,1,0.0125,0.0125,NA,0.0125,4.90308998699194,Aliphatic,Ester
+Hexylamine,111-26-2,CCCCCCN,2,3.67,4.84,0.0849795961443465,4.215,2.37520242103924,Aliphatic,Nitrogen-containing
+1-Hexanol,111-27-3,CCCCCCO,12,0.2,10,NA,1.48,2.82973828460504,Aliphatic,Alcohol
+Hexyl acetate,142-92-7,CCCCCCOC(=O)C,9,0.002,0.9,0.470961943874639,0.034,4.46852108295774,Aliphatic,Ester
+Hexyl isobutyrate,2348-07-7,CCCCCCOC(=O)C(C)C,1,0.012,0.012,NA,0.012,4.92081875395237,Aliphatic,Ester
+Hexyl butanoate,2639-63-6,CCCCCCOC(=O)CCC,2,0.203,0.25,0.0639535450410028,0.225,3.64781748188864,Aliphatic,Ester
+Hexyl hexanoate,6378-65-0,CCCCCCOC(=O)CCCCC,1,6.4,6.4,NA,6.4,2.19382002601611,Aliphatic,Ester
+2-(Hexylthio)ethanal,,CCCCCCSCC=O,1,8e-5,8e-5,NA,8e-5,7.09691001300806,Aliphatic,Aldehyde
+Pentylamine,110-58-7,CCCCCN,2,9.21,15.9,0.167681530168384,12.1,1.91721462968355,Aliphatic,Nitrogen-containing
+1-Pentanol,71-41-0,CCCCCO,8,0.12,70,0.967083285721564,2.64,2.57839607313017,Aliphatic,Alcohol
+Pentyl acetate,628-63-7,CCCCCOC(=O)C,1,0.013,0.013,NA,0.013,4.88605664769316,Aliphatic,Ester
+Pentyl 2-methylbutanoate,68039-26-9,CCCCCOC(=O)C(C)CC,1,0.0268,0.0268,NA,0.0268,4.57186520597121,Aliphatic,Ester
+Amyl valerate,2173-56-0,CCCCCOC(=O)CCCC,1,2.3715,2.3715,NA,2.3715,2.62497687101211,Aliphatic,Ester
+1-Pentanethiol,110-66-7,CCCCCS,1,0.0008,0.0008,NA,0.0008,6.09691001300806,Aliphatic,Sulfur-containing
+2-(Pentylthio)ethanal,,CCCCCSCC=O,1,0.0001,0.0001,NA,0.0001,7,Aliphatic,Aldehyde
+Butylamine,109-73-9,CCCCN,1,50,50,NA,50,1.30102999566398,Aliphatic,Nitrogen-containing
+1-Butanol,71-36-3,CCCCO,28,1.4,511,0.798517402091162,34.99,1.45605605751709,Aliphatic,Alcohol
+Butyl acetate,123-86-4,CCCCOC(=O)C,1,0.0487,0.0487,NA,0.0487,4.31247103878537,Aliphatic,Ester
+2-Butyl 2-methylbutanoate,7785-66-2,CCCCOC(=O)C(=CC)C,1,0.0042,0.0042,NA,0.0042,5.3767507096021,Aliphatic,Ester
+Butyl 2-propenoate,141-32-2,CCCCOC(=O)C=C,2,0.0009,0.011,0.0616244802324335,0.01,5,Aliphatic,Ester
+Butyl propanoate,590-01-2,CCCCOC(=O)CC,1,0.0335,0.0335,NA,0.0335,4.47495519296315,Aliphatic,Ester
+Butyl formate,592-84-7,CCCCOC=O,2,0.8,6,0.618761753297939,2.19,2.65955588515988,Aliphatic,Ester
+"2,5-Dimethyl-4-butoxy-3(2H)-furanone",,CCCCOC1=C(OC(C1=O)C)C,1,0.25,0.25,NA,0.25,3.60205999132796,Cyclic,Furan
+2-Butoxyethanol,111-76-2,CCCCOCCO,1,0.88,0.88,NA,0.88,3.05551732784983,Aliphatic,Others
+"3,6-Dioxa-1-decanol",112-34-5,CCCCOCCOCCO,1,0.8,0.8,NA,0.8,3.09691001300806,Aliphatic,Others
+1-Butanethiol,109-79-5,CCCCS,2,0.0011,0.006,0.520966977568165,0.00256,5.59176003468815,Aliphatic,Sulfur-containing
+Propylamine,107-10-8,CCCN,2,62.4,90.1,0.11281195820872,74.98,1.12505456391447,Aliphatic,Nitrogen-containing
+Tripropylamine,102-69-2,CCCN(CCC)CCC,1,5.14,5.14,NA,5.14,2.28903688100472,Aliphatic,Nitrogen-containing
+Ethylpropylamine,20193-20-8,CCCNCC,1,17.4,17.4,NA,17.4,1.7594507517174,Aliphatic,Nitrogen-containing
+Dipropylamine,142-84-7,CCCNCCC,2,22.4,24.8,0.0312567095014124,23.56,1.62782471388494,Aliphatic,Nitrogen-containing
+1-Propanol,71-23-8,CCCO,9,6.08,67,NA,20.71,1.68381990110655,Aliphatic,Alcohol
+Propyl acetate,109-60-4,CCCOC(=O)C,1,2,2,0.408677710625013,2,2.69897000433602,Aliphatic,Ester
+Propyl (E)-2-methyl-2-butenoate,61692-83-9,CCCOC(=O)C(=CC)C,1,0.012,0.012,NA,0.012,4.92081875395237,Aliphatic,Ester
+Propyl 2-methylpropanoate,644-49-5,CCCOC(=O)C(C)C,1,0.000258,0.000258,NA,0.000258,6.58838029403677,Aliphatic,Ester
+Propyl 2-methylbutanoate,37064-20-3,CCCOC(=O)C(C)CC,2,0.0002,0.0002582,0.0784366981181276,0.00023,6.63827216398241,Aliphatic,Ester
+Propyl propanoate,106-36-5,CCCOC(=O)CC,1,0.057,0.057,NA,0.057,4.24412514432751,Aliphatic,Ester
+1-Propanethiol,107-03-9,CCCS,1,0.0031,0.0031,NA,0.0031,5.50863830616573,Aliphatic,Sulfur-containing
+2-(Propylthio)ethanal,,CCCSCC=O,1,7e-5,7e-5,NA,7e-5,7.15490195998574,Aliphatic,Aldehyde
+Ethylamine,75-04-7,CCN,2,10,95.1,0.691678076751008,38.84,1.41072077876403,Aliphatic,Nitrogen-containing
+Triethylamine,121-44-8,CCN(CC)CC,1,2.21,2.21,NA,2.21,2.65560772631489,Aliphatic,Nitrogen-containing
+N-Ethylmethylamine,624-78-2,CCNC,1,9.02,9.02,NA,9.02,2.04479346245806,Aliphatic,Nitrogen-containing
+Diethylamine,109-89-7,CCNCC,2,12.1,21.2,0.172216203473269,16.02,1.79533748825178,Aliphatic,Nitrogen-containing
+Ethanol,64-17-5,CCO,12,3.63,1150,0.927186947806767,97.57,1.01068369501005,Aliphatic,Alcohol
+Ethyl acetate,141-78-6,CCOC(=O)C,2,3,3.28,0.0274022184647901,3.14,2.50307035192679,Aliphatic,Ester
+Ethyl 2-methyl-2-propenoate,97-63-2,CCOC(=O)C(=C)C,1,0.026,0.026,NA,0.026,4.58502665202918,Aliphatic,Ester
+Ethyl (Z)-2-methyl-2-butenoate,16509-44-7,CCOC(=O)C(=CC)C,1,6e-5,6e-5,NA,6e-5,7.22184874961636,Aliphatic,Ester
+"Ethyl 3-(3,4-dimethylphenyl)-3-methyl-2,3-epoxypropanoate",3938-95-2,CCOC(=O)C(C)(C)C,1,0.0002,0.0002,NA,0.0002,6.69897000433602,Aliphatic,Ester
+Ethyl 2-methylpropanoate,97-62-1,CCOC(=O)C(C)C,1,0.0026,0.0026,NA,0.0026,5.58502665202918,Aliphatic,Ester
+"Ethyl 2-methyl-3,4-pentadienoate",60523-21-9,CCOC(=O)C(C)C=C=C,1,5e-5,5e-5,NA,5e-5,7.30102999566398,Aliphatic,Ester
+Ethyl 2-methyl-4-pentenoate,53399-81-8,CCOC(=O)C(C)CC=C,1,1e-5,1e-5,NA,1e-5,8,Aliphatic,Ester
+Ethyl 2-hydroxypropanoate,97-64-3,CCOC(=O)C(C)O,1,150,150,NA,150,0.823908740944319,Aliphatic,Ester
+Ethyl 2-mercaptopropanoate,19788-49-9,CCOC(=O)C(C)S,1,0.001,0.001,NA,0.001,6,Aliphatic,Ester
+Ethyl cinnamate,103-36-6,CCOC(=O)C=CC1=CC=CC=C1,1,0.016,0.016,NA,0.016,4.79588001734407,Cyclic,BenzeneDerivatives
+"Ethyl 3-methyl-3-phenyl-2,3-epoxypropanoate",77-83-8,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2,1,1,1,NA,1,3,Cyclic,Polycyclic
+"Ethyl 3-phenyl-2,3-epoxypropanoate",121-39-1,CCOC(=O)C1C(O1)C2=CC=CC=C2,1,8.5,8.5,NA,8.5,2.07058107428571,Cyclic,Polycyclic
+Ethyl 3-cyclohexenecarboxylate,15111-56-5,CCOC(=O)C1CCC=CC1,1,3e-6,3e-6,NA,3e-6,8.52287874528034,Cyclic,Ester
+Ethyl cyclobutanecarboxylate,14924-53-9,CCOC(=O)C1CCC1,1,1e-5,1e-5,NA,1e-5,8,Cyclic,Ester
+Ethyl cyclopentanecarboxylate,5453-85-0,CCOC(=O)C1CCCC1,1,1e-6,1e-6,NA,1e-6,9,Cyclic,Ester
+Ethyl cyclohexanecarboxylate,3289-28-9,CCOC(=O)C1CCCCC1,1,1e-6,1e-6,NA,1e-6,9,Cyclic,Ester
+Ethyl cycloheptanecarboxylate,32777-26-7,CCOC(=O)C1CCCCCC1,1,2e-6,2e-6,NA,2e-6,8.69897000433602,Cyclic,Ester
+Ethyl cyclooctanecarboxylate,,CCOC(=O)C1CCCCCCC1,1,4e-6,4e-6,NA,4e-6,8.39794000867204,Cyclic,Ester
+Ethyl 3-methyl-3-butenoate,1617-19-2,CCOC(=O)CC(=C)C,1,0.00022,0.00022,NA,0.00022,6.65757731917779,Aliphatic,Ester
+Ethyl acetoacetate,141-97-9,CCOC(=O)CC(=O)C,1,0.52,0.52,NA,0.52,3.2839966563652,Aliphatic,Ester
+"Ethyl 3,3-dimethylbutanoate",,CCOC(=O)CC(C)(C)C,1,3e-6,3e-6,NA,3e-6,8.52287874528034,Aliphatic,Ester
+3-Methylethyl butanoate,108-64-5,CCOC(=O)CC(C)C,10,1e-5,0.0002605,0.564558857699794,5.20157773230926e-5,7.28386490703664,Aliphatic,Ester
+Ethyl 3-hydroxybutanoate,5405-41-4,CCOC(=O)CC(C)O,1,2.5,2.5,NA,2.5,2.60205999132796,Aliphatic,Ester
+Ethyl cyclohexylacetate,5452-75-5,CCOC(=O)CC1CCCCC1,1,2e-5,2e-5,NA,2e-5,7.69897000433602,Cyclic,Ester
+Ethyl 4-methyl-4-pentenoate,4911-54-0,CCOC(=O)CCC(=C)C,1,3e-5,3e-5,NA,3e-5,7.52287874528034,Aliphatic,Ester
+Ethyl 4-methylpentanoate,25415-67-2,CCOC(=O)CCC(C)C,2,0.00087,0.0043,0.4906961872127,0.00193,5.71444269099223,Aliphatic,Ester
+Ethyl 4-hydroxybutanoate,999-10-0,CCOC(=O)CCCO,1,45,45,NA,45,1.34678748622466,Aliphatic,Ester
+Ethyl 4-(methylthio)butanoate,22014-48-8,CCOC(=O)CCCSC,2,0.0087,0.044,0.497756097520622,0.02,4.69897000433602,Aliphatic,Ester
+Ethyl 3-(methylthio)propanoate,13327-56-5,CCOC(=O)CCSC,2,0.007,0.00845,0.0578121092250322,0.00769,5.11407366019857,Aliphatic,Ester
+Ethyl 2-(methylthio)acetate,4455-13-4,CCOC(=O)CSC,1,0.025,0.025,NA,0.025,4.60205999132796,Aliphatic,Ester
+Ethyl formate,109-94-4,CCOC=O,1,50,50,NA,50,1.30102999566398,Aliphatic,Ester
+trans-2-Ethoxy-5-(1-propenyl)phenol,94-86-0,CCOC1=C(C=C(C=C1)C=CC)O,1,0.16,0.16,NA,0.16,3.79588001734407,Cyclic,BenzeneDerivatives
+3-Ethoxy-4-hydroxybenzaldehyde,121-32-4,CCOC1=C(C=CC(=C1)C=O)O,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+2-Ethoxy-6-methylpyrazine,53163-97-6,CCOC1=NC(=CN=C1)C,1,0.005,0.005,NA,0.005,5.30102999566398,Cyclic,Pyrazine
+2-Ethoxy-3-methylpyrazine,32737-14-7,CCOC1=NC=CN=C1C,1,0.0008,0.0008,NA,0.0008,6.09691001300806,Cyclic,Pyrazine
+2-Ethoxyethanol,110-80-5,CCOCCO,4,23.5,525,0.564025570917061,132.523,0.877708741302766,Aliphatic,Others
+2-Ethoxyethyl acetate,111-15-9,CCOCCOC(=O)C,1,27.5,27.5,NA,27.5,1.56066730616974,Aliphatic,Ester
+"3,6-Dioxa-1-octanol",111-90-0,CCOCCOCCO,1,1.6,1.6,NA,1.6,2.79588001734407,Aliphatic,Others
+O-Ethyl O-4-nitrophenyl phenylphosphonothioate,2104-64-5,CCOP(=S)(C1=CC=CC=C1)OC2=CC=C(C=C2)[N+](=O)[O-],1,0.018,0.018,NA,0.018,4.74472749489669,Cyclic,Polycyclic
+"O,O-Diethyl O-(4-nitrophenyl)phosphorothioate",56-38-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-],1,0.04,0.04,NA,0.04,4.39794000867204,Cyclic,BenzeneDerivatives
+"O,O-Diethyl O-(3-chloro-4-methyl-7-coumarinyl)phosphorothioate",56-72-4,CCOP(=S)(OCC)OC1=CC2=C(C=C1)C(=C(C(=O)O2)Cl)C,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,Polycyclic
+"O,O-Diethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate",2921-88-2,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,1,0.0012,0.0012,NA,0.0012,5.92081875395237,Cyclic,Others
+Ethanethiol,75-08-1,CCS,1,0.002,0.002,NA,0.002,5.69897000433602,Aliphatic,Sulfur-containing
+"2-(Ethylthio)-3,6-dimethylpyrazine",59021-09-9,CCSC1=NC(=CN=C1C)C,1,0.021,0.021,NA,0.021,4.67778070526608,Cyclic,Pyrazine
+(Ethylthio)ethane,352-93-2,CCSCC,1,0.0048,0.0048,NA,0.0048,5.31875876262441,Aliphatic,Sulfur-containing
+Ethyldithioethane,110-81-6,CCSSCC,1,1.5e-5,1.5e-5,NA,1.5e-5,7.82390874094432,Aliphatic,Sulfur-containing
+Chlorine,7782-50-5,ClCl,1,0.3,0.3,NA,0.3,3.52287874528034,Aliphatic,Others
+Methylamine,74-89-5,CN,1,47.6,47.6,NA,47.6,1.32239304727951,Aliphatic,Nitrogen-containing
+Trimethylamine,75-50-3,CN(C)C,1,4.059,4.059,NA,4.059,2.39158094868271,Aliphatic,Nitrogen-containing
+"N’-(3,4-Dichlorophenyl)-N,N-Dimethylurea",330-54-1,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,1,1,1,NA,1,3,Cyclic,BenzeneDerivatives
+"N’-(4-Chlorophenyl)-N,N-Dimethylurea",150-68-5,CN(C)C(=O)NC1=CC=C(C=C1)Cl,1,5,5,NA,5,2.30102999566398,Cyclic,BenzeneDerivatives
+Methyl isothiocyanate,556-61-6,CN=C=S,1,12.6,12.6,NA,12.6,1.89962945488244,Aliphatic,Others
+(R)-(+)-3-(1-Methyl-2-pyrrolidinyl)pyridine,,CN1CCC[C@@H]1C2=CN=CC=C2,1,71,71,NA,71,1.14874165128092,Cyclic,Polycyclic
+(S)-(-)-3-(1-Methyl-2-pyrrolidinyl)pyridine,54-11-5,CN1CCCC1C2=CN=CC=C2,3,119,1235,0.568995990135972,272,0.565431095965801,Cyclic,Polycyclic
+N-Methylpiperidine,626-67-5,CN1CCCCC1,1,1.17,1.17,NA,1.17,2.93181413825384,Cyclic,Others
+Dimethylamine,124-40-3,CNC,4,17.6,34.4,0.128453663812942,25.5,1.59345981956604,Aliphatic,Nitrogen-containing
+1-Naphthyl N-methylcarbamate,63-25-2,CNC(=O)OC1=CC=CC2=CC=CC=C21,1,0.28,0.28,NA,0.28,3.55284196865778,Cyclic,Polycyclic
+Methyl N-methyl anthranilate,85-91-6,CNC1=CC=CC=C1C(=O)OC,1,0.349,0.349,NA,0.349,3.45717457304082,Cyclic,BenzeneDerivatives
+Methanol,67-56-1,CO,7,10,2000,0.928401990678241,119,0.924453038607469,Aliphatic,Alcohol
+"Methyl 3-phenyl-2,3-epoxypropanoate",,COC(=O)[C@H]1[C@H](O1)C2=CC=CC=C2,1,15,15,NA,15,1.82390874094432,Cyclic,Polycyclic
+Methyl 3-hydroxybenzoate,19438-10-9,COC(=O)C1=CC(=CC=C1)O,1,2,2,NA,2,2.69897000433602,Cyclic,BenzeneDerivatives
+Methyl 4-hydroxybenzoate,99-76-3,COC(=O)C1=CC=C(C=C1)O,1,2.6,2.6,NA,2.6,2.58502665202918,Cyclic,BenzeneDerivatives
+Methyl benzoate,93-58-3,COC(=O)C1=CC=CC=C1,1,0.006601,0.006601,NA,0.006601,5.18039026724841,Cyclic,BenzeneDerivatives
+"trans-Methyl 3-phenyl-2,3-epoxypropanoate",19190-80-8,COC(=O)C1C(O1)C2=CC=CC=C2,2,17,59,0.382122689699749,31.67,1.49935193662809,Cyclic,Polycyclic
+Methyl formate,107-31-3,COC=O,1,340,340,NA,340,0.468521082957745,Aliphatic,Ester
+"2,3-Dichloro-4-hydroxy-5-methoxybenzaldehyde",18268-69-4,COC1=C(C(=C(C(=C1)C=O)Cl)Cl)O,1,7.5,7.5,NA,7.5,2.1249387366083,Cyclic,BenzeneDerivatives
+Pentabromoanisole,1825-26-9,COC1=C(C(=C(C(=C1Br)Br)Br)Br)Br,1,4.3e-5,4.3e-5,NA,4.3e-5,7.36653154442041,Cyclic,BenzeneDerivatives
+Pentachloroanisole,1825-21-4,COC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,4,0.00024,0.004,0.645319901040085,0.0011,5.95860731484177,Cyclic,BenzeneDerivatives
+2-Methoxytetrachlorophenol,2539-17-5,COC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O,1,0.88,0.88,NA,0.88,3.05551732784983,Cyclic,BenzeneDerivatives
+"2,3,4-Trichloroanisole",54135-80-7,COC1=C(C(=C(C=C1)Cl)Cl)Cl,1,1.1e-6,1.1e-6,NA,1.1e-6,8.95860731484177,Cyclic,BenzeneDerivatives
+"2,3,4,6-Tetrachloroanisole",938-22-7,COC1=C(C(=C(C=C1Cl)Cl)Cl)Cl,3,1.1e-6,4e-6,0.32370142014292,2.60118289370277e-6,8.58482911072862,Cyclic,BenzeneDerivatives
+5-Chloro-4-hydroxy-3-methoxybenzaldehyde,19463-48-0,COC1=C(C(=CC(=C1)C=O)Cl)O,1,3.8,3.8,NA,3.8,2.42021640338319,Cyclic,BenzeneDerivatives
+"4,6-Dichloro-2-methoxyphenol",16766-31-7,COC1=C(C(=CC(=C1)Cl)Cl)O,1,0.0115,0.0115,NA,0.0115,4.93930215964639,Cyclic,BenzeneDerivatives
+"2,6-Dimethoxyphenol",91-10-1,COC1=C(C(=CC=C1)OC)O,1,1.85,1.85,NA,1.85,2.73282827159699,Cyclic,BenzeneDerivatives
+"4-Allyl-1,2-dimethoxybenzene",93-15-2,COC1=C(C=C(C=C1)CC=C)OC,5,0.068,8.5,0.879773388438065,0.48,3.31875876262441,Cyclic,BenzeneDerivatives
+"2,4-Dichloroanisole",553-82-2,COC1=C(C=C(C=C1)Cl)Cl,3,0.0004,0.0019,0.365935971365273,0.00072,6.14266750356873,Cyclic,BenzeneDerivatives
+"2,4,6-Tribromoanisole",607-99-8,COC1=C(C=C(C=C1Br)Br)Br,1,3e-6,3e-6,NA,3e-6,8.52287874528034,Cyclic,BenzeneDerivatives
+"2,4,6-Trichloroanisole",87-40-1,COC1=C(C=C(C=C1Cl)Cl)Cl,1,4.6e-6,4.6e-6,NA,4.6e-6,8.33724216831843,Cyclic,BenzeneDerivatives
+Methyl 4-hydroxy-3-methoxybenzoate,3943-74-6,COC1=C(C=CC(=C1)C(=O)OC)O,1,0.79,0.79,NA,0.79,3.10237290870956,Cyclic,BenzeneDerivatives
+4-Ethenyl-2-methoxyphenol,7786-61-0,COC1=C(C=CC(=C1)C=C)O,1,0.1,0.1,NA,0.1,4,Cyclic,BenzeneDerivatives
+Ferulic acid,1135-24-6,COC1=C(C=CC(=C1)C=CC(=O)O)O,1,62,62,NA,62,1.20760831050175,Cyclic,BenzeneDerivatives
+Vanillin,121-33-5,COC1=C(C=CC(=C1)C=O)O,1,4,4,NA,4,2.39794000867204,Cyclic,BenzeneDerivatives
+4-Allyl-2-methoxyphenol,97-53-0,COC1=C(C=CC(=C1)CC=C)O,2,0.04,0.06,0.124515323385949,0.049,4.30980391997149,Cyclic,BenzeneDerivatives
+4-Chloro-2-methoxyphenol,16766-30-6,COC1=C(C=CC(=C1)Cl)O,1,0.0042,0.0042,NA,0.0042,5.3767507096021,Cyclic,BenzeneDerivatives
+"2,3,6-Tribromoanisole",,COC1=C(C=CC(=C1Br)Br)Br,1,1.05e-5,1.05e-5,NA,1.05e-5,7.97881070093006,Cyclic,BenzeneDerivatives
+"2,6-Dibromo-3-chloroanisole",,COC1=C(C=CC(=C1Br)Cl)Br,1,2e-6,2e-6,NA,2e-6,8.69897000433602,Cyclic,BenzeneDerivatives
+"2,3,6-Trichloroanisole",50375-10-5,COC1=C(C=CC(=C1Cl)Cl)Cl,1,5e-6,5e-6,NA,5e-6,8.30102999566398,Cyclic,BenzeneDerivatives
+"2,6-Dichloroanisole",1984-65-2,COC1=C(C=CC=C1Cl)Cl,1,4e-5,4e-5,NA,4e-5,7.39794000867204,Cyclic,BenzeneDerivatives
+"4,5-Dichloro-2-methoxyphenol",2460-49-3,COC1=CC(=C(C=C1O)Cl)Cl,1,0.0025,0.0025,NA,0.0025,5.60205999132796,Cyclic,BenzeneDerivatives
+"4-Hydroxy-3,5-dimethoxybenzaldehyde",134-96-3,COC1=CC(=CC(=C1O)OC)C=O,1,1.9,1.9,NA,1.9,2.72124639904717,Cyclic,BenzeneDerivatives
+"4-Allyl-2,6-dimethoxyphenol",6627-88-9,COC1=CC(=CC(=C1O)OC)CC=C,1,1.2,1.2,NA,1.2,2.92081875395238,Cyclic,BenzeneDerivatives
+"5-Allyl-1-methoxy-2,3-(methylenedioxy)benzene",607-91-0,COC1=CC(=CC2=C1OCO2)CC=C,6,0.025,0.088,0.26417298555557,0.04,4.39794000867204,Cyclic,Polycyclic
+4-Methoxybenzaldehyde,123-11-5,COC1=CC=C(C=C1)C=O,7,0.027,0.047,0.113402582267169,0.038,4.42021640338319,Cyclic,BenzeneDerivatives
+1-Allyl-4-methoxybenzene,140-67-0,COC1=CC=C(C=C1)CC=C,6,0.006,0.035,0.243220388219801,0.0155,4.80966830182971,Cyclic,BenzeneDerivatives
+4-Chloroanisole,623-12-1,COC1=CC=C(C=C1)Cl,1,0.02,0.02,NA,0.02,4.69897000433602,Cyclic,BenzeneDerivatives
+Methoxybenzene,100-66-3,COC1=CC=CC=C1,6,0.05,0.21,0.238441539445264,0.1496,3.82506840647156,Cyclic,BenzeneDerivatives
+Methoxypyrazine,3149-28-8,COC1=NC=CN=C1,3,0.4,0.7,0.140318082832353,0.58,3.23657200643706,Cyclic,Pyrazine
+2-Methoxyethanol,109-86-4,COCCO,1,100,100,NA,100,1,Aliphatic,Others
+Methyl thiocyanate,556-64-9,CSC#N,1,10,10,NA,10,2,Aliphatic,Others
+2-(Methylthio)benzothiazole,615-22-5,CSC1=NC2=CC=CC=C2S1,2,0.005,0.0075,0.124515323385949,0.00612,5.21324857785444,Cyclic,Polycyclic
+Methional,3268-49-3,CSCCC=O,1,0.0002,0.0002,NA,0.0002,6.69897000433602,Aliphatic,Aldehyde
+3-(Methylthio)-1-propanol,505-10-2,CSCCCO,1,0.4,0.4,NA,0.4,3.39794000867204,Aliphatic,Sulfur-containing
+2-(Methylthiomethyl)ethanal,,CSCSCC=O,1,3e-5,3e-5,NA,3e-5,7.52287874528034,Aliphatic,Aldehyde
+Methyl(methylthio)dithiomethan,423474-44-2,CSCSSC,1,0.0008,0.0008,NA,0.0008,6.09691001300806,Aliphatic,Sulfur-containing
+"2,4,5,7-Tetrathiaoctane",,CSCSSCSC,1,0.0035,0.0035,NA,0.0035,5.45593195564972,Aliphatic,Sulfur-containing
+Dimethyl disulphide,624-92-0,CSSC,5,0.0002,0.012,0.695427711910205,0.0051,5.29242982390206,Aliphatic,Sulfur-containing
+2-[(Methyldithio)methyl]furan,57500-00-2,CSSCC1=CC=CO1,1,4e-5,4e-5,NA,4e-5,7.39794000867204,Cyclic,Furan
+Methyltrithiomethane,3658-80-8,CSSSC,1,6e-5,6e-5,NA,6e-5,7.22184874961636,Aliphatic,Sulfur-containing
+Methyltetrathiomethane,5756-24-1,CSSSSC,1,2e-5,2e-5,NA,2e-5,7.69897000433602,Aliphatic,Sulfur-containing
+Ammonia,7664-41-7,N,2,23.9,110,0.468808107806264,51.27,1.2901366825596,Aliphatic,Others
+Dichloramine,3400-09-7,N(Cl)Cl,1,0.36,0.36,NA,0.36,3.44369749923271,Aliphatic,Nitrogen-containing
+4-tert-Pentylanisole,,O(C)C1C=CC(=CC=1)C(C)(C)CC,1,0.031,0.031,NA,0.031,4.50863830616573,Cyclic,BenzeneDerivatives
+Sulphur dioxide,7446-09-5,O=S=O,1,75,75,NA,75,1.1249387366083,Aliphatic,Others
+3-Hydroxy-4-methyl-5-propyl-2(5H)-furanone,28664-37-1,O1C(C(=C(C)C1CCC)O)=O,1,0.3,0.3,NA,0.3,3.52287874528034,Cyclic,Furan
